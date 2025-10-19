@@ -1,0 +1,6 @@
+standardized_city,AQI_mean,AQI_std,AQI_min,AQI_max,AQI_count,PM2.5_mean,PM10_mean,air_quality_category
+Bangalore,251.49,144.76,0.1,499.7,5679,249.87,298.89,Very Unhealthy
+Bombay,250.69,144.35,0.0,499.7,5658,250.12,301.63,Very Unhealthy
+Calcutta,251.03,143.51,0.0,499.7,5654,251.57,301.02,Very Unhealthy
+Delhi,252.75,144.13,0.1,499.7,5630,250.63,296.33,Very Unhealthy
+Madras,249.26,143.87,0.3,499.7,5644,250.85,299.03,Very Unhealthy

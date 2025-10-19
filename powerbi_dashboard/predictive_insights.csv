@@ -1,0 +1,4 @@
+prediction_type,scenario,description,predicted_value,unit
+Air Quality,current_conditions,Maintaining current pollution levels,248.56797887851846,AQI
+Air Quality,improved_conditions,20% reduction in major pollutants,248.17245241525467,AQI
+Traffic,Rush Hour Average,Average congestion during peak hours,0.56,Congestion Index

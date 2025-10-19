@@ -1,0 +1,502 @@
+{
+  "air_quality_analysis": {
+    "overall_statistics": {
+      "total_measurements": 28265,
+      "cities_covered": 5,
+      "avg_aqi": 251.0452821510702,
+      "max_aqi": 499.7,
+      "min_aqi": 0.0,
+      "aqi_std": 144.1212395970571
+    },
+    "city_comparisons": {
+      "most_polluted": {
+        "Delhi": {
+          "count": 5630,
+          "mean": 252.75,
+          "std": 144.13,
+          "min": 0.1,
+          "max": 499.7
+        },
+        "Bangalore": {
+          "count": 5679,
+          "mean": 251.49,
+          "std": 144.76,
+          "min": 0.1,
+          "max": 499.7
+        },
+        "Calcutta": {
+          "count": 5654,
+          "mean": 251.03,
+          "std": 143.51,
+          "min": 0.0,
+          "max": 499.7
+        },
+        "Bombay": {
+          "count": 5658,
+          "mean": 250.69,
+          "std": 144.35,
+          "min": 0.0,
+          "max": 499.7
+        },
+        "Madras": {
+          "count": 5644,
+          "mean": 249.26,
+          "std": 143.87,
+          "min": 0.3,
+          "max": 499.7
+        }
+      },
+      "cleanest": {
+        "Madras": {
+          "count": 5644,
+          "mean": 249.26,
+          "std": 143.87,
+          "min": 0.3,
+          "max": 499.7
+        },
+        "Bombay": {
+          "count": 5658,
+          "mean": 250.69,
+          "std": 144.35,
+          "min": 0.0,
+          "max": 499.7
+        },
+        "Calcutta": {
+          "count": 5654,
+          "mean": 251.03,
+          "std": 143.51,
+          "min": 0.0,
+          "max": 499.7
+        },
+        "Bangalore": {
+          "count": 5679,
+          "mean": 251.49,
+          "std": 144.76,
+          "min": 0.1,
+          "max": 499.7
+        },
+        "Delhi": {
+          "count": 5630,
+          "mean": 252.75,
+          "std": 144.13,
+          "min": 0.1,
+          "max": 499.7
+        }
+      }
+    },
+    "temporal_trends": {
+      "recent_trend_direction": "improving",
+      "seasonal_pattern": "no_clear_pattern",
+      "monthly_averages": {
+        "1.0": 251.83838709677417,
+        "2.0": 249.7018584070796,
+        "3.0": 256.45040322580644,
+        "4.0": 251.27475,
+        "5.0": 252.38338709677421,
+        "6.0": 249.18433333333334,
+        "7.0": 242.7676612903226,
+        "8.0": 249.37879032258064,
+        "9.0": 247.05683333333334,
+        "10.0": 248.1039408866995,
+        "11.0": 246.2884761904762,
+        "12.0": 257.1772350230415
+      }
+    },
+    "pollution_hotspots": {},
+    "aqi_distribution": {
+      "Satisfactory": 16.9,
+      "Severe": 16.8,
+      "Poor": 16.7,
+      "Good": 16.7,
+      "Very Poor": 16.4,
+      "Moderate": 16.4
+    },
+    "pollutant_analysis": {
+      "PM2.5": {
+        "mean": 250.60697096762783,
+        "max": 499.3736000000004,
+        "cities_exceeding_standards": 5
+      },
+      "PM10": {
+        "mean": 299.38366177251015,
+        "max": 599.4,
+        "cities_exceeding_standards": 5
+      },
+      "NO2": {
+        "mean": 75.18387051123295,
+        "max": 149.8,
+        "cities_exceeding_standards": 5
+      },
+      "SO2": {
+        "mean": 49.81787723332743,
+        "max": 100.0,
+        "cities_exceeding_standards": 5
+      },
+      "O3": {
+        "mean": 100.17700689899169,
+        "max": 200.0,
+        "cities_exceeding_standards": 0
+      }
+    }
+  },
+  "traffic_patterns": {
+    "overall_metrics": {
+      "total_observations": 5000,
+      "avg_vehicle_count": 153.9212,
+      "avg_speed": 42.111096176141764,
+      "avg_road_occupancy": 54.7483969047372,
+      "avg_congestion_index": 0.5663270105620982
+    },
+    "temporal_patterns": {
+      "peak_hours": [
+        19,
+        10,
+        1
+      ],
+      "off_peak_hours": [
+        9,
+        15,
+        0
+      ],
+      "hourly_averages": {
+        "0": 145.9,
+        "1": 160.7,
+        "2": 155.9,
+        "3": 159.4,
+        "4": 152.7,
+        "5": 158.3,
+        "6": 153.4,
+        "7": 153.8,
+        "8": 156.5,
+        "9": 142.9,
+        "10": 162.9,
+        "11": 151.7,
+        "12": 152.6,
+        "13": 153.6,
+        "14": 147.6,
+        "15": 145.0,
+        "16": 154.5,
+        "17": 157.0,
+        "18": 155.9,
+        "19": 171.1,
+        "20": 152.1,
+        "21": 151.8,
+        "22": 151.4,
+        "23": 147.0
+      },
+      "day_of_week": {
+        "fastest_days": [
+          5,
+          0,
+          4
+        ],
+        "slowest_days": [
+          6,
+          2,
+          1
+        ],
+        "daily_speeds": {
+          "0": 42.6,
+          "1": 42.1,
+          "2": 41.8,
+          "3": 42.1,
+          "4": 42.2,
+          "5": 42.8,
+          "6": 41.2
+        }
+      }
+    },
+    "congestion_analysis": {
+      "intensity_distribution": {
+        "High": 35.4,
+        "Medium": 33.6,
+        "Very High": 16.3,
+        "Low": 14.8
+      }
+    },
+    "weather_impact": {
+      "speed_by_weather": {
+        "Clear": 41.7,
+        "Fog": 41.0,
+        "Rain": 42.5,
+        "Snow": 43.2
+      },
+      "worst_weather_for_traffic": "Fog",
+      "best_weather_for_traffic": "Snow"
+    }
+  },
+  "demographic_trends": {
+    "population_insights": {
+      "total_cities": 1704,
+      "total_population": 2126116191,
+      "average_city_size": 2654327,
+      "largest_city": "Tokyo",
+      "largest_population": 37115035
+    },
+    "growth_patterns": {
+      "avg_growth_rate": 0.02005131086142322,
+      "fastest_growing": "Bujumbura",
+      "fastest_growth_rate": 0.0582,
+      "declining_cities_count": 33,
+      "high_growth_cities": 389
+    },
+    "top_cities": {
+      "top_20_by_population": [
+        {
+          "City": "Tokyo",
+          "Country": "Japan",
+          "Population (2024)": 37115035.0,
+          "Growth Rate": -0.0021
+        },
+        {
+          "City": "Delhi",
+          "Country": "India",
+          "Population (2024)": 33807403.0,
+          "Growth Rate": 0.0263
+        },
+        {
+          "City": "Shanghai",
+          "Country": "China",
+          "Population (2024)": 29867918.0,
+          "Growth Rate": 0.0225
+        },
+        {
+          "City": "Dhaka",
+          "Country": "Bangladesh",
+          "Population (2024)": 23935652.0,
+          "Growth Rate": 0.0313
+        },
+        {
+          "City": "Sao Paulo",
+          "Country": "Brazil",
+          "Population (2024)": 22806704.0,
+          "Growth Rate": 0.0083
+        },
+        {
+          "City": "Cairo",
+          "Country": "Egypt",
+          "Population (2024)": 22623874.0,
+          "Growth Rate": 0.0199
+        },
+        {
+          "City": "Mexico City",
+          "Country": "Mexico",
+          "Population (2024)": 22505315.0,
+          "Growth Rate": 0.01
+        },
+        {
+          "City": "Beijing",
+          "Country": "China",
+          "Population (2024)": 22189082.0,
+          "Growth Rate": 0.0194
+        },
+        {
+          "City": "Mumbai",
+          "Country": "India",
+          "Population (2024)": 21673149.0,
+          "Growth Rate": 0.0177
+        },
+        {
+          "City": "Osaka",
+          "Country": "Japan",
+          "Population (2024)": 18967459.0,
+          "Growth Rate": -0.0024
+        },
+        {
+          "City": "Chongqing",
+          "Country": "China",
+          "Population (2024)": 17773923.0,
+          "Growth Rate": 0.025
+        },
+        {
+          "City": "Karachi",
+          "Country": "Pakistan",
+          "Population (2024)": 17648555.0,
+          "Growth Rate": 0.0239
+        },
+        {
+          "City": "Kinshasa",
+          "Country": "DR Congo",
+          "Population (2024)": 17032322.0,
+          "Growth Rate": 0.0439
+        },
+        {
+          "City": "Lagos",
+          "Country": "Nigeria",
+          "Population (2024)": 16536018.0,
+          "Growth Rate": 0.037
+        },
+        {
+          "City": "Istanbul",
+          "Country": "Turkey",
+          "Population (2024)": 16047350.0,
+          "Growth Rate": 0.0126
+        },
+        {
+          "City": "Buenos Aires",
+          "Country": "Argentina",
+          "Population (2024)": 15618288.0,
+          "Growth Rate": 0.0083
+        },
+        {
+          "City": "Kolkata",
+          "Country": "India",
+          "Population (2024)": 15570786.0,
+          "Growth Rate": 0.0155
+        },
+        {
+          "City": "Manila",
+          "Country": "Philippines",
+          "Population (2024)": 14941953.0,
+          "Growth Rate": 0.0187
+        },
+        {
+          "City": "Guangzhou",
+          "Country": "China",
+          "Population (2024)": 14590096.0,
+          "Growth Rate": 0.0214
+        },
+        {
+          "City": "Tianjin",
+          "Country": "China",
+          "Population (2024)": 14470873.0,
+          "Growth Rate": 0.0163
+        }
+      ]
+    }
+  },
+  "healthcare_accessibility": {
+    "infrastructure_overview": {
+      "total_facilities": 393414,
+      "unique_states": 37,
+      "unique_districts": 668
+    },
+    "facility_distribution": {
+      "SUB_CEN": 163131,
+      "PHC": 29733,
+      "CHC": 5389,
+      "S_T_H": 1251,
+      "DIS_H": 934
+    },
+    "geographic_coverage": {
+      "urban_rural_split": {
+        "Rural": 95.8,
+        "Urban": 4.2,
+        "Public": 0.0
+      },
+      "top_states": {
+        "Uttar Pradesh": 24136,
+        "Rajasthan": 16538,
+        "Maharashtra": 13760,
+        "Madhya Pradesh": 12964,
+        "Karnataka": 12192,
+        "West Bengal": 11698,
+        "Tamil Nadu": 11292,
+        "Gujarat": 10596,
+        "Bihar": 10532,
+        "Andhra Pradesh Old": 9829
+      }
+    }
+  },
+  "digital_readiness": {
+    "digital_readiness": {
+      "average_score": 59.035199999999996,
+      "top_performer": "Kochi",
+      "top_score": 64.57000000000001,
+      "cities_above_50": 27,
+      "digital_divide": 15.324000000000005
+    },
+    "connectivity_metrics": {
+      "Household Internet Access": {
+        "average": 76.93966666666667,
+        "top_city": "Bengaluru",
+        "max_value": 92.63
+      },
+      "Fixed Broadband Subscriptions": {
+        "average": 50.352333333333334,
+        "top_city": "Kolkata",
+        "max_value": 60.72
+      },
+      "Wireless Broadband Coverage 4G": {
+        "average": 84.79800000000002,
+        "top_city": "Lucknow",
+        "max_value": 88.28
+      }
+    },
+    "smart_city_indicators": {
+      "Smart Electricity Meters": 43.061666666666675,
+      "Smart Water Meters": 36.593333333333334,
+      "Traffic Monitoring": 40.20666666666667,
+      "e-Government": 40.02433333333334
+    },
+    "year_over_year_progress": {
+      "recent_year_avg": 59.035199999999996,
+      "previous_year_avg": 56.04886666666667,
+      "improvement": 2.9863333333333273,
+      "improvement_percentage": 5.328088703547965
+    }
+  },
+  "city_rankings": {
+    "cleanest_air": {
+      "Madras": 249.3,
+      "Bombay": 250.7,
+      "Calcutta": 251.0,
+      "Bangalore": 251.5,
+      "Delhi": 252.8
+    },
+    "most_polluted": {
+      "Delhi": 252.8,
+      "Bangalore": 251.5,
+      "Calcutta": 251.0,
+      "Bombay": 250.7,
+      "Madras": 249.3
+    },
+    "most_digitally_ready": {
+      "Kochi": 64.6,
+      "Calcutta": 64.3,
+      "Amaravati": 64.1,
+      "Hyderabad": 63.3,
+      "Nashik": 63.1,
+      "Madras": 63.0,
+      "Bangalore": 62.9,
+      "Talcher": 62.6,
+      "Chandigarh": 62.3,
+      "Ludhiana": 62.3
+    },
+    "largest_cities": {
+      "Tokyo": 37115035.0,
+      "Delhi": 33807403.0,
+      "Shanghai": 29867918.0,
+      "Dhaka": 23935652.0,
+      "Sao Paulo": 22806704.0,
+      "Cairo": 22623874.0,
+      "Mexico City": 22505315.0,
+      "Beijing": 22189082.0,
+      "Bombay": 21673149.0,
+      "Osaka": 18967459.0
+    }
+  },
+  "executive_summary": {
+    "key_metrics": {
+      "air_quality": {
+        "cities_monitored": 5,
+        "average_aqi": 251.0
+      },
+      "demographics": {
+        "total_cities_analyzed": 1704,
+        "total_population": 2126116191
+      }
+    },
+    "top_concerns": [],
+    "positive_trends": [
+      "Air quality trends stable or improving",
+      "Digital infrastructure showing improvement"
+    ],
+    "recommendations": [
+      "Implement real-time air quality monitoring in high-pollution areas",
+      "Expand digital infrastructure in lower-performing cities",
+      "Develop integrated traffic management systems",
+      "Enhance healthcare facility distribution in underserved areas"
+    ]
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "dashboard_title": "City Insights 360 - Urban Analytics Dashboard",
+  "created_date": "2025-10-19T06:55:31.905782",
+  "pages": [
+    {
+      "page_name": "Executive Summary",
+      "description": "High-level KPIs and city overview",
+      "visualizations": [
+        {
+          "type": "KPI Cards",
+          "data_source": "executive_summary",
+          "metrics": [
+            "Cities Monitored",
+            "Average AQI",
+            "Total Population",
+            "Digital Readiness"
+          ]
+        },
+        {
+          "type": "Map",
+          "data_source": "city_rankings",
+          "description": "Geographic distribution of cities"
+        },
+        {
+          "type": "Bar Chart",
+          "data_source": "city_rankings",
+          "x_axis": "city",
+          "y_axis": "value",
+          "description": "Top performing cities"
+        }
+      ]
+    },
+    {
+      "page_name": "Air Quality Analysis",
+      "description": "Comprehensive air quality monitoring",
+      "visualizations": [
+        {
+          "type": "Gauge Chart",
+          "data_source": "air_quality_kpis",
+          "metric": "AQI_mean",
+          "description": "Current AQI levels by city"
+        },
+        {
+          "type": "Line Chart",
+          "data_source": "time_series_data",
+          "x_axis": "date",
+          "y_axis": "value",
+          "description": "AQI trends over time"
+        },
+        {
+          "type": "Donut Chart",
+          "data_source": "air_quality_kpis",
+          "metric": "air_quality_category",
+          "description": "Distribution of air quality categories"
+        }
+      ]
+    },
+    {
+      "page_name": "Traffic & Mobility",
+      "description": "Traffic patterns and congestion analysis",
+      "visualizations": [
+        {
+          "type": "Line Chart",
+          "data_source": "traffic_metrics",
+          "x_axis": "hour",
+          "y_axis": "Vehicle_Count",
+          "description": "Hourly traffic patterns"
+        },
+        {
+          "type": "Heat Map",
+          "data_source": "traffic_metrics",
+          "description": "Congestion patterns by time"
+        }
+      ]
+    },
+    {
+      "page_name": "Demographics & Growth",
+      "description": "Population and economic trends",
+      "visualizations": [
+        {
+          "type": "Scatter Plot",
+          "data_source": "demographic_overview",
+          "x_axis": "Population (2024)",
+          "y_axis": "Growth Rate",
+          "description": "Population vs Growth Rate analysis"
+        },
+        {
+          "type": "Tree Map",
+          "data_source": "demographic_overview",
+          "metric": "Population (2024)",
+          "description": "Population distribution by city"
+        }
+      ]
+    },
+    {
+      "page_name": "Digital Readiness",
+      "description": "Smart city digital infrastructure",
+      "visualizations": [
+        {
+          "type": "Horizontal Bar Chart",
+          "data_source": "digital_readiness",
+          "x_axis": "digital_readiness_score",
+          "y_axis": "City",
+          "description": "Digital readiness scores by city"
+        },
+        {
+          "type": "Multi-line Chart",
+          "data_source": "digital_readiness",
+          "description": "Digital infrastructure metrics comparison"
+        }
+      ]
+    },
+    {
+      "page_name": "Predictive Insights",
+      "description": "AI-powered forecasts and predictions",
+      "visualizations": [
+        {
+          "type": "Forecast Chart",
+          "data_source": "predictive_insights",
+          "description": "Air quality predictions"
+        },
+        {
+          "type": "Scenario Analysis",
+          "data_source": "predictive_insights",
+          "description": "What-if scenarios for urban planning"
+        }
+      ]
+    }
+  ],
+  "filters": [
+    {
+      "name": "City",
+      "type": "multi-select"
+    },
+    {
+      "name": "Date Range",
+      "type": "date_range"
+    },
+    {
+      "name": "Metric Category",
+      "type": "single-select"
+    }
+  ],
+  "refresh_schedule": "Daily at 6:00 AM"
+}

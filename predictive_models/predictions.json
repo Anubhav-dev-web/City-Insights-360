@@ -1,0 +1,282 @@
+{
+  "air_quality": {
+    "forecast_horizon_days": 30,
+    "scenarios": [
+      {
+        "scenario": "current_conditions",
+        "description": "Maintaining current pollution levels",
+        "predicted_aqi": 248.56797887851846
+      },
+      {
+        "scenario": "improved_conditions",
+        "description": "20% reduction in major pollutants",
+        "predicted_aqi": 248.17245241525467
+      }
+    ],
+    "model_performance": {
+      "r2_score": -0.0016299360831906196,
+      "mae": 124.18525091867059,
+      "rmse": 143.5704690744422,
+      "features_used": [
+        "hour",
+        "day_of_week",
+        "month",
+        "is_weekend",
+        "PM2.5",
+        "PM10",
+        "NO2",
+        "SO2",
+        "O3",
+        "CO",
+        "city_encoded"
+      ]
+    }
+  },
+  "traffic": {
+    "hourly_patterns": [
+      {
+        "hour": 0,
+        "predicted_congestion_index": 0.5974061523415675
+      },
+      {
+        "hour": 1,
+        "predicted_congestion_index": 0.6039051826922912
+      },
+      {
+        "hour": 2,
+        "predicted_congestion_index": 0.5977358277561401
+      },
+      {
+        "hour": 3,
+        "predicted_congestion_index": 0.5682284185407561
+      },
+      {
+        "hour": 4,
+        "predicted_congestion_index": 0.5883283996969548
+      },
+      {
+        "hour": 5,
+        "predicted_congestion_index": 0.5677443284201283
+      },
+      {
+        "hour": 6,
+        "predicted_congestion_index": 0.5511218746153912
+      },
+      {
+        "hour": 7,
+        "predicted_congestion_index": 0.5479458170302268
+      },
+      {
+        "hour": 8,
+        "predicted_congestion_index": 0.5612670967402941
+      },
+      {
+        "hour": 9,
+        "predicted_congestion_index": 0.5694961445101892
+      },
+      {
+        "hour": 10,
+        "predicted_congestion_index": 0.570767215677485
+      },
+      {
+        "hour": 11,
+        "predicted_congestion_index": 0.576353119663171
+      },
+      {
+        "hour": 12,
+        "predicted_congestion_index": 0.5789611731810366
+      },
+      {
+        "hour": 13,
+        "predicted_congestion_index": 0.5705293633087439
+      },
+      {
+        "hour": 14,
+        "predicted_congestion_index": 0.5653030795645663
+      },
+      {
+        "hour": 15,
+        "predicted_congestion_index": 0.562673910959036
+      },
+      {
+        "hour": 16,
+        "predicted_congestion_index": 0.5599221849317195
+      },
+      {
+        "hour": 17,
+        "predicted_congestion_index": 0.5573063780270925
+      },
+      {
+        "hour": 18,
+        "predicted_congestion_index": 0.558739421027124
+      },
+      {
+        "hour": 19,
+        "predicted_congestion_index": 0.5622318624275202
+      },
+      {
+        "hour": 20,
+        "predicted_congestion_index": 0.5839249020111169
+      },
+      {
+        "hour": 21,
+        "predicted_congestion_index": 0.5804545913053415
+      },
+      {
+        "hour": 22,
+        "predicted_congestion_index": 0.5448104781490675
+      },
+      {
+        "hour": 23,
+        "predicted_congestion_index": 0.5488675606658644
+      }
+    ],
+    "model_performance": {
+      "r2_score": 0.5361649165443625,
+      "mae": 0.0938662223007821
+    }
+  },
+  "digital_readiness": {
+    "yearly_projections": [
+      {
+        "year": 2025,
+        "city_projections": [
+          {
+            "city": "Bombay",
+            "predicted_score": 63.53948000000001
+          },
+          {
+            "city": "Delhi",
+            "predicted_score": 63.47376000000001
+          },
+          {
+            "city": "Bangalore",
+            "predicted_score": 63.183760000000014
+          },
+          {
+            "city": "Hyderabad",
+            "predicted_score": 63.25412
+          },
+          {
+            "city": "Madras",
+            "predicted_score": 63.318720000000006
+          },
+          {
+            "city": "Ahmedabad",
+            "predicted_score": 56.321280000000016
+          },
+          {
+            "city": "Aizawl",
+            "predicted_score": 51.73439999999998
+          },
+          {
+            "city": "Amaravati",
+            "predicted_score": 63.40464000000003
+          },
+          {
+            "city": "Amritsar",
+            "predicted_score": 51.18848
+          },
+          {
+            "city": "Bhopal",
+            "predicted_score": 55.446360000000006
+          }
+        ]
+      },
+      {
+        "year": 2026,
+        "city_projections": [
+          {
+            "city": "Bombay",
+            "predicted_score": 63.32564
+          },
+          {
+            "city": "Delhi",
+            "predicted_score": 63.32564
+          },
+          {
+            "city": "Bangalore",
+            "predicted_score": 63.32564
+          },
+          {
+            "city": "Hyderabad",
+            "predicted_score": 63.23304
+          },
+          {
+            "city": "Madras",
+            "predicted_score": 63.32564
+          },
+          {
+            "city": "Ahmedabad",
+            "predicted_score": 58.66883999999999
+          },
+          {
+            "city": "Aizawl",
+            "predicted_score": 53.353519999999996
+          },
+          {
+            "city": "Amaravati",
+            "predicted_score": 63.44696000000001
+          },
+          {
+            "city": "Amritsar",
+            "predicted_score": 52.146319999999974
+          },
+          {
+            "city": "Bhopal",
+            "predicted_score": 57.14555999999999
+          }
+        ]
+      },
+      {
+        "year": 2027,
+        "city_projections": [
+          {
+            "city": "Bombay",
+            "predicted_score": 63.32616000000001
+          },
+          {
+            "city": "Delhi",
+            "predicted_score": 63.32616000000001
+          },
+          {
+            "city": "Bangalore",
+            "predicted_score": 63.32616000000001
+          },
+          {
+            "city": "Hyderabad",
+            "predicted_score": 63.32564
+          },
+          {
+            "city": "Madras",
+            "predicted_score": 63.32616000000001
+          },
+          {
+            "city": "Ahmedabad",
+            "predicted_score": 62.27548000000001
+          },
+          {
+            "city": "Aizawl",
+            "predicted_score": 54.76704000000001
+          },
+          {
+            "city": "Amaravati",
+            "predicted_score": 63.44696000000001
+          },
+          {
+            "city": "Amritsar",
+            "predicted_score": 53.291599999999995
+          },
+          {
+            "city": "Bhopal",
+            "predicted_score": 60.694880000000005
+          }
+        ]
+      }
+    ],
+    "model_performance": {
+      "cv_r2_mean": 0.5430026382346992,
+      "cv_r2_std": 0.25105642712774345
+    }
+  }
+}

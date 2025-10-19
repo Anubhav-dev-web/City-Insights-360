@@ -1,0 +1,6 @@
+metric_category,metric_name,current_value,unit,status
+Air Quality,Cities Monitored,5.0,Cities,Good
+Air Quality,Average AQI,251.0,AQI Points,Poor
+Demographics,Cities Analyzed,1704.0,Cities,Excellent
+Demographics,Total Population,2126116191.0,People,Good
+Digital Infrastructure,Average Digital Score,59.0,Score,Needs Improvement

@@ -1,0 +1,1705 @@
+Unnamed: 0,City,Country,Population (2024),Population (2023),Growth Rate,standardized_city,data_source,Index,Metropolitian Area/City,Country/Region,Official est. GDP(billion US$),Metropolitian Population
+0.0,Tokyo,Japan,37115035.0,37194105.0,-0.0021,Tokyo,world_cities_2024,,,,,
+1.0,Delhi,India,33807403.0,32941309.0,0.0263,Delhi,world_cities_2024,,,,,
+2.0,Shanghai,China,29867918.0,29210808.0,0.0225,Shanghai,world_cities_2024,,,,,
+3.0,Dhaka,Bangladesh,23935652.0,23209616.0,0.0313,Dhaka,world_cities_2024,,,,,
+4.0,Sao Paulo,Brazil,22806704.0,22619736.0,0.0083,Sao Paulo,world_cities_2024,,,,,
+5.0,Cairo,Egypt,22623874.0,22183201.0,0.0199,Cairo,world_cities_2024,,,,,
+6.0,Mexico City,Mexico,22505315.0,22281442.0,0.01,Mexico City,world_cities_2024,,,,,
+7.0,Beijing,China,22189082.0,21766214.0,0.0194,Beijing,world_cities_2024,,,,,
+8.0,Mumbai,India,21673149.0,21296517.0,0.0177,Bombay,world_cities_2024,,,,,
+9.0,Osaka,Japan,18967459.0,19013434.0,-0.0024,Osaka,world_cities_2024,,,,,
+10.0,Chongqing,China,17773923.0,17340704.0,0.025,Chongqing,world_cities_2024,,,,,
+11.0,Karachi,Pakistan,17648555.0,17236230.0,0.0239,Karachi,world_cities_2024,,,,,
+12.0,Kinshasa,DR Congo,17032322.0,16315534.0,0.0439,Kinshasa,world_cities_2024,,,,,
+13.0,Lagos,Nigeria,16536018.0,15945912.0,0.037,Lagos,world_cities_2024,,,,,
+14.0,Istanbul,Turkey,16047350.0,15847768.0,0.0126,Istanbul,world_cities_2024,,,,,
+15.0,Buenos Aires,Argentina,15618288.0,15490415.0,0.0083,Buenos Aires,world_cities_2024,,,,,
+16.0,Kolkata,India,15570786.0,15332793.0,0.0155,Calcutta,world_cities_2024,,,,,
+17.0,Manila,Philippines,14941953.0,14667089.0,0.0187,Manila,world_cities_2024,,,,,
+18.0,Guangzhou,China,14590096.0,14284353.0,0.0214,Guangzhou,world_cities_2024,,,,,
+19.0,Tianjin,China,14470873.0,14238643.0,0.0163,Tianjin,world_cities_2024,,,,,
+20.0,Lahore,Pakistan,14407074.0,13979390.0,0.0306,Lahore,world_cities_2024,,,,,
+21.0,Bangalore,India,14008262.0,13607800.0,0.0294,Bangalore,world_cities_2024,,,,,
+22.0,Rio De Janeiro,Brazil,13824347.0,13727720.0,0.007,Rio De Janeiro,world_cities_2024,,,,,
+23.0,Shenzhen,China,13311855.0,13072633.0,0.0183,Shenzhen,world_cities_2024,,,,,
+24.0,Moscow,Russia,12712305.0,12680389.0,0.0025,Moscow,world_cities_2024,,,,,
+25.0,Chennai,India,12053697.0,11776147.0,0.0236,Madras,world_cities_2024,,,,,
+26.0,Bogota,Colombia,11658211.0,11507960.0,0.0131,Bogota,world_cities_2024,,,,,
+27.0,Jakarta,Indonesia,11436004.0,11248839.0,0.0166,Jakarta,world_cities_2024,,,,,
+28.0,Lima,Peru,11361938.0,11204382.0,0.0141,Lima,world_cities_2024,,,,,
+29.0,Paris,France,11276701.0,11208440.0,0.0061,Paris,world_cities_2024,,,,,
+30.0,Bangkok,Thailand,11233869.0,11069982.0,0.0148,Bangkok,world_cities_2024,,,,,
+31.0,Hyderabad,India,11068877.0,10801163.0,0.0248,Hyderabad,world_cities_2024,,,,,
+32.0,Seoul,South Korea,10004840.0,9988049.0,0.0017,Seoul,world_cities_2024,,,,,
+33.0,Nanjing,China,9947548.0,9698464.0,0.0257,Nanjing,world_cities_2024,,,,,
+34.0,Chengdu,China,9828110.0,9653772.0,0.0181,Chengdu,world_cities_2024,,,,,
+35.0,London,United Kingdom,9748033.0,9648110.0,0.0104,London,world_cities_2024,,,,,
+36.0,Luanda,Angola,9651032.0,9292336.0,0.0386,Luanda,world_cities_2024,,,,,
+37.0,Tehran,Iran,9616007.0,9499781.0,0.0122,Tehran,world_cities_2024,,,,,
+38.0,Ho Chi Minh City,Vietnam,9567656.0,9320866.0,0.0265,Ho Chi Minh City,world_cities_2024,,,,,
+39.0,Nagoya,Japan,9556879.0,9569328.0,-0.0013,Nagoya,world_cities_2024,,,,,
+40.0,Xi An Shaanxi,China,9013837.0,8785174.0,0.026,Xi An Shaanxi,world_cities_2024,,,,,
+41.0,Ahmedabad,India,8854444.0,8650605.0,0.0236,Ahmedabad,world_cities_2024,,,,,
+42.0,Wuhan,China,8850850.0,8718250.0,0.0152,Wuhan,world_cities_2024,,,,,
+43.0,Kuala Lumpur,Malaysia,8815630.0,8621724.0,0.0225,Kuala Lumpur,world_cities_2024,,,,,
+44.0,Hangzhou,China,8419842.0,8237206.0,0.0222,Hangzhou,world_cities_2024,,,,,
+45.0,Suzhou,China,8350625.0,8074031.0,0.0343,Suzhou,world_cities_2024,,,,,
+46.0,Surat,India,8330528.0,8064949.0,0.0329,Surat,world_cities_2024,,,,,
+47.0,Dar Es Salaam,Tanzania,8161231.0,7775865.0,0.0496,Dar Es Salaam,world_cities_2024,,,,,
+48.0,New York,United States,7931147.0,8133522.0,-0.0249,New York,world_cities_2024,,,,,
+49.0,Baghdad,Iraq,7921134.0,7711305.0,0.0272,Baghdad,world_cities_2024,,,,,
+50.0,Shenyang,China,7830377.0,7680967.0,0.0195,Shenyang,world_cities_2024,,,,,
+51.0,Riyadh,Saudi Arabia,7820551.0,7682430.0,0.018,Riyadh,world_cities_2024,,,,,
+52.0,Hong Kong,Hong Kong,7725859.0,7684801.0,0.0053,Hong Kong,world_cities_2024,,,,,
+53.0,Foshan,China,7704935.0,7597386.0,0.0142,Foshan,world_cities_2024,,,,,
+54.0,Dongguan,China,7675146.0,7587049.0,0.0116,Dongguan,world_cities_2024,,,,,
+55.0,Pune,India,7345848.0,7166374.0,0.025,Pune,world_cities_2024,,,,,
+56.0,Santiago,Chile,6950952.0,6903392.0,0.0069,Santiago,world_cities_2024,,,,,
+57.0,Haerbin,China,6938008.0,6803811.0,0.0197,Haerbin,world_cities_2024,,,,,
+58.0,Madrid,Spain,6783241.0,6751374.0,0.0047,Madrid,world_cities_2024,,,,,
+59.0,Khartoum,Sudan,6542070.0,6344348.0,0.0312,Khartoum,world_cities_2024,,,,,
+60.0,Toronto,Canada,6431430.0,6371958.0,0.0093,Toronto,world_cities_2024,,,,,
+61.0,Johannesburg,South Africa,6324351.0,6198016.0,0.0204,Johannesburg,world_cities_2024,,,,,
+62.0,Belo Horizonte,Brazil,6300409.0,6247889.0,0.0084,Belo Horizonte,world_cities_2024,,,,,
+63.0,Dalian,China,6217487.0,6077995.0,0.023,Dalian,world_cities_2024,,,,,
+64.0,Singapore,Singapore,6119203.0,6080859.0,0.0063,Singapore,world_cities_2024,,,,,
+65.0,Qingdao,China,6104597.0,5986525.0,0.0197,Qingdao,world_cities_2024,,,,,
+66.0,Zhengzhou,China,6014887.0,5859272.0,0.0266,Zhengzhou,world_cities_2024,,,,,
+67.0,Ji Nan Shandong,China,5940698.0,5806031.0,0.0232,Ji Nan Shandong,world_cities_2024,,,,,
+68.0,Abidjan,Ivory Coast,5866704.0,5686350.0,0.0317,Abidjan,world_cities_2024,,,,,
+69.0,Barcelona,Spain,5711917.0,5687356.0,0.0043,Barcelona,world_cities_2024,,,,,
+70.0,Yangon,Myanmar,5709678.0,5610241.0,0.0177,Yangon,world_cities_2024,,,,,
+71.0,Addis Ababa,Ethiopia,5703628.0,5460591.0,0.0445,Addis Ababa,world_cities_2024,,,,,
+72.0,Alexandria,Egypt,5696131.0,5588477.0,0.0193,Alexandria,world_cities_2024,,,,,
+73.0,Saint Petersburg,Russia,5581707.0,5561294.0,0.0037,Saint Petersburg,world_cities_2024,,,,,
+74.0,Nairobi,Kenya,5541172.0,5325160.0,0.0406,Nairobi,world_cities_2024,,,,,
+75.0,Chittagong,Bangladesh,5513609.0,5379660.0,0.0249,Chittagong,world_cities_2024,,,,,
+76.0,Guadalajara,Mexico,5499678.0,5419880.0,0.0147,Guadalajara,world_cities_2024,,,,,
+77.0,Fukuoka,Japan,5478076.0,5490271.0,-0.0022,Fukuoka,world_cities_2024,,,,,
+78.0,Ankara,Turkey,5477087.0,5397098.0,0.0148,Ankara,world_cities_2024,,,,,
+79.0,Hanoi,Vietnam,5431801.0,5253385.0,0.034,Hanoi,world_cities_2024,,,,,
+80.0,Melbourne,Australia,5315600.0,5235407.0,0.0153,Melbourne,world_cities_2024,,,,,
+81.0,Monterrey,Mexico,5195355.0,5116647.0,0.0154,Monterrey,world_cities_2024,,,,,
+82.0,Sydney,Australia,5184896.0,5120894.0,0.0125,Sydney,world_cities_2024,,,,,
+83.0,Changsha,China,5027975.0,4921487.0,0.0216,Changsha,world_cities_2024,,,,,
+84.0,Urumqi,China,5005964.0,4865038.0,0.029,Urumqi,world_cities_2024,,,,,
+85.0,Cape Town,South Africa,4977833.0,4890280.0,0.0179,Cape Town,world_cities_2024,,,,,
+86.0,Jiddah,Saudi Arabia,4943210.0,4862941.0,0.0165,Jiddah,world_cities_2024,,,,,
+87.0,Brasilia,Brazil,4935274.0,4873048.0,0.0128,Brasilia,world_cities_2024,,,,,
+88.0,Kunming,China,4861079.0,4761284.0,0.021,Kunming,world_cities_2024,,,,,
+89.0,Changchun,China,4802447.0,4710382.0,0.0195,Changchun,world_cities_2024,,,,,
+90.0,Kabul,Afghanistan,4728384.0,4588666.0,0.0304,Kabul,world_cities_2024,,,,,
+91.0,Hefei,China,4727290.0,4615758.0,0.0242,Hefei,world_cities_2024,,,,,
+92.0,Yaounde,Cameroon,4681768.0,4509287.0,0.0383,Yaounde,world_cities_2024,,,,,
+93.0,Ningbo,China,4659830.0,4537901.0,0.0269,Ningbo,world_cities_2024,,,,,
+94.0,Shantou,China,4656525.0,4573713.0,0.0181,Shantou,world_cities_2024,,,,,
+95.0,New Taipei,Taiwan,4534877.0,4504147.0,0.0068,New Taipei,world_cities_2024,,,,,
+96.0,Tel Aviv,Israel,4495727.0,4420855.0,0.0169,Tel Aviv,world_cities_2024,,,,,
+97.0,Kano,Nigeria,4490734.0,4348481.0,0.0327,Kano,world_cities_2024,,,,,
+98.0,Shijiazhuang,China,4454132.0,4370473.0,0.0191,Shijiazhuang,world_cities_2024,,,,,
+99.0,Montreal,Canada,4341638.0,4307958.0,0.0078,Montreal,world_cities_2024,,,,,
+100.0,Rome,Italy,4331974.0,4315671.0,0.0038,Rome,world_cities_2024,,,,,
+101.0,Jaipur,India,4308510.0,4207084.0,0.0241,Jaipur,world_cities_2024,,,,,
+102.0,Recife,Brazil,4305127.0,4263940.0,0.0097,Recife,world_cities_2024,,,,,
+103.0,Nanning,China,4291463.0,4191890.0,0.0238,Nanning,world_cities_2024,,,,,
+104.0,Fortaleza,Brazil,4246399.0,4206240.0,0.0095,Fortaleza,world_cities_2024,,,,,
+105.0,Kozhikode,India,4243962.0,4088555.0,0.038,Kozhikode,world_cities_2024,,,,,
+106.0,Porto Alegre,Brazil,4239867.0,4211933.0,0.0066,Porto Alegre,world_cities_2024,,,,,
+107.0,Taiyuan Shanxi,China,4226782.0,4145010.0,0.0197,Taiyuan Shanxi,world_cities_2024,,,,,
+108.0,Douala,Cameroon,4203108.0,4063200.0,0.0344,Douala,world_cities_2024,,,,,
+109.0,Ekurhuleni,South Africa,4190832.0,4118327.0,0.0176,Ekurhuleni,world_cities_2024,,,,,
+110.0,Malappuram,India,4184921.0,4009087.0,0.0439,Malappuram,world_cities_2024,,,,,
+111.0,Medellin,Colombia,4137386.0,4102308.0,0.0086,Medellin,world_cities_2024,,,,,
+112.0,Changzhou,China,4085502.0,3981658.0,0.0261,Changzhou,world_cities_2024,,,,,
+113.0,Kampala,Uganda,4050826.0,3846102.0,0.0532,Kampala,world_cities_2024,,,,,
+114.0,Antananarivo,Madagascar,4048666.0,3872264.0,0.0456,Antananarivo,world_cities_2024,,,,,
+115.0,Lucknow,India,4038214.0,3945409.0,0.0235,Lucknow,world_cities_2024,,,,,
+116.0,Abuja,Nigeria,4025735.0,3839646.0,0.0485,Abuja,world_cities_2024,,,,,
+117.0,Nanchang,China,4016037.0,3920379.0,0.0244,Nanchang,world_cities_2024,,,,,
+118.0,Wenzhou,China,4009531.0,3919724.0,0.0229,Wenzhou,world_cities_2024,,,,,
+119.0,Xiamen,China,4007468.0,3935484.0,0.0183,Xiamen,world_cities_2024,,,,,
+120.0,Ibadan,Nigeria,4004316.0,3874908.0,0.0334,Ibadan,world_cities_2024,,,,,
+121.0,Fuzhou Fujian,China,3998754.0,3922202.0,0.0195,Fuzhou Fujian,world_cities_2024,,,,,
+122.0,Salvador,Brazil,3994982.0,3958384.0,0.0092,Salvador,world_cities_2024,,,,,
+123.0,Casablanca,Morocco,3950408.0,3892837.0,0.0148,Casablanca,world_cities_2024,,,,,
+124.0,Tangshan Hebei,China,3925206.0,3814702.0,0.029,Tangshan Hebei,world_cities_2024,,,,,
+125.0,Kumasi,Ghana,3903481.0,3768239.0,0.0359,Kumasi,world_cities_2024,,,,,
+126.0,Curitiba,Brazil,3852459.0,3813082.0,0.0103,Curitiba,world_cities_2024,,,,,
+127.0,Bekasi,Indonesia,3830678.0,3729351.0,0.0272,Bekasi,world_cities_2024,,,,,
+128.0,Faisalabad,Pakistan,3800193.0,3710845.0,0.0241,Faisalabad,world_cities_2024,,,,,
+129.0,Los Angeles,United States,3748640.0,3785439.0,-0.0097,Los Angeles,world_cities_2024,,,,,
+130.0,Guiyang,China,3661446.0,3580904.0,0.0225,Guiyang,world_cities_2024,,,,,
+131.0,Port Harcourt,Nigeria,3636547.0,3480101.0,0.045,Port Harcourt,world_cities_2024,,,,,
+132.0,Thrissur,India,3605238.0,3482456.0,0.0353,Thrissur,world_cities_2024,,,,,
+133.0,Santo Domingo,Dominican Republic,3587402.0,3523890.0,0.018,Santo Domingo,world_cities_2024,,,,,
+134.0,Berlin,Germany,3576873.0,3573938.0,0.0008,Berlin,world_cities_2024,,,,,
+135.0,Asuncion,Paraguay,3568830.0,3510511.0,0.0166,Asuncion,world_cities_2024,,,,,
+136.0,Dakar,Senegal,3540462.0,3429536.0,0.0323,Dakar,world_cities_2024,,,,,
+137.0,Kochi,India,3507053.0,3406055.0,0.0297,Kochi,world_cities_2024,,,,,
+138.0,Wuxi,China,3498740.0,3437346.0,0.0179,Wuxi,world_cities_2024,,,,,
+139.0,Busan,South Korea,3477419.0,3471949.0,0.0016,Busan,world_cities_2024,,,,,
+140.0,Campinas,Brazil,3458441.0,3422796.0,0.0104,Campinas,world_cities_2024,,,,,
+141.0,Mashhad,Iran,3415532.0,3367852.0,0.0142,Mashhad,world_cities_2024,,,,,
+142.0,Sanaa,Yemen,3407814.0,3292497.0,0.035,Sanaa,world_cities_2024,,,,,
+143.0,Puebla,Mexico,3394342.0,3344761.0,0.0148,Puebla,world_cities_2024,,,,,
+144.0,Indore,India,3393380.0,3302077.0,0.0277,Indore,world_cities_2024,,,,,
+145.0,Lanzhou,China,3365910.0,3297528.0,0.0207,Lanzhou,world_cities_2024,,,,,
+146.0,Ouagadougou,Burkina Faso,3358934.0,3203923.0,0.0484,Ouagadougou,world_cities_2024,,,,,
+147.0,Kuwait City,Kuwait,3353602.0,3297759.0,0.0169,Kuwait City,world_cities_2024,,,,,
+148.0,Lusaka,Zambia,3324219.0,3181250.0,0.0449,Lusaka,world_cities_2024,,,,,
+149.0,Kanpur,India,3286142.0,3234160.0,0.0161,Kanpur,world_cities_2024,,,,,
+150.0,Durban,South Africa,3262128.0,3228003.0,0.0106,Durban,world_cities_2024,,,,,
+151.0,Guayaquil,Ecuador,3193267.0,3142466.0,0.0162,Guayaquil,world_cities_2024,,,,,
+152.0,Pyongyang,North Korea,3183135.0,3157538.0,0.0081,Pyongyang,world_cities_2024,,,,,
+153.0,Milan,Italy,3160631.0,3154570.0,0.0019,Milan,world_cities_2024,,,,,
+154.0,Guatemala City,Guatemala,3159631.0,3095099.0,0.0208,Guatemala City,world_cities_2024,,,,,
+155.0,Athens,Greece,3154591.0,3154463.0,0.0,Athens,world_cities_2024,,,,,
+156.0,Depok,Indonesia,3133298.0,3041229.0,0.0303,Depok,world_cities_2024,,,,,
+157.0,Izmir,Turkey,3120340.0,3088414.0,0.0103,Izmir,world_cities_2024,,,,,
+158.0,Nagpur,India,3106340.0,3046687.0,0.0196,Nagpur,world_cities_2024,,,,,
+159.0,Surabaya,Indonesia,3088748.0,3044413.0,0.0146,Surabaya,world_cities_2024,,,,,
+160.0,Handan,China,3085998.0,3005409.0,0.0268,Handan,world_cities_2024,,,,,
+161.0,Coimbatore,India,3083721.0,3009047.0,0.0248,Coimbatore,world_cities_2024,,,,,
+162.0,Huaian,China,3071048.0,2979893.0,0.0306,Huaian,world_cities_2024,,,,,
+163.0,Port Au Prince,Haiti,3060169.0,2987455.0,0.0243,Port Au Prince,world_cities_2024,,,,,
+164.0,Zhongshan,China,3051065.0,3010685.0,0.0134,Zhongshan,world_cities_2024,,,,,
+165.0,Dubai,United Arab Emirates,3051016.0,3007583.0,0.0144,Dubai,world_cities_2024,,,,,
+166.0,Bamako,Mali,3050570.0,2929373.0,0.0414,Bamako,world_cities_2024,,,,,
+167.0,Mbuji Mayi,DR Congo,3022855.0,2891746.0,0.0453,Mbuji Mayi,world_cities_2024,,,,,
+168.0,Kiev,Ukraine,3020228.0,3016789.0,0.0011,Kiev,world_cities_2024,,,,,
+169.0,Lisbon,Portugal,3014607.0,3000536.0,0.0047,Lisbon,world_cities_2024,,,,,
+170.0,Weifang,China,2994537.0,2917819.0,0.0263,Weifang,world_cities_2024,,,,,
+171.0,Caracas,Venezuela,2991727.0,2972145.0,0.0066,Caracas,world_cities_2024,,,,,
+172.0,Thiruvananthapuram,India,2984154.0,2891119.0,0.0322,Trivandrum,world_cities_2024,,,,,
+173.0,Algiers,Algeria,2952115.0,2901810.0,0.0173,Algiers,world_cities_2024,,,,,
+174.0,Shizuoka,Japan,2935527.0,2937359.0,-0.0006,Shizuoka,world_cities_2024,,,,,
+175.0,Lubumbashi,DR Congo,2933962.0,2811959.0,0.0434,Lubumbashi,world_cities_2024,,,,,
+176.0,Cali,Colombia,2890433.0,2863730.0,0.0093,Cali,world_cities_2024,,,,,
+177.0,Goiania,Brazil,2890418.0,2848473.0,0.0147,Goiania,world_cities_2024,,,,,
+178.0,Pretoria,South Africa,2889899.0,2818100.0,0.0255,Pretoria,world_cities_2024,,,,,
+179.0,Shaoxing,China,2882171.0,2805654.0,0.0273,Shaoxing,world_cities_2024,,,,,
+180.0,Incheon,South Korea,2861686.0,2848557.0,0.0046,Incheon,world_cities_2024,,,,,
+181.0,Yantai,China,2834508.0,2764584.0,0.0253,Yantai,world_cities_2024,,,,,
+182.0,Zibo,China,2828435.0,2780142.0,0.0174,Zibo,world_cities_2024,,,,,
+183.0,Huizhou,China,2827610.0,2758593.0,0.025,Huizhou,world_cities_2024,,,,,
+184.0,Manchester,United Kingdom,2811756.0,2791005.0,0.0074,Manchester,world_cities_2024,,,,,
+185.0,Taipei,Taiwan,2766334.0,2754196.0,0.0044,Taipei,world_cities_2024,,,,,
+186.0,Mogadishu,Somalia,2726815.0,2610483.0,0.0446,Mogadishu,world_cities_2024,,,,,
+187.0,Brazzaville,Republic of the Congo,2724566.0,2637733.0,0.0329,Brazzaville,world_cities_2024,,,,,
+188.0,Accra,Ghana,2721165.0,2660072.0,0.023,Accra,world_cities_2024,,,,,
+189.0,Bandung,Indonesia,2714215.0,2674000.0,0.015,Bandung,world_cities_2024,,,,,
+190.0,Damascus,Syria,2685361.0,2584771.0,0.0389,Damascus,world_cities_2024,,,,,
+191.0,Birmingham,United Kingdom,2684807.0,2665100.0,0.0074,Birmingham,world_cities_2024,,,,,
+192.0,Vancouver,Canada,2682509.0,2657088.0,0.0096,Vancouver,world_cities_2024,,,,,
+193.0,Toluca De Lerdo,Mexico,2674336.0,2626368.0,0.0183,Toluca De Lerdo,world_cities_2024,,,,,
+194.0,Luoyang,China,2666744.0,2602793.0,0.0246,Luoyang,world_cities_2024,,,,,
+195.0,Sapporo,Japan,2660947.0,2666112.0,-0.0019,Sapporo,world_cities_2024,,,,,
+196.0,Tashkent,Uzbekistan,2633661.0,2603243.0,0.0117,Tashkent,world_cities_2024,,,,,
+197.0,Patna,India,2633243.0,2579762.0,0.0207,Patna,world_cities_2024,,,,,
+198.0,Bhopal,India,2624865.0,2564502.0,0.0235,Bhopal,world_cities_2024,,,,,
+199.0,Chicago,United States,2590002.0,2627520.0,-0.0143,Chicago,world_cities_2024,,,,,
+200.0,Tangerang,Indonesia,2570980.0,2514077.0,0.0226,Tangerang,world_cities_2024,,,,,
+201.0,Nantong,China,2555722.0,2492230.0,0.0255,Nantong,world_cities_2024,,,,,
+202.0,Brisbane,Australia,2536449.0,2504505.0,0.0128,Brisbane,world_cities_2024,,,,,
+203.0,Tunis,Tunisia,2510673.0,2475446.0,0.0142,Tunis,world_cities_2024,,,,,
+204.0,Peshawar,Pakistan,2480546.0,2411785.0,0.0285,Peshawar,world_cities_2024,,,,,
+205.0,Medan,Indonesia,2479070.0,2439054.0,0.0164,Medan,world_cities_2024,,,,,
+206.0,Gujranwala,Pakistan,2479058.0,2415416.0,0.0263,Gujranwala,world_cities_2024,,,,,
+207.0,Baku,Azerbaijan,2464162.0,2432304.0,0.0131,Baku,world_cities_2024,,,,,
+208.0,Hohhot,China,2443686.0,2380636.0,0.0265,Hohhot,world_cities_2024,,,,,
+209.0,San Juan,Puerto Rico,2436620.0,2439564.0,-0.0012,San Juan,world_cities_2024,,,,,
+210.0,Belem,Brazil,2432177.0,2409409.0,0.0094,Belem,world_cities_2024,,,,,
+211.0,Rawalpindi,Pakistan,2430388.0,2377325.0,0.0223,Rawalpindi,world_cities_2024,,,,,
+212.0,Agra,India,2422342.0,2367554.0,0.0231,Agra,world_cities_2024,,,,,
+213.0,Manaus,Brazil,2406854.0,2375636.0,0.0131,Manaus,world_cities_2024,,,,,
+214.0,Kannur,India,2405664.0,2346137.0,0.0254,Kannur,world_cities_2024,,,,,
+215.0,Beirut,Lebanon,2402485.0,2421354.0,-0.0078,Beirut,world_cities_2024,,,,,
+216.0,Maracaibo,Venezuela,2400826.0,2367626.0,0.014,Maracaibo,world_cities_2024,,,,,
+217.0,Liuzhou,China,2397410.0,2343452.0,0.023,Liuzhou,world_cities_2024,,,,,
+218.0,Visakhapatnam,India,2385110.0,2330928.0,0.0232,Visakhapatnam,world_cities_2024,,,,,
+219.0,Baotou,China,2381242.0,2334878.0,0.0199,Baotou,world_cities_2024,,,,,
+220.0,Vadodara,India,2373365.0,2324084.0,0.0212,Vadodara,world_cities_2024,,,,,
+221.0,Barranquilla,Colombia,2373302.0,2349400.0,0.0102,Barranquilla,world_cities_2024,,,,,
+222.0,Phnom Penh,Cambodia,2352680.0,2281198.0,0.0313,Phnom Penh,world_cities_2024,,,,,
+223.0,Sendai,Japan,2341433.0,2342302.0,-0.0004,Sendai,world_cities_2024,,,,,
+224.0,Taoyuan,Taiwan,2338724.0,2318850.0,0.0086,Taoyuan,world_cities_2024,,,,,
+225.0,Xuzhou,China,2332531.0,2287166.0,0.0198,Xuzhou,world_cities_2024,,,,,
+226.0,Aleppo,Syria,2317650.0,2203025.0,0.052,Aleppo,world_cities_2024,,,,,
+227.0,Houston,United States,2305889.0,2304383.0,0.0007,Houston,world_cities_2024,,,,,
+228.0,Tijuana,Mexico,2297216.0,2259787.0,0.0166,Tijuana,world_cities_2024,,,,,
+229.0,Esfahan,Iran,2294589.0,2258396.0,0.016,Esfahan,world_cities_2024,,,,,
+230.0,Nashik,India,2294299.0,2237369.0,0.0254,Nashik,world_cities_2024,,,,,
+231.0,Vijayawada,India,2290785.0,2229765.0,0.0274,Vijayawada,world_cities_2024,,,,,
+232.0,Amman,Jordan,2252688.0,2232240.0,0.0092,Amman,world_cities_2024,,,,,
+233.0,Putian,China,2250104.0,2176022.0,0.034,Putian,world_cities_2024,,,,,
+234.0,Multan,Pakistan,2205407.0,2154600.0,0.0236,Multan,world_cities_2024,,,,,
+235.0,Grande Vitoria,Brazil,2196818.0,2170513.0,0.0121,Grande Vitoria,world_cities_2024,,,,,
+236.0,Wuhu Anhui,China,2195262.0,2124797.0,0.0332,Wuhu Anhui,world_cities_2024,,,,,
+237.0,Mecca,Saudi Arabia,2184560.0,2149928.0,0.0161,Mecca,world_cities_2024,,,,,
+238.0,Kollam,India,2181940.0,2106606.0,0.0358,Kollam,world_cities_2024,,,,,
+239.0,Naples,Italy,2180027.0,2179384.0,0.0003,Naples,world_cities_2024,,,,,
+240.0,Daegu,South Korea,2179929.0,2180997.0,-0.0005,Daegu,world_cities_2024,,,,,
+241.0,Conakry,Guinea,2178596.0,2110937.0,0.0321,Conakry,world_cities_2024,,,,,
+242.0,Yangzhou,China,2175102.0,2131291.0,0.0206,Yangzhou,world_cities_2024,,,,,
+243.0,Havana,Cuba,2152518.0,2148930.0,0.0017,Havana,world_cities_2024,,,,,
+244.0,Taizhou Zhejiang,China,2152226.0,2102143.0,0.0238,Taizhou Zhejiang,world_cities_2024,,,,,
+245.0,Baoding,China,2149703.0,2107539.0,0.02,Baoding,world_cities_2024,,,,,
+246.0,Perth,Australia,2143491.0,2117997.0,0.012,Perth,world_cities_2024,,,,,
+247.0,Brussels,Belgium,2132178.0,2121992.0,0.0048,Brussels,world_cities_2024,,,,,
+248.0,Linyi Shandong,China,2120049.0,2076364.0,0.021,Linyi Shandong,world_cities_2024,,,,,
+249.0,Bursa,Turkey,2115513.0,2086324.0,0.014,Bursa,world_cities_2024,,,,,
+250.0,Rajkot,India,2096981.0,2043107.0,0.0264,Rajkot,world_cities_2024,,,,,
+251.0,Minsk,Belarus,2064733.0,2057257.0,0.0036,Minsk,world_cities_2024,,,,,
+252.0,Hiroshima,Japan,2062884.0,2067591.0,-0.0023,Hiroshima,world_cities_2024,,,,,
+253.0,Haikou,China,2056646.0,2016092.0,0.0201,Haikou,world_cities_2024,,,,,
+254.0,Daqing,China,2044371.0,2000656.0,0.0219,Daqing,world_cities_2024,,,,,
+255.0,Lome,Togo,2042734.0,1981615.0,0.0308,Lome,world_cities_2024,,,,,
+256.0,Lianyungang,China,2035631.0,1986439.0,0.0248,Lianyungang,world_cities_2024,,,,,
+257.0,Yancheng Jiangsu,China,2034326.0,1993463.0,0.0205,Yancheng Jiangsu,world_cities_2024,,,,,
+258.0,Panama City,Panama,2015735.0,1976866.0,0.0197,Panama City,world_cities_2024,,,,,
+259.0,Almaty,Kazakhstan,2015209.0,1987301.0,0.014,Almaty,world_cities_2024,,,,,
+260.0,Semarang,Indonesia,2013571.0,1975306.0,0.0194,Semarang,world_cities_2024,,,,,
+261.0,Hyderabad,Pakistan,2011964.0,1967684.0,0.0225,Hyderabad,world_cities_2024,,,,,
+262.0,Valencia,Venezuela,2007265.0,1983445.0,0.012,Valencia,world_cities_2024,,,,,
+263.0,Davao City,Philippines,1991457.0,1949400.0,0.0216,Davao City,world_cities_2024,,,,,
+264.0,Vienna,Austria,1990487.0,1975271.0,0.0077,Vienna,world_cities_2024,,,,,
+265.0,Rabat,Morocco,1989197.0,1959388.0,0.0152,Rabat,world_cities_2024,,,,,
+266.0,Ludhiana,India,1988438.0,1951085.0,0.0191,Ludhiana,world_cities_2024,,,,,
+267.0,Quito,Ecuador,1986667.0,1956995.0,0.0152,Quito,world_cities_2024,,,,,
+268.0,Benin City,Nigeria,1972558.0,1904631.0,0.0357,Benin City,world_cities_2024,,,,,
+269.0,La Paz,Bolivia,1965570.0,1935619.0,0.0155,La Paz,world_cities_2024,,,,,
+270.0,Baixada Santista,Brazil,1965110.0,1947785.0,0.0089,Baixada Santista,world_cities_2024,,,,,
+271.0,West Yorkshire,United Kingdom,1942470.0,1928661.0,0.0072,West Yorkshire,world_cities_2024,,,,,
+272.0,Can Tho,Vietnam,1938915.0,1865172.0,0.0395,Can Tho,world_cities_2024,,,,,
+273.0,Zhuhai,China,1930373.0,1889829.0,0.0215,Zhuhai,world_cities_2024,,,,,
+274.0,Leon De Los Aldamas,Mexico,1924435.0,1898749.0,0.0135,Leon De Los Aldamas,world_cities_2024,,,,,
+275.0,Quanzhou,China,1920733.0,1869994.0,0.0271,Quanzhou,world_cities_2024,,,,,
+276.0,Matola,Mozambique,1915035.0,1852405.0,0.0338,Matola,world_cities_2024,,,,,
+277.0,Datong,China,1913674.0,1873693.0,0.0213,Datong,world_cities_2024,,,,,
+278.0,Sharjah,United Arab Emirates,1872199.0,1830858.0,0.0226,Sharjah,world_cities_2024,,,,,
+279.0,Madurai,India,1871912.0,1834279.0,0.0205,Madurai,world_cities_2024,,,,,
+280.0,Raipur,India,1871107.0,1816813.0,0.0299,Raipur,world_cities_2024,,,,,
+281.0,Adana,Turkey,1856638.0,1835895.0,0.0113,Adana,world_cities_2024,,,,,
+282.0,Santa Cruz,Bolivia,1855732.0,1820114.0,0.0196,Santa Cruz,world_cities_2024,,,,,
+283.0,Palembang,Indonesia,1852673.0,1818421.0,0.0188,Palembang,world_cities_2024,,,,,
+284.0,Mosul,Iraq,1847691.0,1792020.0,0.0311,Mosul,world_cities_2024,,,,,
+285.0,Cixi,China,1840039.0,1788871.0,0.0286,Cixi,world_cities_2024,,,,,
+286.0,Meerut,India,1835403.0,1797805.0,0.0209,Meerut,world_cities_2024,,,,,
+287.0,Gaziantep,Turkey,1833006.0,1804704.0,0.0157,Gaziantep,world_cities_2024,,,,,
+288.0,La Laguna,Mexico,1826135.0,1780592.0,0.0256,La Laguna,world_cities_2024,,,,,
+289.0,Batam,Indonesia,1806147.0,1748142.0,0.0332,Batam,world_cities_2024,,,,,
+290.0,Turin,Italy,1805727.0,1801944.0,0.0021,Turin,world_cities_2024,,,,,
+291.0,Warsaw,Poland,1799451.0,1797516.0,0.0011,Warsaw,world_cities_2024,,,,,
+292.0,Jiangmen,China,1797469.0,1768511.0,0.0164,Jiangmen,world_cities_2024,,,,,
+293.0,Varanasi,India,1789047.0,1754425.0,0.0197,Varanasi,world_cities_2024,,,,,
+294.0,Hamburg,Germany,1787280.0,1787520.0,-0.0001,Hamburg,world_cities_2024,,,,,
+295.0,Montevideo,Uruguay,1781363.0,1774396.0,0.0039,Montevideo,world_cities_2024,,,,,
+296.0,Budapest,Hungary,1780391.0,1778052.0,0.0013,Budapest,world_cities_2024,,,,,
+297.0,Lyon,France,1774395.0,1761188.0,0.0075,Lyon,world_cities_2024,,,,,
+298.0,Xiangyang,China,1772318.0,1742706.0,0.017,Xiangyang,world_cities_2024,,,,,
+299.0,Bucharest,Romania,1767520.0,1776385.0,-0.005,Bucharest,world_cities_2024,,,,,
+300.0,Yichang,China,1758100.0,1711244.0,0.0274,Yichang,world_cities_2024,,,,,
+301.0,Yinchuan,China,1757699.0,1716591.0,0.0239,Yinchuan,world_cities_2024,,,,,
+302.0,Shiraz,Iran,1742750.0,1720954.0,0.0127,Shiraz,world_cities_2024,,,,,
+303.0,Kananga,DR Congo,1738716.0,1664442.0,0.0446,Kananga,world_cities_2024,,,,,
+304.0,Srinagar,India,1737502.0,1698277.0,0.0231,Srinagar,world_cities_2024,,,,,
+305.0,Monrovia,Liberia,1735365.0,1678020.0,0.0342,Monrovia,world_cities_2024,,,,,
+306.0,Tiruppur,India,1731862.0,1677173.0,0.0326,Tiruppur,world_cities_2024,,,,,
+307.0,Jamshedpur,India,1730521.0,1695060.0,0.0209,Jamshedpur,world_cities_2024,,,,,
+308.0,Suqian,China,1726327.0,1664968.0,0.0369,Suqian,world_cities_2024,,,,,
+309.0,Aurangabad,India,1725283.0,1683389.0,0.0249,Aurangabad,world_cities_2024,,,,,
+310.0,Qinhuangdao,China,1723728.0,1680962.0,0.0254,Qinhuangdao,world_cities_2024,,,,,
+311.0,Stockholm,Sweden,1719604.0,1700066.0,0.0115,Stockholm,world_cities_2024,,,,,
+312.0,Anshan,China,1713452.0,1689499.0,0.0142,Anshan,world_cities_2024,,,,,
+313.0,Glasgow,United Kingdom,1708147.0,1698088.0,0.0059,Glasgow,world_cities_2024,,,,,
+314.0,Xining,China,1705078.0,1666605.0,0.0231,Xining,world_cities_2024,,,,,
+315.0,Makassar,Indonesia,1704930.0,1673094.0,0.019,Makassar,world_cities_2024,,,,,
+316.0,Hengyang,China,1702012.0,1661854.0,0.0242,Hengyang,world_cities_2024,,,,,
+317.0,Novosibirsk,Russia,1701510.0,1694765.0,0.004,Novosibirsk,world_cities_2024,,,,,
+318.0,Ulaanbaatar,Mongolia,1699363.0,1672627.0,0.016,Ulaanbaatar,world_cities_2024,,,,,
+319.0,Onitsha,Nigeria,1694913.0,1623382.0,0.0441,Onitsha,world_cities_2024,,,,,
+320.0,Jilin,China,1693701.0,1668785.0,0.0149,Jilin,world_cities_2024,,,,,
+321.0,Anyang,China,1693375.0,1642347.0,0.0311,Anyang,world_cities_2024,,,,,
+322.0,Auckland,New Zealand,1692770.0,1673220.0,0.0117,Auckland,world_cities_2024,,,,,
+323.0,Tabriz,Iran,1678028.0,1660737.0,0.0104,Tabriz,world_cities_2024,,,,,
+324.0,Phoenix,United States,1676481.0,1660445.0,0.0097,Phoenix,world_cities_2024,,,,,
+325.0,Muscat,Oman,1676167.0,1650319.0,0.0157,Muscat,world_cities_2024,,,,,
+326.0,Calgary,Canada,1665023.0,1639613.0,0.0155,Calgary,world_cities_2024,,,,,
+327.0,Qiqihaer,China,1662407.0,1635458.0,0.0165,Qiqihaer,world_cities_2024,,,,,
+328.0,N Djamena,Chad,1655618.0,1592324.0,0.0397,N Djamena,world_cities_2024,,,,,
+329.0,Marseille,France,1635707.0,1627549.0,0.005,Marseille,world_cities_2024,,,,,
+330.0,Cordoba,Argentina,1625937.0,1611651.0,0.0089,Cordoba,world_cities_2024,,,,,
+331.0,Jodhpur,India,1625325.0,1586547.0,0.0244,Jodhpur,world_cities_2024,,,,,
+332.0,Kathmandu,Nepal,1621642.0,1571010.0,0.0322,Kathmandu,world_cities_2024,,,,,
+333.0,Rosario,Argentina,1613041.0,1594096.0,0.0119,Rosario,world_cities_2024,,,,,
+334.0,Tegucigalpa,Honduras,1609261.0,1568025.0,0.0263,Tegucigalpa,world_cities_2024,,,,,
+335.0,Ciudad Juarez,Mexico,1604085.0,1582313.0,0.0138,Ciudad Juarez,world_cities_2024,,,,,
+336.0,Harare,Zimbabwe,1603201.0,1578128.0,0.0159,Harare,world_cities_2024,,,,,
+337.0,Karaj,Iran,1603011.0,1593608.0,0.0059,Karaj,world_cities_2024,,,,,
+338.0,Medina,Saudi Arabia,1598976.0,1572571.0,0.0168,Medina,world_cities_2024,,,,,
+339.0,Jining Shandong,China,1595963.0,1569560.0,0.0168,Jining Shandong,world_cities_2024,,,,,
+340.0,Abu Dhabi,United Arab Emirates,1593284.0,1566999.0,0.0168,Abu Dhabi,world_cities_2024,,,,,
+341.0,Munich,Germany,1584507.0,1576416.0,0.0051,Munich,world_cities_2024,,,,,
+342.0,Ranchi,India,1584237.0,1547258.0,0.0239,Ranchi,world_cities_2024,,,,,
+343.0,Daejon,South Korea,1581705.0,1577436.0,0.0027,Daejon,world_cities_2024,,,,,
+344.0,Zhangjiakou,China,1568122.0,1536171.0,0.0208,Zhangjiakou,world_cities_2024,,,,,
+345.0,Edmonton,Canada,1567615.0,1544448.0,0.015,Edmonton,world_cities_2024,,,,,
+346.0,Mandalay,Myanmar,1563021.0,1531860.0,0.0203,Mandalay,world_cities_2024,,,,,
+347.0,Gaoxiong,Taiwan,1559085.0,1552899.0,0.004,Gaoxiong,world_cities_2024,,,,,
+348.0,Kota,India,1558468.0,1516795.0,0.0275,Kota,world_cities_2024,,,,,
+349.0,Natal,Brazil,1556413.0,1535316.0,0.0137,Natal,world_cities_2024,,,,,
+350.0,Nouakchott,Mauritania,1552146.0,1491958.0,0.0403,Nouakchott,world_cities_2024,,,,,
+351.0,Jabalpur,India,1551004.0,1522121.0,0.019,Jabalpur,world_cities_2024,,,,,
+352.0,Huainan,China,1538603.0,1512668.0,0.0171,Huainan,world_cities_2024,,,,,
+353.0,Grande Sao Luis,Brazil,1536017.0,1523629.0,0.0081,Grande Sao Luis,world_cities_2024,,,,,
+354.0,Asansol,India,1534081.0,1505033.0,0.0193,Asansol,world_cities_2024,,,,,
+355.0,Philadelphia,United States,1533916.0,1550587.0,-0.0107,Philadelphia,world_cities_2024,,,,,
+356.0,Yekaterinburg,Russia,1532970.0,1527728.0,0.0034,Yekaterinburg,world_cities_2024,,,,,
+357.0,Gwangju,South Korea,1532902.0,1529472.0,0.0022,Gwangju,world_cities_2024,,,,,
+358.0,Yiwu,China,1525749.0,1483320.0,0.0286,Yiwu,world_cities_2024,,,,,
+359.0,Chaozhou,China,1520628.0,1496298.0,0.0163,Chaozhou,world_cities_2024,,,,,
+360.0,Gwalior,India,1508846.0,1475016.0,0.0229,Gwalior,world_cities_2024,,,,,
+361.0,Ganzhou,China,1508037.0,1459678.0,0.0331,Ganzhou,world_cities_2024,,,,,
+362.0,San Antonio,United States,1506593.0,1489751.0,0.0113,San Antonio,world_cities_2024,,,,,
+363.0,Homs,Syria,1499603.0,1443429.0,0.0389,Homs,world_cities_2024,,,,,
+364.0,Niamey,Niger,1496258.0,1437233.0,0.0411,Niamey,world_cities_2024,,,,,
+365.0,Mombasa,Kenya,1495223.0,1440396.0,0.0381,Mombasa,world_cities_2024,,,,,
+366.0,Allahabad,India,1493346.0,1465152.0,0.0192,Allahabad,world_cities_2024,,,,,
+367.0,Basra,Iraq,1485156.0,1448124.0,0.0256,Basra,world_cities_2024,,,,,
+368.0,Kisangani,DR Congo,1483513.0,1423395.0,0.0422,Kisangani,world_cities_2024,,,,,
+369.0,San Jose,Costa Rica,1482460.0,1461989.0,0.014,San Jose,world_cities_2024,,,,,
+370.0,Amritsar,India,1480470.0,1451748.0,0.0198,Amritsar,world_cities_2024,,,,,
+371.0,Taizhou Jiangsu,China,1477600.0,1446810.0,0.0213,Taizhou Jiangsu,world_cities_2024,,,,,
+372.0,Chon Buri,Thailand,1472709.0,1454222.0,0.0127,Chon Buri,world_cities_2024,,,,,
+373.0,Jiaxing,China,1470917.0,1424982.0,0.0322,Jiaxing,world_cities_2024,,,,,
+374.0,Weihai,China,1465926.0,1429315.0,0.0256,Weihai,world_cities_2024,,,,,
+375.0,Hai Phong,Vietnam,1463650.0,1422974.0,0.0286,Hai Phong,world_cities_2024,,,,,
+376.0,Ottawa,Canada,1451571.0,1437188.0,0.01,Ottawa,world_cities_2024,,,,,
+377.0,Zurich,Switzerland,1443349.0,1431538.0,0.0083,Zurich,world_cities_2024,,,,,
+378.0,Taian Shandong,China,1441911.0,1416064.0,0.0183,Taian Shandong,world_cities_2024,,,,,
+379.0,Queretaro,Mexico,1436818.0,1413474.0,0.0165,Queretaro,world_cities_2024,,,,,
+380.0,Joao Pessoa,Brazil,1435125.0,1421827.0,0.0094,Joao Pessoa,world_cities_2024,,,,,
+381.0,Kaifeng,China,1434463.0,1398262.0,0.0259,Kaifeng,world_cities_2024,,,,,
+382.0,Cochabamba,Bolivia,1430688.0,1400250.0,0.0217,Cochabamba,world_cities_2024,,,,,
+383.0,Konya,Turkey,1429935.0,1407632.0,0.0158,Konya,world_cities_2024,,,,,
+384.0,Liuyang,China,1428802.0,1373523.0,0.0402,Liuyang,world_cities_2024,,,,,
+385.0,Liuan,China,1427894.0,1378077.0,0.0361,Liuan,world_cities_2024,,,,,
+386.0,Rizhao,China,1426583.0,1391258.0,0.0254,Rizhao,world_cities_2024,,,,,
+387.0,Kharkiv,Ukraine,1418978.0,1421052.0,-0.0015,Kharkiv,world_cities_2024,,,,,
+388.0,Dhanbad,India,1414532.0,1389776.0,0.0178,Dhanbad,world_cities_2024,,,,,
+389.0,Nanchong,China,1412714.0,1377572.0,0.0255,Nanchong,world_cities_2024,,,,,
+390.0,Dongying,China,1410791.0,1379377.0,0.0228,Dongying,world_cities_2024,,,,,
+391.0,Belgrade,Serbia,1410697.0,1408144.0,0.0018,Belgrade,world_cities_2024,,,,,
+392.0,Zunyi,China,1406091.0,1376453.0,0.0215,Zunyi,world_cities_2024,,,,,
+393.0,Zhanjiang,China,1399310.0,1371998.0,0.0199,Zhanjiang,world_cities_2024,,,,,
+394.0,Bucaramanga,Colombia,1396632.0,1381498.0,0.011,Bucaramanga,world_cities_2024,,,,,
+395.0,Uyo,Nigeria,1393453.0,1329284.0,0.0483,Uyo,world_cities_2024,,,,,
+396.0,Copenhagen,Denmark,1391205.0,1381005.0,0.0074,Copenhagen,world_cities_2024,,,,,
+397.0,Shiyan,China,1387377.0,1354025.0,0.0246,Shiyan,world_cities_2024,,,,,
+398.0,Taizhong,Taiwan,1381855.0,1369066.0,0.0093,Taizhong,world_cities_2024,,,,,
+399.0,Bareilly,India,1380715.0,1348664.0,0.0238,Bareilly,world_cities_2024,,,,,
+400.0,Pointe Noire,Republic of the Congo,1379368.0,1336387.0,0.0322,Pointe Noire,world_cities_2024,,,,,
+401.0,Adelaide,Australia,1379280.0,1366783.0,0.0091,Adelaide,world_cities_2024,,,,,
+402.0,Suweon,South Korea,1378229.0,1365352.0,0.0094,Suweon,world_cities_2024,,,,,
+403.0,Mwanza,Tanzania,1378014.0,1310754.0,0.0513,Mwanza,world_cities_2024,,,,,
+404.0,Mianyang Sichuan,China,1376449.0,1351383.0,0.0185,Mianyang Sichuan,world_cities_2024,,,,,
+405.0,Samut Prakan,Thailand,1376146.0,1358871.0,0.0127,Samut Prakan,world_cities_2024,,,,,
+406.0,Maceio,Brazil,1375984.0,1363510.0,0.0091,Maceio,world_cities_2024,,,,,
+407.0,San Diego,United States,1375452.0,1378307.0,-0.0021,San Diego,world_cities_2024,,,,,
+408.0,Qom,Iran,1373800.0,1354174.0,0.0145,Qom,world_cities_2024,,,,,
+409.0,Antalya,Turkey,1372400.0,1347240.0,0.0187,Antalya,world_cities_2024,,,,,
+410.0,Joinville,Brazil,1361992.0,1348521.0,0.01,Joinville,world_cities_2024,,,,,
+411.0,Tengzhou,China,1360779.0,1322916.0,0.0286,Tengzhou,world_cities_2024,,,,,
+412.0,Yingkou,China,1355564.0,1323174.0,0.0245,Yingkou,world_cities_2024,,,,,
+413.0,Ad Dammam,Saudi Arabia,1352912.0,1329291.0,0.0178,Ad Dammam,world_cities_2024,,,,,
+414.0,Suzhou,China,1349994.0,1310433.0,0.0302,Suzhou,world_cities_2024,,,,,
+415.0,Tanger,Morocco,1348848.0,1314178.0,0.0264,Tanger,world_cities_2024,,,,,
+416.0,Freetown,Sierra Leone,1347559.0,1309168.0,0.0293,Freetown,world_cities_2024,,,,,
+417.0,Helsinki,Finland,1346810.0,1337786.0,0.0067,Helsinki,world_cities_2024,,,,,
+418.0,Aligarh,India,1346018.0,1312369.0,0.0256,Aligarh,world_cities_2024,,,,,
+419.0,Moradabad,India,1335966.0,1301740.0,0.0263,Moradabad,world_cities_2024,,,,,
+420.0,Pekan Baru,Indonesia,1334532.0,1303355.0,0.0239,Pekan Baru,world_cities_2024,,,,,
+421.0,Maoming,China,1333930.0,1303900.0,0.023,Maoming,world_cities_2024,,,,,
+422.0,Lilongwe,Malawi,1333096.0,1276316.0,0.0445,Lilongwe,world_cities_2024,,,,,
+423.0,Porto,Portugal,1329301.0,1324652.0,0.0035,Porto,world_cities_2024,,,,,
+424.0,Prague,Czech Republic,1327947.0,1323339.0,0.0035,Prague,world_cities_2024,,,,,
+425.0,Astana,Kazakhstan,1324111.0,1291280.0,0.0254,Astana,world_cities_2024,,,,,
+426.0,Jieyang,China,1320779.0,1282479.0,0.0299,Jieyang,world_cities_2024,,,,,
+427.0,Fushun Liaoning,China,1317276.0,1304565.0,0.0097,Fushun Liaoning,world_cities_2024,,,,,
+428.0,Mysore,India,1316461.0,1288245.0,0.0219,Mysore,world_cities_2024,,,,,
+429.0,Abomey Calavi,Benin,1314916.0,1252890.0,0.0495,Abomey Calavi,world_cities_2024,,,,,
+430.0,Ruian,China,1314784.0,1281790.0,0.0257,Ruian,world_cities_2024,,,,,
+431.0,Fes,Morocco,1313311.0,1290039.0,0.018,Fes,world_cities_2024,,,,,
+432.0,Port Elizabeth,South Africa,1312631.0,1295928.0,0.0129,Port Elizabeth,world_cities_2024,,,,,
+433.0,Florianopolis,Brazil,1309895.0,1294486.0,0.0119,Florianopolis,world_cities_2024,,,,,
+434.0,Ahvaz,Iran,1309372.0,1293619.0,0.0122,Ahvaz,world_cities_2024,,,,,
+435.0,Bukavu,DR Congo,1308469.0,1248783.0,0.0478,Bukavu,world_cities_2024,,,,,
+436.0,Nnewi,Nigeria,1300993.0,1239186.0,0.0499,Nnewi,world_cities_2024,,,,,
+437.0,Kazan,Russia,1296232.0,1291884.0,0.0034,Kazan,world_cities_2024,,,,,
+438.0,Jinhua,China,1296065.0,1257941.0,0.0303,Jinhua,world_cities_2024,,,,,
+439.0,Dallas,United States,1295447.0,1297495.0,-0.0016,Dallas,world_cities_2024,,,,,
+440.0,San Luis Potosi,Mexico,1292133.0,1273325.0,0.0148,San Luis Potosi,world_cities_2024,,,,,
+441.0,Baoji,China,1290231.0,1261077.0,0.0231,Baoji,world_cities_2024,,,,,
+442.0,Durg Bhilainagar,India,1289673.0,1266034.0,0.0187,Durg Bhilainagar,world_cities_2024,,,,,
+443.0,Bhubaneswar,India,1289254.0,1257642.0,0.0251,Bhubaneswar,world_cities_2024,,,,,
+444.0,Kigali,Rwanda,1287952.0,1247551.0,0.0324,Kigali,world_cities_2024,,,,,
+445.0,Sofia,Bulgaria,1287540.0,1288114.0,-0.0004,Sofia,world_cities_2024,,,,,
+446.0,Pingdingshan Henan,China,1285750.0,1256581.0,0.0232,Pingdingshan Henan,world_cities_2024,,,,,
+447.0,Dublin,Ireland,1284551.0,1270172.0,0.0113,Dublin,world_cities_2024,,,,,
+448.0,Puning,China,1282756.0,1254160.0,0.0228,Puning,world_cities_2024,,,,,
+449.0,Chifeng,China,1279544.0,1252414.0,0.0217,Chifeng,world_cities_2024,,,,,
+450.0,Zhuzhou,China,1277238.0,1254519.0,0.0181,Zhuzhou,world_cities_2024,,,,,
+451.0,Bujumbura,Burundi,1277050.0,1206767.0,0.0582,Bujumbura,world_cities_2024,,,,,
+452.0,Zhenjiang Jiangsu,China,1275395.0,1250668.0,0.0198,Zhenjiang Jiangsu,world_cities_2024,,,,,
+453.0,Liupanshui,China,1272872.0,1230644.0,0.0343,Liupanshui,world_cities_2024,,,,,
+454.0,Barquisimeto,Venezuela,1267872.0,1254192.0,0.0109,Barquisimeto,world_cities_2024,,,,,
+455.0,Islamabad,Pakistan,1266792.0,1232447.0,0.0279,Islamabad,world_cities_2024,,,,,
+456.0,Huaibei,China,1264856.0,1236271.0,0.0231,Huaibei,world_cities_2024,,,,,
+457.0,Tasikmalaya,Indonesia,1258124.0,1213778.0,0.0365,Tasikmalaya,world_cities_2024,,,,,
+458.0,Maracay,Venezuela,1256553.0,1242945.0,0.0109,Maracay,world_cities_2024,,,,,
+459.0,Bogor,Indonesia,1256155.0,1231445.0,0.0201,Bogor,world_cities_2024,,,,,
+460.0,Da Nang,Vietnam,1253228.0,1220634.0,0.0267,Da Nang,world_cities_2024,,,,,
+461.0,Nizhniy Novgorod,Russia,1250302.0,1251332.0,-0.0008,Nizhniy Novgorod,world_cities_2024,,,,,
+462.0,Nanyang Henan,China,1250300.0,1224629.0,0.021,Nanyang Henan,world_cities_2024,,,,,
+463.0,Xiangtan Hunan,China,1249380.0,1223912.0,0.0208,Xiangtan Hunan,world_cities_2024,,,,,
+464.0,Pizhou,China,1247177.0,1207275.0,0.0331,Pizhou,world_cities_2024,,,,,
+465.0,Tiruchirappalli,India,1244978.0,1221960.0,0.0188,Tiruchirappalli,world_cities_2024,,,,,
+466.0,Chelyabinsk,Russia,1243883.0,1240926.0,0.0024,Chelyabinsk,world_cities_2024,,,,,
+467.0,Mendoza,Argentina,1242319.0,1226427.0,0.013,Mendoza,world_cities_2024,,,,,
+468.0,Luohe,China,1241152.0,1197935.0,0.0361,Luohe,world_cities_2024,,,,,
+469.0,Xiongan,China,1240158.0,1183042.0,0.0483,Xiongan,world_cities_2024,,,,,
+470.0,Chandigarh,India,1239699.0,1214775.0,0.0205,Chandigarh,world_cities_2024,,,,,
+471.0,Merida,Mexico,1239654.0,1220603.0,0.0156,Merida,world_cities_2024,,,,,
+472.0,Jinzhou,China,1238377.0,1215376.0,0.0189,Jinzhou,world_cities_2024,,,,,
+473.0,Benxi,China,1237550.0,1216852.0,0.017,Benxi,world_cities_2024,,,,,
+474.0,Binzhou,China,1233584.0,1200222.0,0.0278,Binzhou,world_cities_2024,,,,,
+475.0,Aba,Nigeria,1230407.0,1188803.0,0.035,Aba,world_cities_2024,,,,,
+476.0,Chiang Mai,Thailand,1228773.0,1213348.0,0.0127,Chiang Mai,world_cities_2024,,,,,
+477.0,Bazhong,China,1225591.0,1175989.0,0.0422,Bazhong,world_cities_2024,,,,,
+478.0,Quetta,Pakistan,1221495.0,1190348.0,0.0262,Quetta,world_cities_2024,,,,,
+479.0,Kaduna,Nigeria,1221451.0,1187398.0,0.0287,Kaduna,world_cities_2024,,,,,
+480.0,Guilin,China,1218067.0,1196841.0,0.0177,Guilin,world_cities_2024,,,,,
+481.0,Saharanpur,India,1207856.0,1171689.0,0.0309,Saharanpur,world_cities_2024,,,,,
+482.0,Hubli Dharwad,India,1205428.0,1181194.0,0.0205,Hubli Dharwad,world_cities_2024,,,,,
+483.0,Yueqing,China,1201400.0,1169864.0,0.027,Yueqing,world_cities_2024,,,,,
+484.0,Guwahati,India,1199455.0,1176330.0,0.0197,Guwahati,world_cities_2024,,,,,
+485.0,Mexicali,Mexico,1196982.0,1178477.0,0.0157,Mexicali,world_cities_2024,,,,,
+486.0,Salem,India,1194757.0,1169953.0,0.0212,Salem,world_cities_2024,,,,,
+487.0,Maputo,Mozambique,1193253.0,1162793.0,0.0262,Maputo,world_cities_2024,,,,,
+488.0,Tripoli,Libya,1192436.0,1183292.0,0.0077,Tripoli,world_cities_2024,,,,,
+489.0,Haifa,Israel,1186475.0,1174429.0,0.0103,Haifa,world_cities_2024,,,,,
+490.0,Bandar Lampung,Indonesia,1186233.0,1162242.0,0.0206,Bandar Lampung,world_cities_2024,,,,,
+491.0,Bobo Dioulasso,Burkina Faso,1185053.0,1128646.0,0.05,Bobo Dioulasso,world_cities_2024,,,,,
+492.0,Amsterdam,Netherlands,1181817.0,1174025.0,0.0066,Amsterdam,world_cities_2024,,,,,
+493.0,Shimkent,Kazakhstan,1181020.0,1155073.0,0.0225,Shimkent,world_cities_2024,,,,,
+494.0,Omsk,Russia,1180677.0,1180745.0,-0.0001,Omsk,world_cities_2024,,,,,
+495.0,Aguascalientes,Mexico,1179301.0,1161448.0,0.0154,Aguascalientes,world_cities_2024,,,,,
+496.0,Hargeysa,Somalia,1176617.0,1127198.0,0.0438,Hargeysa,world_cities_2024,,,,,
+497.0,Krasnoyarsk,Russia,1173095.0,1166792.0,0.0054,Krasnoyarsk,world_cities_2024,,,,,
+498.0,Xinxiang,China,1160840.0,1140599.0,0.0177,Xinxiang,world_cities_2024,,,,,
+499.0,Siliguri,India,1159371.0,1126249.0,0.0294,Siliguri,world_cities_2024,,,,,
+500.0,Wenling,China,1159259.0,1131361.0,0.0247,Wenling,world_cities_2024,,,,,
+501.0,Samara,Russia,1154451.0,1155732.0,-0.0011,Samara,world_cities_2024,,,,,
+502.0,Zaozhuang,China,1150859.0,1133629.0,0.0152,Zaozhuang,world_cities_2024,,,,,
+503.0,Cologne,Germany,1149014.0,1143715.0,0.0046,Cologne,world_cities_2024,,,,,
+504.0,Yongin,South Korea,1147967.0,1135671.0,0.0108,Yongin,world_cities_2024,,,,,
+505.0,Ufa,Russia,1146786.0,1144799.0,0.0017,Ufa,world_cities_2024,,,,,
+506.0,Fuyang,China,1146343.0,1120694.0,0.0229,Fuyang,world_cities_2024,,,,,
+507.0,Ikorodu,Nigeria,1145224.0,1093308.0,0.0475,Ikorodu,world_cities_2024,,,,,
+508.0,Bien Hoa,Vietnam,1142997.0,1110824.0,0.029,Bien Hoa,world_cities_2024,,,,,
+509.0,Jalandhar,India,1142682.0,1118826.0,0.0213,Jalandhar,world_cities_2024,,,,,
+510.0,Panjin,China,1142542.0,1120675.0,0.0195,Panjin,world_cities_2024,,,,,
+511.0,Ma'anshan,China,1140264.0,1112680.0,0.0248,Maanshan,world_cities_2024,,,,,
+512.0,Cuernavaca,Mexico,1140169.0,1123843.0,0.0145,Cuernavaca,world_cities_2024,,,,,
+513.0,Rostov on Don,Russia,1139641.0,1138854.0,0.0007,Rostov on Don,world_cities_2024,,,,,
+514.0,Chihuahua,Mexico,1135342.0,1116295.0,0.0171,Chihuahua,world_cities_2024,,,,,
+515.0,Fuzhou Jiangxi,China,1131718.0,1100271.0,0.0286,Fuzhou Jiangxi,world_cities_2024,,,,,
+516.0,Tshikapa,DR Congo,1131226.0,1077108.0,0.0502,Tshikapa,world_cities_2024,,,,,
+517.0,Shangrao,China,1130887.0,1106736.0,0.0218,Shangrao,world_cities_2024,,,,,
+518.0,Samarinda,Indonesia,1128176.0,1100324.0,0.0253,Samarinda,world_cities_2024,,,,,
+519.0,Bishkek,Kyrgyzstan,1127721.0,1104742.0,0.0208,Bishkek,world_cities_2024,,,,,
+520.0,Zhaoqing,China,1127601.0,1103202.0,0.0221,Zhaoqing,world_cities_2024,,,,,
+521.0,San Salvador,El Salvador,1123376.0,1116052.0,0.0066,San Salvador,world_cities_2024,,,,,
+522.0,Yichun Jiangxi,China,1122041.0,1078630.0,0.0402,Yichun Jiangxi,world_cities_2024,,,,,
+523.0,Chenzhou,China,1119791.0,1084969.0,0.0321,Chenzhou,world_cities_2024,,,,,
+524.0,Sekondi Takoradi,Ghana,1119534.0,1077929.0,0.0386,Sekondi Takoradi,world_cities_2024,,,,,
+525.0,Leshan,China,1116497.0,1087409.0,0.0267,Leshan,world_cities_2024,,,,,
+526.0,Aden,Yemen,1116193.0,1079670.0,0.0338,Aden,world_cities_2024,,,,,
+527.0,Goyang,South Korea,1114079.0,1105283.0,0.008,Goyang,world_cities_2024,,,,,
+528.0,Diyarbakir,Turkey,1113333.0,1096937.0,0.0149,Diyarbakir,world_cities_2024,,,,,
+529.0,Asmara,Eritrea,1111748.0,1072666.0,0.0364,Asmara,world_cities_2024,,,,,
+530.0,Dezhou,China,1108356.0,1080680.0,0.0256,Dezhou,world_cities_2024,,,,,
+531.0,Jingzhou Hubei,China,1108067.0,1089886.0,0.0167,Jingzhou Hubei,world_cities_2024,,,,,
+532.0,Managua,Nicaragua,1107118.0,1094510.0,0.0115,Managua,world_cities_2024,,,,,
+533.0,Johor Bahru,Malaysia,1107001.0,1086214.0,0.0191,Johor Bahru,world_cities_2024,,,,,
+534.0,Kermanshah,Iran,1101611.0,1084623.0,0.0157,Kermanshah,world_cities_2024,,,,,
+535.0,Nyala,Sudan,1101314.0,1056952.0,0.042,Nyala,world_cities_2024,,,,,
+536.0,Oslo,Norway,1100868.0,1085992.0,0.0137,Oslo,world_cities_2024,,,,,
+537.0,Kirkuk,Iraq,1100390.0,1074884.0,0.0237,Kirkuk,world_cities_2024,,,,,
+538.0,Yerevan,Armenia,1097542.0,1094813.0,0.0025,Yerevan,world_cities_2024,,,,,
+539.0,Cartagena,Colombia,1096463.0,1087599.0,0.0082,Cartagena,world_cities_2024,,,,,
+540.0,Changshu,China,1093687.0,1059902.0,0.0319,Changshu,world_cities_2024,,,,,
+541.0,Huzhou,China,1091811.0,1067651.0,0.0226,Huzhou,world_cities_2024,,,,,
+542.0,Xuchang,China,1091744.0,1063876.0,0.0262,Xuchang,world_cities_2024,,,,,
+543.0,Solapur,India,1088131.0,1070322.0,0.0166,Solapur,world_cities_2024,,,,,
+544.0,Lille,France,1085199.0,1079120.0,0.0056,Lille,world_cities_2024,,,,,
+545.0,Mersin,Turkey,1084817.0,1069402.0,0.0144,Mersin,world_cities_2024,,,,,
+546.0,Tbilisi,Georgia,1084471.0,1082245.0,0.0021,Tbilisi,world_cities_2024,,,,,
+547.0,Perm,Russia,1084120.0,1081768.0,0.0022,Perm,world_cities_2024,,,,,
+548.0,Voronezh,Russia,1083724.0,1080808.0,0.0027,Voronezh,world_cities_2024,,,,,
+549.0,Denpasar,Indonesia,1075244.0,1053041.0,0.0211,Denpasar,world_cities_2024,,,,,
+550.0,Toulouse,France,1070746.0,1060460.0,0.0097,Toulouse,world_cities_2024,,,,,
+551.0,Blantyre Limbe,Malawi,1070625.0,1030974.0,0.0385,Blantyre Limbe,world_cities_2024,,,,,
+552.0,Aracaju,Brazil,1070122.0,1056986.0,0.0124,Aracaju,world_cities_2024,,,,,
+553.0,Marrakech,Morocco,1067172.0,1049690.0,0.0167,Marrakech,world_cities_2024,,,,,
+554.0,Qujing,China,1066897.0,1038964.0,0.0269,Qujing,world_cities_2024,,,,,
+555.0,Yueyang,China,1064166.0,1048889.0,0.0146,Yueyang,world_cities_2024,,,,,
+556.0,Ilorin,Nigeria,1063713.0,1030498.0,0.0322,Ilorin,world_cities_2024,,,,,
+557.0,Tampico,Mexico,1062567.0,1047251.0,0.0146,Tampico,world_cities_2024,,,,,
+558.0,Antwerp,Belgium,1061089.0,1057215.0,0.0037,Antwerp,world_cities_2024,,,,,
+559.0,Teresina,Brazil,1059657.0,1050459.0,0.0088,Teresina,world_cities_2024,,,,,
+560.0,Guiping,China,1055921.0,1020399.0,0.0348,Guiping,world_cities_2024,,,,,
+561.0,Warangal,India,1055604.0,1031090.0,0.0238,Warangal,world_cities_2024,,,,,
+562.0,Changwon,South Korea,1055373.0,1054442.0,0.0009,Changwon,world_cities_2024,,,,,
+563.0,Padang,Indonesia,1052849.0,1033645.0,0.0186,Padang,world_cities_2024,,,,,
+564.0,Saltillo,Mexico,1050320.0,1034126.0,0.0157,Saltillo,world_cities_2024,,,,,
+565.0,Xintai,China,1049486.0,1023756.0,0.0251,Xintai,world_cities_2024,,,,,
+566.0,Cancun,Mexico,1045005.0,1022604.0,0.0219,Cancun,world_cities_2024,,,,,
+567.0,Cebu City,Philippines,1042613.0,1024945.0,0.0172,Cebu City,world_cities_2024,,,,,
+568.0,San Miguel De Tucuman,Argentina,1039226.0,1026767.0,0.0121,San Miguel De Tucuman,world_cities_2024,,,,,
+569.0,Hamah,Syria,1034498.0,995747.0,0.0389,Hamah,world_cities_2024,,,,,
+570.0,Acapulco De Juarez,Mexico,1032772.0,1018976.0,0.0135,Acapulco De Juarez,world_cities_2024,,,,,
+571.0,Warri,Nigeria,1031425.0,986921.0,0.0451,Warri,world_cities_2024,,,,,
+572.0,Kayseri,Turkey,1025507.0,1013240.0,0.0121,Kayseri,world_cities_2024,,,,,
+573.0,Chengde,China,1024521.0,993097.0,0.0316,Chengde,world_cities_2024,,,,,
+574.0,Owerri,Nigeria,1022922.0,983352.0,0.0402,Owerri,world_cities_2024,,,,,
+575.0,Rotterdam,Netherlands,1021919.0,1018012.0,0.0038,Rotterdam,world_cities_2024,,,,,
+576.0,Pingxiang Jiangxi,China,1021575.0,999721.0,0.0219,Pingxiang Jiangxi,world_cities_2024,,,,,
+577.0,Zhucheng,China,1019600.0,991208.0,0.0286,Zhucheng,world_cities_2024,,,,,
+578.0,Songkhla,Thailand,1017784.0,1005007.0,0.0127,Songkhla,world_cities_2024,,,,,
+579.0,Valparaiso,Chile,1016585.0,1008599.0,0.0079,Valparaiso,world_cities_2024,,,,,
+580.0,Dehradun,India,1016402.0,991876.0,0.0247,Dehradun,world_cities_2024,,,,,
+581.0,Nonthaburi,Thailand,1013672.0,1000947.0,0.0127,Nonthaburi,world_cities_2024,,,,,
+582.0,Leiyang,China,1013191.0,978327.0,0.0356,Leiyang,world_cities_2024,,,,,
+583.0,Dushanbe,Tajikistan,1012794.0,986899.0,0.0262,Dushanbe,world_cities_2024,,,,,
+584.0,Nampula,Mozambique,1012582.0,969322.0,0.0446,Nampula,world_cities_2024,,,,,
+585.0,Misratah,Libya,1011119.0,984193.0,0.0274,Misratah,world_cities_2024,,,,,
+586.0,Krasnodar,Russia,1010552.0,1001155.0,0.0094,Krasnodar,world_cities_2024,,,,,
+587.0,Laiwu,China,1009727.0,986248.0,0.0238,Laiwu,world_cities_2024,,,,,
+588.0,Bordeaux,France,1009594.0,1000475.0,0.0091,Bordeaux,world_cities_2024,,,,,
+589.0,Jixi Heilongjiang,China,1008989.0,993175.0,0.0159,Jixi Heilongjiang,world_cities_2024,,,,,
+590.0,San Pedro Sula,Honduras,1008220.0,982021.0,0.0267,San Pedro Sula,world_cities_2024,,,,,
+591.0,Odesa,Ukraine,1007596.0,1007716.0,-0.0001,Odesa,world_cities_2024,,,,,
+592.0,Jiujiang,China,1004247.0,982777.0,0.0218,Jiujiang,world_cities_2024,,,,,
+593.0,Lubango,Angola,1003016.0,958548.0,0.0464,Lubango,world_cities_2024,,,,,
+594.0,Morelia,Mexico,1002461.0,988744.0,0.0139,Morelia,world_cities_2024,,,,,
+595.0,Jos,Nigeria,1001155.0,970129.0,0.032,Jos,world_cities_2024,,,,,
+596.0,Sylhet,Bangladesh,999374.0,964291.0,0.0364,Sylhet,world_cities_2024,,,,,
+597.0,Agadir,Morocco,998146.0,979248.0,0.0193,Agadir,world_cities_2024,,,,,
+598.0,Volgograd,Russia,993352.0,995078.0,-0.0017,Volgograd,world_cities_2024,,,,,
+599.0,Mudanjiang,China,992414.0,975348.0,0.0175,Mudanjiang,world_cities_2024,,,,,
+600.0,Jacksonville,United States,990931.0,981125.0,0.01,Jacksonville,world_cities_2024,,,,,
+601.0,Guigang,China,990310.0,967428.0,0.0237,Guigang,world_cities_2024,,,,,
+602.0,Fort Worth,United States,989842.0,973275.0,0.017,Fort Worth,world_cities_2024,,,,,
+603.0,Najaf,Iraq,987814.0,958487.0,0.0306,Najaf,world_cities_2024,,,,,
+604.0,Bangui,Central African Republic,985965.0,958335.0,0.0288,Bangui,world_cities_2024,,,,,
+605.0,Rajshahi,Bangladesh,983707.0,961991.0,0.0226,Rajshahi,world_cities_2024,,,,,
+606.0,Hengshui,China,983694.0,955663.0,0.0293,Hengshui,world_cities_2024,,,,,
+607.0,Austin,United States,983126.0,978786.0,0.0044,Austin,world_cities_2024,,,,,
+608.0,Jerusalem,Israel,983097.0,969804.0,0.0137,Jerusalem,world_cities_2024,,,,,
+609.0,Zhangzhou,China,980054.0,955519.0,0.0257,Zhangzhou,world_cities_2024,,,,,
+610.0,Xinyu,China,979303.0,952278.0,0.0284,Xinyu,world_cities_2024,,,,,
+611.0,Linfen,China,978614.0,951822.0,0.0281,Linfen,world_cities_2024,,,,,
+612.0,Tianmen,China,978317.0,953768.0,0.0257,Tianmen,world_cities_2024,,,,,
+613.0,Ciudad Guayana,Venezuela,978202.0,964266.0,0.0145,Ciudad Guayana,world_cities_2024,,,,,
+614.0,Zamboanga City,Philippines,977081.0,960349.0,0.0174,Zamboanga City,world_cities_2024,,,,,
+615.0,Yangjiang,China,976606.0,956079.0,0.0215,Yangjiang,world_cities_2024,,,,,
+616.0,Taiz,Yemen,974518.0,940600.0,0.0361,Taiz,world_cities_2024,,,,,
+617.0,Cucuta,Colombia,972485.0,963045.0,0.0098,Cucuta,world_cities_2024,,,,,
+618.0,Arequipa,Peru,971296.0,958998.0,0.0128,Arequipa,world_cities_2024,,,,,
+619.0,Liling,China,970907.0,936997.0,0.0362,Liling,world_cities_2024,,,,,
+620.0,Antipolo,Philippines,968288.0,946653.0,0.0229,Antipolo,world_cities_2024,,,,,
+621.0,Veracruz,Mexico,968070.0,955226.0,0.0134,Veracruz,world_cities_2024,,,,,
+622.0,Reynosa,Mexico,967627.0,951417.0,0.017,Reynosa,world_cities_2024,,,,,
+623.0,Khulna,Bangladesh,965483.0,955104.0,0.0109,Khulna,world_cities_2024,,,,,
+624.0,Deyang,China,963160.0,939166.0,0.0255,Deyang,world_cities_2024,,,,,
+625.0,Pathum Thani,Thailand,962126.0,950048.0,0.0127,Pathum Thani,world_cities_2024,,,,,
+626.0,Bengbu,China,959784.0,944465.0,0.0162,Bengbu,world_cities_2024,,,,,
+627.0,Jiangyin,China,959250.0,933395.0,0.0277,Jiangyin,world_cities_2024,,,,,
+628.0,Southampton,United Kingdom,959202.0,951531.0,0.0081,Southampton,world_cities_2024,,,,,
+629.0,Villahermosa,Mexico,958118.0,943530.0,0.0155,Villahermosa,world_cities_2024,,,,,
+630.0,Baishan,China,956976.0,927532.0,0.0317,Baishan,world_cities_2024,,,,,
+631.0,Nice,France,951808.0,948149.0,0.0039,Nice,world_cities_2024,,,,,
+632.0,Oran,Algeria,950768.0,935947.0,0.0158,Oran,world_cities_2024,,,,,
+633.0,West Rand,South Africa,947734.0,934341.0,0.0143,West Rand,world_cities_2024,,,,,
+634.0,Cabinda,Angola,947634.0,904676.0,0.0475,Cabinda,world_cities_2024,,,,,
+635.0,Umuahia,Nigeria,947460.0,904139.0,0.0479,Umuahia,world_cities_2024,,,,,
+636.0,Bogra,Bangladesh,944877.0,905814.0,0.0431,Bogra,world_cities_2024,,,,,
+637.0,Bahawalpur,Pakistan,944812.0,919654.0,0.0274,Bahawalpur,world_cities_2024,,,,,
+638.0,Seongnam,South Korea,942159.0,941508.0,0.0007,Seongnam,world_cities_2024,,,,,
+639.0,Guntur,India,940205.0,918324.0,0.0238,Guntur,world_cities_2024,,,,,
+640.0,Dnipro,Ukraine,936766.0,941586.0,-0.0051,Dnipro,world_cities_2024,,,,,
+641.0,Campo Grande,Brazil,934936.0,926095.0,0.0095,Campo Grande,world_cities_2024,,,,,
+642.0,Malang,Indonesia,933392.0,919443.0,0.0152,Malang,world_cities_2024,,,,,
+643.0,Londrina,Brazil,932892.0,922425.0,0.0113,Londrina,world_cities_2024,,,,,
+644.0,Dandong,China,932648.0,917936.0,0.016,Dandong,world_cities_2024,,,,,
+645.0,San Jose,United States,932636.0,951934.0,-0.0203,San Jose,world_cities_2024,,,,,
+646.0,Changzhi,China,930620.0,910743.0,0.0218,Changzhi,world_cities_2024,,,,,
+647.0,Hermosillo,Mexico,929961.0,915060.0,0.0163,Hermosillo,world_cities_2024,,,,,
+648.0,Bhiwandi,India,924670.0,906581.0,0.02,Bhiwandi,world_cities_2024,,,,,
+649.0,La Plata,Argentina,923715.0,914036.0,0.0106,La Plata,world_cities_2024,,,,,
+650.0,Liverpool,United Kingdom,922871.0,917032.0,0.0064,Liverpool,world_cities_2024,,,,,
+651.0,Ashgabat,Turkmenistan,921601.0,902353.0,0.0213,Ashgabat,world_cities_2024,,,,,
+652.0,Concepcion,Chile,920916.0,911862.0,0.0099,Concepcion,world_cities_2024,,,,,
+653.0,Charlotte,United States,920325.0,909022.0,0.0124,Charlotte,world_cities_2024,,,,,
+654.0,Puducherry,India,919280.0,897983.0,0.0237,Puducherry,world_cities_2024,,,,,
+655.0,Changde,China,919026.0,898338.0,0.023,Changde,world_cities_2024,,,,,
+656.0,Bergamo,Italy,918675.0,913376.0,0.0058,Bergamo,world_cities_2024,,,,,
+657.0,Firozabad,India,918218.0,894388.0,0.0266,Firozabad,world_cities_2024,,,,,
+658.0,Erbil,Iraq,917639.0,896716.0,0.0233,Erbil,world_cities_2024,,,,,
+659.0,Tyumen,Russia,916862.0,903815.0,0.0144,Tyumen,world_cities_2024,,,,,
+660.0,Trujillo,Peru,916632.0,903896.0,0.0141,Trujillo,world_cities_2024,,,,,
+661.0,Liaoyang,China,916238.0,900692.0,0.0173,Liaoyang,world_cities_2024,,,,,
+662.0,Shangqiu,China,915823.0,895111.0,0.0231,Shangqiu,world_cities_2024,,,,,
+663.0,Ulsan,South Korea,914300.0,912734.0,0.0017,Ulsan,world_cities_2024,,,,,
+664.0,Tuxtla Gutierrez,Mexico,913075.0,897694.0,0.0171,Tuxtla Gutierrez,world_cities_2024,,,,,
+665.0,Columbus,United States,909676.0,908823.0,0.0009,Columbus,world_cities_2024,,,,,
+666.0,Kuerle,China,906765.0,875496.0,0.0357,Kuerle,world_cities_2024,,,,,
+667.0,Soshanguve,South Africa,905868.0,892254.0,0.0153,Soshanguve,world_cities_2024,,,,,
+668.0,Xingtai,China,904070.0,886381.0,0.02,Xingtai,world_cities_2024,,,,,
+669.0,Culiacan,Mexico,903910.0,888620.0,0.0172,Culiacan,world_cities_2024,,,,,
+670.0,Quzhou,China,902621.0,871457.0,0.0358,Quzhou,world_cities_2024,,,,,
+671.0,Cherthala,India,901820.0,870465.0,0.036,Cherthala,world_cities_2024,,,,,
+672.0,Huangshi,China,893107.0,876930.0,0.0184,Huangshi,world_cities_2024,,,,,
+673.0,Fuxin,China,889767.0,876131.0,0.0156,Fuxin,world_cities_2024,,,,,
+674.0,Lokoja,Nigeria,885882.0,839046.0,0.0558,Lokoja,world_cities_2024,,,,,
+675.0,Hufuf Mubarraz,Saudi Arabia,884753.0,872438.0,0.0141,Hufuf Mubarraz,world_cities_2024,,,,,
+676.0,Libreville,Gabon,883920.0,869773.0,0.0163,Libreville,world_cities_2024,,,,,
+677.0,Yongzhou,China,883326.0,860522.0,0.0265,Yongzhou,world_cities_2024,,,,,
+678.0,Xinghua,China,882986.0,861978.0,0.0244,Xinghua,world_cities_2024,,,,,
+679.0,Donetsk,Ukraine,882209.0,887716.0,-0.0062,Donetsk,world_cities_2024,,,,,
+680.0,Yibin,China,881480.0,864910.0,0.0192,Yibin,world_cities_2024,,,,,
+681.0,Enugu,Nigeria,875552.0,846560.0,0.0342,Enugu,world_cities_2024,,,,,
+682.0,Tainan,Taiwan,875392.0,869625.0,0.0066,Tainan,world_cities_2024,,,,,
+683.0,Indianapolis (balance),United States,874089.0,877355.0,-0.0037,Indianapolis balance,world_cities_2024,,,,,
+684.0,Xinyang,China,873268.0,855191.0,0.0211,Xinyang,world_cities_2024,,,,,
+685.0,Ipoh,Malaysia,872424.0,857225.0,0.0177,Ipoh,world_cities_2024,,,,,
+686.0,Luzhou,China,870714.0,857683.0,0.0152,Luzhou,world_cities_2024,,,,,
+687.0,Banghazi,Libya,870502.0,859209.0,0.0131,Banghazi,world_cities_2024,,,,,
+688.0,Maiduguri,Nigeria,870201.0,844747.0,0.0301,Maiduguri,world_cities_2024,,,,,
+689.0,Yangquan,China,869585.0,851630.0,0.0211,Yangquan,world_cities_2024,,,,,
+690.0,Huaihua,China,869575.0,843754.0,0.0306,Huaihua,world_cities_2024,,,,,
+691.0,Xiaogan,China,869479.0,849580.0,0.0234,Xiaogan,world_cities_2024,,,,,
+692.0,Tianshui,China,858672.0,837479.0,0.0253,Tianshui,world_cities_2024,,,,,
+693.0,Bunia,DR Congo,856339.0,812090.0,0.0545,Bunia,world_cities_2024,,,,,
+694.0,Bozhou,China,854946.0,830125.0,0.0299,Bozhou,world_cities_2024,,,,,
+695.0,Kottayam,India,853635.0,818628.0,0.0428,Kottayam,world_cities_2024,,,,,
+696.0,Zhuji,China,852608.0,834782.0,0.0214,Zhuji,world_cities_2024,,,,,
+697.0,Kunshan,China,851399.0,826414.0,0.0302,Kunshan,world_cities_2024,,,,,
+698.0,Quebec City,Canada,851061.0,844249.0,0.0081,Quebec City,world_cities_2024,,,,,
+699.0,Palermo,Italy,850233.0,849687.0,0.0006,Palermo,world_cities_2024,,,,,
+700.0,Winnipeg,Canada,849251.0,841108.0,0.0097,Winnipeg,world_cities_2024,,,,,
+701.0,Orumiyeh,Iran,848443.0,835900.0,0.015,Orumiyeh,world_cities_2024,,,,,
+702.0,Eskisehir,Turkey,848002.0,834065.0,0.0167,Eskisehir,world_cities_2024,,,,,
+703.0,Benguela,Angola,843207.0,809468.0,0.0417,Benguela,world_cities_2024,,,,,
+704.0,Jincheng,China,841928.0,818057.0,0.0292,Jincheng,world_cities_2024,,,,,
+705.0,Valencia,Spain,839770.0,838301.0,0.0018,Valencia,world_cities_2024,,,,,
+706.0,Heze,China,838928.0,826777.0,0.0147,Heze,world_cities_2024,,,,,
+707.0,Saratov,Russia,837687.0,838377.0,-0.0008,Saratov,world_cities_2024,,,,,
+708.0,Nellore,India,837660.0,816293.0,0.0262,Nellore,world_cities_2024,,,,,
+709.0,Huludao,China,836344.0,821132.0,0.0185,Huludao,world_cities_2024,,,,,
+710.0,Zanzibar,Tanzania,835850.0,800010.0,0.0448,Zanzibar,world_cities_2024,,,,,
+711.0,Barcelona Puerto La Cruz,Venezuela,835805.0,825581.0,0.0124,Barcelona Puerto La Cruz,world_cities_2024,,,,,
+712.0,Bikaner,India,835802.0,818566.0,0.0211,Bikaner,world_cities_2024,,,,,
+713.0,Haicheng,China,834639.0,821192.0,0.0164,Haicheng,world_cities_2024,,,,,
+714.0,Gebze,Turkey,831360.0,813394.0,0.0221,Gebze,world_cities_2024,,,,,
+715.0,Taixing,China,830623.0,811451.0,0.0236,Taixing,world_cities_2024,,,,,
+716.0,Liaocheng,China,830004.0,813369.0,0.0205,Liaocheng,world_cities_2024,,,,,
+717.0,Zhumadian,China,829361.0,804537.0,0.0309,Zhumadian,world_cities_2024,,,,,
+718.0,Newcastle Upon Tyne,United Kingdom,828712.0,823431.0,0.0064,Newcastle Upon Tyne,world_cities_2024,,,,,
+719.0,Langfang,China,827967.0,807833.0,0.0249,Langfang,world_cities_2024,,,,,
+720.0,Bucheon,South Korea,826919.0,826981.0,-0.0001,Bucheon,world_cities_2024,,,,,
+721.0,Sulaimaniya,Iraq,823199.0,800793.0,0.028,Sulaimaniya,world_cities_2024,,,,,
+722.0,Xalapa,Mexico,822863.0,811041.0,0.0146,Xalapa,world_cities_2024,,,,,
+723.0,Malanje,Angola,822471.0,783243.0,0.0501,Malanje,world_cities_2024,,,,,
+724.0,Anqiu,China,821765.0,791931.0,0.0377,Anqiu,world_cities_2024,,,,,
+725.0,Sorocaba,Brazil,821435.0,813320.0,0.01,Sorocaba,world_cities_2024,,,,,
+726.0,Gaomi,China,821154.0,797964.0,0.0291,Gaomi,world_cities_2024,,,,,
+727.0,Dasmarinas,Philippines,820886.0,802600.0,0.0228,Dasmarinas,world_cities_2024,,,,,
+728.0,Cagayan De Oro City,Philippines,820297.0,803194.0,0.0213,Cagayan De Oro City,world_cities_2024,,,,,
+729.0,Hanchuan,China,818761.0,795835.0,0.0288,Hanchuan,world_cities_2024,,,,,
+730.0,Meishan,China,818037.0,796756.0,0.0267,Meishan,world_cities_2024,,,,,
+731.0,Bologna,Italy,816848.0,814332.0,0.0031,Bologna,world_cities_2024,,,,,
+732.0,Ar Rayyan,Qatar,815869.0,798382.0,0.0219,Ar Rayyan,world_cities_2024,,,,,
+733.0,Thessaloniki,Greece,814980.0,814524.0,0.0006,Thessaloniki,world_cities_2024,,,,,
+734.0,Muzaffarnagar,India,814491.0,791214.0,0.0294,Muzaffarnagar,world_cities_2024,,,,,
+735.0,Kayamkulam,India,813379.0,786192.0,0.0346,Kayamkulam,world_cities_2024,,,,,
+736.0,Nottingham,United Kingdom,813078.0,806757.0,0.0078,Nottingham,world_cities_2024,,,,,
+737.0,Nakhon Ratchasima,Thailand,811446.0,801853.0,0.012,Nakhon Ratchasima,world_cities_2024,,,,,
+738.0,Danyang,China,810450.0,789755.0,0.0262,Danyang,world_cities_2024,,,,,
+739.0,Ibb,Yemen,810149.0,771514.0,0.0501,Ibb,world_cities_2024,,,,,
+740.0,Amravati,India,808263.0,792620.0,0.0197,Amravati,world_cities_2024,,,,,
+741.0,Jiaozuo,China,808079.0,796509.0,0.0145,Jiaozuo,world_cities_2024,,,,,
+742.0,Vereeniging,South Africa,802900.0,793927.0,0.0113,Vereeniging,world_cities_2024,,,,,
+743.0,Gorakhpur,India,801634.0,788276.0,0.0169,Gorakhpur,world_cities_2024,,,,,
+744.0,Gaza,Palestine,800636.0,778187.0,0.0288,Gaza,world_cities_2024,,,,,
+745.0,Frankfurt,Germany,800529.0,796437.0,0.0051,Frankfurt,world_cities_2024,,,,,
+746.0,Anqing,China,795987.0,779535.0,0.0211,Anqing,world_cities_2024,,,,,
+747.0,Niigata,Japan,795916.0,797865.0,-0.0024,Niigata,world_cities_2024,,,,,
+748.0,Oshogbo,Nigeria,795808.0,771515.0,0.0315,Oshogbo,world_cities_2024,,,,,
+749.0,Linhai,China,795777.0,776076.0,0.0254,Linhai,world_cities_2024,,,,,
+750.0,Shaoguan,China,794279.0,784230.0,0.0128,Shaoguan,world_cities_2024,,,,,
+751.0,Erduosi Ordoss,China,794143.0,774321.0,0.0256,Erduosi Ordoss,world_cities_2024,,,,,
+752.0,Merca,Somalia,793545.0,760129.0,0.044,Merca,world_cities_2024,,,,,
+753.0,Bur Sa'id,Egypt,792925.0,778280.0,0.0188,Bur Said,world_cities_2024,,,,,
+754.0,Kitwe,Zambia,792350.0,762981.0,0.0385,Kitwe,world_cities_2024,,,,,
+755.0,Yan'an,China,791839.0,767188.0,0.0321,Yanan,world_cities_2024,,,,,
+756.0,Cuttack,India,789558.0,775559.0,0.0181,Cuttack,world_cities_2024,,,,,
+757.0,Hamilton,Canada,786843.0,781047.0,0.0074,Hamilton,world_cities_2024,,,,,
+758.0,Zaria,Nigeria,786197.0,766007.0,0.0264,Zaria,world_cities_2024,,,,,
+759.0,Banjarmasin,Indonesia,785125.0,770959.0,0.0184,Banjarmasin,world_cities_2024,,,,,
+760.0,Dengzhou,China,783041.0,759150.0,0.0315,Dengzhou,world_cities_2024,,,,,
+761.0,Belgaum,India,783020.0,767161.0,0.0207,Belgaum,world_cities_2024,,,,,
+762.0,Malegaon,India,781925.0,764628.0,0.0226,Malegaon,world_cities_2024,,,,,
+763.0,Goma,DR Congo,781875.0,744247.0,0.0506,Goma,world_cities_2024,,,,,
+764.0,Zigong,China,779684.0,768075.0,0.0151,Zigong,world_cities_2024,,,,,
+765.0,Qingyuan,China,778628.0,766782.0,0.0154,Qingyuan,world_cities_2024,,,,,
+766.0,Yuncheng,China,777193.0,754711.0,0.0298,Yuncheng,world_cities_2024,,,,,
+767.0,Shaoyang,China,776404.0,761169.0,0.02,Shaoyang,world_cities_2024,,,,,
+768.0,Yanji,China,775672.0,757224.0,0.0244,Yanji,world_cities_2024,,,,,
+769.0,Tirupati,India,775455.0,752744.0,0.0302,Tirupati,world_cities_2024,,,,,
+770.0,Maturin,Venezuela,775097.0,758185.0,0.0223,Maturin,world_cities_2024,,,,,
+771.0,Yuxi,China,774356.0,750102.0,0.0323,Yuxi,world_cities_2024,,,,,
+772.0,Akure,Nigeria,773141.0,744371.0,0.0387,Akure,world_cities_2024,,,,,
+773.0,Tongliao,China,772756.0,756158.0,0.022,Tongliao,world_cities_2024,,,,,
+774.0,Sialkot,Pakistan,770962.0,753325.0,0.0234,Sialkot,world_cities_2024,,,,,
+775.0,Tongling,China,770032.0,752916.0,0.0227,Tongling,world_cities_2024,,,,,
+776.0,Krakow,Poland,769396.0,769417.0,0.0,Krakow,world_cities_2024,,,,,
+777.0,Ansan,South Korea,768822.0,766703.0,0.0028,Ansan,world_cities_2024,,,,,
+778.0,Wuzhou,China,768512.0,751679.0,0.0224,Wuzhou,world_cities_2024,,,,,
+779.0,Dazhou,China,767532.0,748257.0,0.0258,Dazhou,world_cities_2024,,,,,
+780.0,Suining Sichuan,China,765887.0,750097.0,0.0211,Suining Sichuan,world_cities_2024,,,,,
+781.0,Mangalore,India,763312.0,749073.0,0.019,Mangalore,world_cities_2024,,,,,
+782.0,Jiamusi,China,761903.0,749763.0,0.0162,Jiamusi,world_cities_2024,,,,,
+783.0,Al Hudaydah,Yemen,759157.0,734699.0,0.0333,Al Hudaydah,world_cities_2024,,,,,
+784.0,Seattle,United States,757992.0,753624.0,0.0058,Seattle,world_cities_2024,,,,,
+785.0,Sargodha,Pakistan,757915.0,741818.0,0.0217,Sargodha,world_cities_2024,,,,,
+786.0,Nay Pyi Taw,Myanmar,757823.0,722836.0,0.0484,Nay Pyi Taw,world_cities_2024,,,,,
+787.0,Tamale,Ghana,757506.0,729768.0,0.038,Tamale,world_cities_2024,,,,,
+788.0,Sao Jose Dos Campos,Brazil,757137.0,749188.0,0.0106,Sao Jose Dos Campos,world_cities_2024,,,,,
+789.0,Bacoor,Philippines,757035.0,739682.0,0.0235,Bacoor,world_cities_2024,,,,,
+790.0,Dongtai,China,756344.0,738200.0,0.0246,Dongtai,world_cities_2024,,,,,
+791.0,Zhangjiagang,China,755752.0,733810.0,0.0299,Zhangjiagang,world_cities_2024,,,,,
+792.0,Nanded Waghala,India,755577.0,738552.0,0.0231,Nanded Waghala,world_cities_2024,,,,,
+793.0,Xianyang Shaanxi,China,754446.0,743491.0,0.0147,Xianyang Shaanxi,world_cities_2024,,,,,
+794.0,Amara,Iraq,753708.0,729276.0,0.0335,Amara,world_cities_2024,,,,,
+795.0,Zarqa,Jordan,753392.0,748428.0,0.0066,Zarqa,world_cities_2024,,,,,
+796.0,Bhavnagar,India,751493.0,737128.0,0.0195,Bhavnagar,world_cities_2024,,,,,
+797.0,Sheffield,United Kingdom,751303.0,745876.0,0.0073,Sheffield,world_cities_2024,,,,,
+798.0,Huambo,Angola,751297.0,727641.0,0.0325,Huambo,world_cities_2024,,,,,
+799.0,Ribeirao Preto,Brazil,750174.0,742115.0,0.0109,Ribeirao Preto,world_cities_2024,,,,,
+800.0,Panzhihua,China,750036.0,738495.0,0.0156,Panzhihua,world_cities_2024,,,,,
+,,,,,,,,1.0,A Coruña metropolitan area,Spain,28.819,"1,121,815 "
+,,,,,,,,2.0,Aachen,Germany,24.296,"249,070 "
+,,,,,,,,3.0,Aalborg,Denmark,31.855,"219,487 "
+,,,,,,,,4.0,Aarhus,Denmark,54.927,"352,751 "
+,,,,,,,,5.0,"Abbotsford, British Columbia",Canada,6.239,"203,907 "
+,,,,,,,,6.0,"Aberdeen, Scotland",United Kingdom,23.0,"489,840 "
+,,,,,,,,7.0,Abidjan,Ivory Coast,27,"5,600,000 "
+,,,,,,,,8.0,"Abilene, TX MSA",United States,9.469,"179,308 "
+,,,,,,,,9.0,Abu Dhabi metropolitan area,United Arab Emirates,151.073,"1,660,000 "
+,,,,,,,,10.0,Adelaide,Australia,64.461,"1,344,368 "
+,,,,,,,,11.0,Ahmedabad,India,80,"9,300,000 "
+,,,,,,,,12.0,Aix-Marseille-Provence Metropolis,France,135.038,"1,911,657 "
+,,,,,,,,13.0,"Akron, OH MSA",United States,44.562,"697,627 "
+,,,,,,,,14.0,"Albany-Lebanon, OR MSA",United States,6.108,"130,467 "
+,,,,,,,,15.0,"Albany-Schenectady-Troy, NY MSA",United States,80.303,"904,617 "
+,,,,,,,,16.0,"Albany, GA MSA",United States,7.312,"145,786 "
+,,,,,,,,17.0,"Albuquerque, NM MSA",United States,53.862,"919,543 "
+,,,,,,,,18.0,Alexandria,Egypt,36.000,"5,950,000 "
+,,,,,,,,19.0,"Alexandria, LA MSA",United States,7.460,"149,189 "
+,,,,,,,,20.0,Alicante metropolitan area,Spain,38.851,"1,915,282 "
+,,,,,,,,21.0,"Allentown-Bethlehem-Easton, PA-NJ MSA",United States,54.323,"871,229 "
+,,,,,,,,22.0,Almaty,Kazakhstan,41.485,"2,250,000 "
+,,,,,,,,23.0,"Altoona, PA MSA",United States,7.238,"121,032 "
+,,,,,,,,24.0,Alxa League,China,4.419,"262,361 "
+,,,,,,,,25.0,"Amarillo, TX MSA",United States,17.376,"271,171 "
+,,,,,,,,26.0,"Ames, IA MSA",United States,8.104,"125,767 "
+,,,,,,,,27.0,Amiens,France,19.418,"304,331 "
+,,,,,,,,28.0,Amsterdam metropolitan area,Netherlands,237.841,"2,890,428 "
+,,,,,,,,29.0,Anápolis,Brazil,6.740,"334,623 "
+,,,,,,,,30.0,"Anchorage, AK MSA",United States,31.570,"400,470 "
+,,,,,,,,31.0,Angers Loire Métropole,France,29.379,"394,256 "
+,,,,,,,,32.0,Ankara,Turkey,74.83,"5,150,000 "
+,,,,,,,,33.0,"Ann Arbor, MI MSA",United States,30.556,"366,376 "
+,,,,,,,,34.0,Annecy,France,29.98,"183,697 "
+,,,,,,,,35.0,"Anniston-Oxford, AL MSA",United States,5.466,"115,788 "
+,,,,,,,,36.0,Anshan,China,80.968,"3,325,372 "
+,,,,,,,,37.0,Antwerp metropolitan area,Belgium,66.063,"1,230,000 "
+,,,,,,,,38.0,"Appleton, Wisconsin metropolitan area",United States,16.977,"244,845 "
+,,,,,,,,39.0,Arnhem–Nijmegen metropolitan area,Netherlands,34.621,"774,506 "
+,,,,,,,,40.0,"Asheville, NC MSA",United States,26.228,"476,072 "
+,,,,,,,,41.0,Astana,Kazakhstan,23.115,"1,350,228 "
+,,,,,,,,42.0,Asturias metropolitan area,Spain,27.152,"1,009,088 "
+,,,,,,,,43.0,Athens Metropolitan Area,Greece,85.809,"3,526,887 "
+,,,,,,,,44.0,"Athens-Clarke County, GA MSA",United States,12.628,"220,405 "
+,,,,,,,,45.0,"Atlanta-Sandy Springs-Alpharetta, GA MSA",United States,525.888,"6,222,106 "
+,,,,,,,,46.0,"Atlantic City-Hammonton, NJ MSA",United States,16.851,"275,638 "
+,,,,,,,,47.0,"Auburn-Opelika, AL MSA",United States,8.256,"180,773 "
+,,,,,,,,48.0,Auckland,New Zealand,81.227,"1,470,000 "
+,,,,,,,,49.0,"Augusta-Richmond County, GA-SC MSA",United States,34.185,"624,083 "
+,,,,,,,,50.0,"Austin-Round Rock-Georgetown, TX MSA",United States,222.054,"2,421,115 "
+,,,,,,,,51.0,"Bakersfield, CA MSA",United States,57.541,"916,108 "
+,,,,,,,,52.0,Balikpapan-Samarinda Metropolitan,Indonesia,29.901,"2,621,877 "
+,,,,,,,,53.0,Ballarat,Australia,4.460,"108,491 "
+,,,,,,,,54.0,"Baltimore-Columbia-Towson, MD MSA",United States,241.399,"2,835,672 "
+,,,,,,,,55.0,Bandung Metropolitan,Indonesia,38.290,"8,790,308 "
+,,,,,,,,56.0,Bangkok Metropolitan Region,Thailand,252.128,"19,900,000 "
+,,,,,,,,57.0,"Bangor, ME MSA",United States,8.551,"153,704 "
+,,,,,,,,58.0,Banjarmasin Metropolitan,Indonesia,6.017,"2,164,485 "
+,,,,,,,,59.0,Baotou,China,40.412,"2,709,378 "
+,,,,,,,,60.0,Barcelona metropolitan area,Spain,182.524,"5,105,991 "
+,,,,,,,,61.0,"Barnstable Town, MA MSA",United States,16.351,"232,457 "
+,,,,,,,,62.0,Barrie,Canada,6.453,"218,377 "
+,,,,,,,,63.0,Batam Metropolitan,Indonesia,16.006,"1,885,481 "
+,,,,,,,,64.0,"Baton Rouge, LA MSA",United States,62.951,"873,060 "
+,,,,,,,,65.0,"Battle Creek, MI MSA",United States,7.728,"133,289 "
+,,,,,,,,66.0,"Bay City, MI MSA",United States,4.592,"102,821 "
+,,,,,,,,67.0,"Beaumont-Port Arthur, TX MSA",United States,29.007,"393,575 "
+,,,,,,,,68.0,"Beckley, WV MSA",United States,5.187,"113,724 "
+,,,,,,,,69.0,Belfast,United Kingdom,25.5,"671,559 "
+,,,,,,,,70.0,Belgrade,Serbia,25.31,"1,430,000 "
+,,,,,,,,71.0,"Belleville, Ontario",Canada,3.814,"113,045 "
+,,,,,,,,72.0,"Bellingham, WA MSA",United States,19.595,"230,677 "
+,,,,,,,,73.0,Belo Horizonte,Brazil,54.996,"4,744,599 "
+,,,,,,,,74.0,"Bend, OR MSA",United States,13.878,"206,549 "
+,,,,,,,,75.0,Bendigo,Australia,3.961,"99,416 "
+,,,,,,,,76.0,Bengaluru,India,110,"13,200,000 "
+,,,,,,,,77.0,Bergamo metropolitan area,Italy,40.539,"1,102,286 "
+,,,,,,,,78.0,Berlin/Brandenburg Metropolitan Region,Germany,271.818,"4,679,500 "
+,,,,,,,,79.0,Bhopal,India,5.35,"2,600,000 "
+,,,,,,,,80.0,Bielefeld,Germany,16.19,"591,862 "
+,,,,,,,,81.0,Bielsko-Biała,Poland,10.147,"169,756 "
+,,,,,,,,82.0,Bilbao metropolitan area,Spain,37.568,"1,014,366 "
+,,,,,,,,83.0,"Billings, MT MSA",United States,13.208,"190,208 "
+,,,,,,,,84.0,"Binghamton, NY MSA",United States,12.659,"244,889 "
+,,,,,,,,85.0,Birmingham,United Kingdom,39.1,"3,150,000 "
+,,,,,,,,86.0,"Birmingham-Hoover, AL MSA",United States,79.098,"1,116,857 "
+,,,,,,,,87.0,"Bismarck, ND MSA",United States,8.881,"134,846 "
+,,,,,,,,88.0,"Blacksburg-Christiansburg, VA MSA",United States,9.060,"165,812 "
+,,,,,,,,89.0,"Bloomington, IL MSA",United States,14.431,"171,141 "
+,,,,,,,,90.0,"Bloomington, IN MSA",United States,9.085,"161,227 "
+,,,,,,,,91.0,"Bloomsburg-Berwick, PA MSA",United States,5.205,"83,017 "
+,,,,,,,,92.0,Bocholt metropolitan area,Germany,16.488,"71,074 "
+,,,,,,,,93.0,"Boise, ID MSA",United States,49.947,"811,336 "
+,,,,,,,,94.0,Bologna metropolitan area,Italy,45.648,"1,017,225 "
+,,,,,,,,95.0,Bordeaux,France,73.813,"1,100,000 "
+,,,,,,,,96.0,"Boston-Cambridge-Newton, MA-NH MSA",United States,504.167,"4,900,550 "
+,,,,,,,,97.0,"Boulder, CO MSA",United States,35.608,"327,468 "
+,,,,,,,,98.0,"Bowling Green, KY MSA",United States,9.794,"185,682 "
+,,,,,,,,99.0,Brantford,Canada,4.58,"151,620 "
+,,,,,,,,100.0,Brasília,Brazil,65.338,"3,548,438 "
+,,,,,,,,101.0,Brașov,Romania,8.472,"371,802 "
+,,,,,,,,102.0,Bratislava metropolitan area,Slovakia,33.072,"719,537 "
+,,,,,,,,103.0,Breda,Netherlands,33.23,"324,812 "
+,,,,,,,,104.0,Bremen,Germany,56.517,"1,274,429 "
+,,,,,,,,105.0,"Bremerton-Silverdale-Port Orchard, WA MSA",United States,15.477,"277,673 "
+,,,,,,,,106.0,Brescia metropolitan area,Italy,46.603,"1,250,527 "
+,,,,,,,,107.0,Brest Métropole,France,32.956,"381,226 "
+,,,,,,,,108.0,"Bridgeport-Stamford-Norwalk, CT MSA",United States,104.368,"962,946 "
+,,,,,,,,109.0,Brisbane,Australia,177,"2,388,038 "
+,,,,,,,,110.0,Bristol,United Kingdom,22.3,"465,866 "
+,,,,,,,,111.0,Brno,Czech Republic,30.963,"398,510 "
+,,,,,,,,112.0,"Brownsville-Harlingen, TX MSA",United States,14.259,"425,208 "
+,,,,,,,,113.0,"Brunswick, GA MSA",United States,5.933,"114,442 "
+,,,,,,,,114.0,Brussels metropolitan area,Belgium,237.08,"2,784,967 "
+,,,,,,,,115.0,Bucharest Metropolitan Area,Romania,78.052,"2,200,000 "
+,,,,,,,,116.0,Budapest metropolitan area,Hungary,86.93,"2,625,000 "
+,,,,,,,,117.0,"Buffalo-Niagara Falls, NY MSA",United States,84.673,"1,161,192 "
+,,,,,,,,118.0,"Burlington-South Burlington, VT MSA",United States,17.478,"227,521 "
+,,,,,,,,119.0,"Burlington, NC MSA",United States,7.889,"176,353 "
+,,,,,,,,120.0,Bursa,Turkey,33.641,"3,101,833 "
+,,,,,,,,121.0,Busan-Gyeongnam Area,South Korea,252.145,"7,038,129 "
+,,,,,,,,122.0,Bydgoszcz–Toruń metropolitan area,Poland,12.417,"752,655 "
+,,,,,,,,123.0,Cádiz-Jerez metropolitan area,Spain,22.971,"639,560 "
+,,,,,,,,124.0,Caen,France,25.054,"395,885 "
+,,,,,,,,125.0,Cairns,Australia,10.709,"153,951 "
+,,,,,,,,126.0,Calgary Metropolitan Region,Canada,76.548,"1,542,956 "
+,,,,,,,,127.0,"California-Lexington Park, MD MSA",United States,8.849,"114,877 "
+,,,,,,,,128.0,Campinas,Brazil,40.525,"1,874,487 "
+,,,,,,,,129.0,Campo Grande,Brazil,9.59,"786,797 "
+,,,,,,,,130.0,Campos dos Goytacazes,Brazil,5.358,"511,168 "
+,,,,,,,,131.0,Canberra,Australia,30.909,"465,118 "
+,,,,,,,,132.0,"Canton-Massillon, OH MSA",United States,22.880,"399,316 "
+,,,,,,,,133.0,"Cape Coral-Fort Myers, FL MSA",United States,44.629,"822,453 "
+,,,,,,,,134.0,"Cape Girardeau, MO-IL MSA",United States,5.282,"98,275 "
+,,,,,,,,135.0,Cape Town,South Africa,56.300,"4,375,000 "
+,,,,,,,,136.0,Caracas,Venezuela,70,"1,942,652 "
+,,,,,,,,137.0,"Carbondale-Marion, IL MSA",United States,6.801,"132,693 "
+,,,,,,,,138.0,Cardiff-Newport,United Kingdom,49.5,"1,552,527 "
+,,,,,,,,139.0,"Carson City, NV MSA",United States,4.285,"58,130 "
+,,,,,,,,140.0,Casablanca,Morocco,47.000,"4,625,000 "
+,,,,,,,,141.0,"Casper, WY MSA",United States,6.273,"79,601 "
+,,,,,,,,142.0,"Cedar Rapids, IA MSA",United States,22.009,"275,592 "
+,,,,,,,,143.0,Central German Metropolitan Region,Germany,109.582,"2,411,051 "
+,,,,,,,,144.0,"Chambersburg-Waynesboro, PA MSA",United States,7.457,"156,902 "
+,,,,,,,,145.0,"Champaign-Urbana, IL MSA",United States,14.328,"223,265 "
+,,,,,,,,146.0,Chandigarh,India,6,"2,575,000 "
+,,,,,,,,147.0,Changchun,China,96.240,"9,066,906 "
+,,,,,,,,148.0,Changde,China,54.355,"5,279,102 "
+,,,,,,,,149.0,Changji Prefecture,China,20.113,"1,613,585 "
+,,,,,,,,150.0,Changsha,China,208,"10,420,600 "
+,,,,,,,,151.0,Charleroi,Belgium,16.93,"396,820 "
+,,,,,,,,152.0,"Charleston-North Charleston, SC MSA",United States,56.933,"830,529 "
+,,,,,,,,153.0,"Charleston, WV MSA",United States,14.891,"251,914 "
+,,,,,,,,154.0,"Charlotte-Concord-Gastonia, NC-SC MSA",United States,228.913,"2,756,069 "
+,,,,,,,,155.0,"Charlottesville, VA MSA",United States,17.190,"223,825 "
+,,,,,,,,156.0,"Chattanooga, TN-GA MSA",United States,40.042,"574,507 "
+,,,,,,,,157.0,Chengdu,China,260.409,"16,600,000 "
+,,,,,,,,158.0,Chennai,India,128.3,"12,200,000 "
+,,,,,,,,159.0,"Cheyenne, WY MSA",United States,7.545,"100,723 "
+,,,,,,,,160.0,"Chicago–Naperville, IL–IN–WI CSA",United States,832.899,"9,806,184 "
+,,,,,,,,161.0,"Chico, CA MSA",United States,11.077,"207,303 "
+,,,,,,,,162.0,Chittagong,Bangladesh,25.5,"4,925,000 "
+,,,,,,,,163.0,Chongqing,China,407.562,"10,100,000 "
+,,,,,,,,164.0,Chuzhou,China,43.960,"3,937,868 "
+,,,,,,,,165.0,"Cincinnati, OH-KY-IN MSA",United States,186.141,"2,265,051 "
+,,,,,,,,166.0,"Clarksville, TN-KY MSA",United States,16.209,"336,605 "
+,,,,,,,,167.0,Clermont-Ferrand,France,26.492,"362,578 "
+,,,,,,,,168.0,"Cleveland-Elyria, OH MSA",United States,162.788,"2,063,132 "
+,,,,,,,,169.0,"Cleveland, TN MSA",United States,6.296,"128,479 "
+,,,,,,,,170.0,Cluj-Napoca,Romania,13.155,"286,598 "
+,,,,,,,,171.0,Cocos (Keeling) Islands,Cocos (Keeling) Islands,0.011,561 
+,,,,,,,,172.0,"Coeur d'Alene, ID MSA",United States,9.609,"183,578 "
+,,,,,,,,173.0,Coimbatore,India,42,"2,775,000 "
+,,,,,,,,174.0,Coimbra,Portugal,9.837,"140,796 "
+,,,,,,,,175.0,"College Station-Bryan, TX MSA",United States,18.181,"277,824 "
+,,,,,,,,176.0,"Colorado Springs, CO MSA",United States,47.905,"765,424 "
+,,,,,,,,177.0,"Columbia, MO MSA",United States,12.514,"214,630 "
+,,,,,,,,178.0,"Columbia, SC MSA",United States,54.072,"847,686 "
+,,,,,,,,179.0,"Columbus, GA-AL MSA",United States,17.038,"324,110 "
+,,,,,,,,180.0,"Columbus, IN MSA",United States,7.979,"83,540 "
+,,,,,,,,181.0,"Columbus, OH MSA",United States,169.123,"2,161,511 "
+,,,,,,,,182.0,Communauté d'agglomération Nîmes Métropole,France,23.471,"564,024 "
+,,,,,,,,183.0,Communauté d'agglomération Pau Béarn Pyrénées,France,26.427,"311,949 "
+,,,,,,,,184.0,Constanța,Romania,9.159,"263,688 "
+,,,,,,,,185.0,Copenhagen metropolitan area,Denmark,179.846,"1,857,783 "
+,,,,,,,,186.0,Córdoba metropolitan area,Spain,14.929,"326,039 "
+,,,,,,,,187.0,"Corpus Christi, TX MSA",United States,28.228,"421,628 "
+,,,,,,,,188.0,"Corvallis, OR MSA",United States,5.443,"97,630 "
+,,,,,,,,189.0,Coventry,United Kingdom,13.9,"379,387 "
+,,,,,,,,190.0,"Crestview-Fort Walton Beach-Destin, FL MSA",United States,21.491,"299,786 "
+,,,,,,,,191.0,"Cumberland, MD-WV MSA",United States,4.342,"94,122 "
+,,,,,,,,192.0,Curitiba,Brazil,58.082,"3,054,076 "
+,,,,,,,,193.0,Daegu,South Korea,50.400,"2,750,000 "
+,,,,,,,,194.0,Daejeon,South Korea,40.000,"1,540,000 "
+,,,,,,,,195.0,Dalian,China,125,"5,050,000 "
+,,,,,,,,196.0,"Dallas-Fort Worth-Arlington, TX MSA",United States,688.928,"7,943,685 "
+,,,,,,,,197.0,"Dalton, GA MSA",United States,8.726,"143,604 "
+,,,,,,,,198.0,"Danville, IL MSA",United States,3.946,"72,337 "
+,,,,,,,,199.0,"Daphne-Fairhope-Foley, AL MSA",United States,10.811,"246,435 "
+,,,,,,,,200.0,Daqing,China,33.362,"2,781,562 "
+,,,,,,,,201.0,Dar es Salaam,Tanzania,10.4,"6,450,000 "
+,,,,,,,,202.0,"Davenport-Moline-Rock Island, IA-IL MSA",United States,25.774,"379,374 "
+,,,,,,,,203.0,"Dayton, OH MSA",United States,41.111,"812,595 "
+,,,,,,,,204.0,"Decatur, AL MSA",United States,8.038,"157,425 "
+,,,,,,,,205.0,"Decatur, IL MSA",United States,8.181,"101,483 "
+,,,,,,,,206.0,"Deltona-Daytona Beach-Ormond Beach, FL MSA",United States,28.134,"705,897 "
+,,,,,,,,207.0,Denpasar Metropolitan,Indonesia,9.941,"2,260,667 "
+,,,,,,,,208.0,"Denver-Aurora-Lakewood, CO MSA",United States,288.800,"2,985,871 "
+,,,,,,,,209.0,"Des Moines-West Des Moines, IA MSA",United States,67.334,"729,053 "
+,,,,,,,,210.0,"Detroit-Warren-Dearborn, MI Metropolitan Statistical Area",United States,305.412,"4,345,761 "
+,,,,,,,,211.0,Deyang,China,34.855,"3,456,161 "
+,,,,,,,,212.0,Dijon Métropole,France,23.472,"368,440 "
+,,,,,,,,213.0,Dongying,China,43.222,"2,193,518 "
+,,,,,,,,214.0,"Dothan, AL MSA",United States,8.410,"152,517 "
+,,,,,,,,215.0,"Dover, DE MSA",United States,9.920,"186,946 "
+,,,,,,,,216.0,Dresden,Germany,50.788,"1,343,747 "
+,,,,,,,,217.0,Dubai-Sharjah-Ajman metropolitan area,United Arab Emirates,202.800,"4,264,316 "
+,,,,,,,,218.0,"Dubuque, IA MSA",United States,8.184,"98,677 "
+,,,,,,,,219.0,"Duluth, MN-WI MSA",United States,16.822,"291,323 "
+,,,,,,,,220.0,Durban,South Africa,64.700,"3,525,000 "
+,,,,,,,,221.0,"Durham-Chapel Hill, NC MSA",United States,63.950,"664,310 "
+,,,,,,,,222.0,"East Stroudsburg, PA MSA",United States,10.009,"167,198 "
+,,,,,,,,223.0,"Eau Claire, WI MSA",United States,10.839,"173,644 "
+,,,,,,,,224.0,Edinburgh,United Kingdom,32.9,"527,620 "
+,,,,,,,,225.0,Edmonton Metropolitan Region,Canada,65.23,"1,467,219 "
+,,,,,,,,226.0,Eindhoven,Netherlands,48.257,"300,751 "
+,,,,,,,,227.0,"El Centro, CA MSA",United States,11.064,"178,713 "
+,,,,,,,,228.0,"El Paso, TX MSA",United States,43.283,"872,195 "
+,,,,,,,,229.0,"Elizabethtown-Fort Knox, KY MSA",United States,7.500,"157,026 "
+,,,,,,,,230.0,"Elkhart-Goshen, IN MSA",United States,21.094,"206,890 "
+,,,,,,,,231.0,"Elmira, NY MSA",United States,4.337,"81,426 "
+,,,,,,,,232.0,"Enid, OK MSA",United States,3.319,"61,920 "
+,,,,,,,,233.0,Enschede,Netherlands,27.337,"315,807 "
+,,,,,,,,234.0,Erfurt,Germany,20.347,"213,227 "
+,,,,,,,,235.0,"Erie, PA MSA",United States,13.171,"267,689 "
+,,,,,,,,236.0,"Eugene-Springfield, OR MSA",United States,20.913,"382,353 "
+,,,,,,,,237.0,European Metropolis of Lille,France,101.806,"1,300,000 "
+,,,,,,,,238.0,"Evansville, IN-KY MSA",United States,25.278,"314,038 "
+,,,,,,,,239.0,Ezhou,China,14.574,"1,079,353 "
+,,,,,,,,240.0,"Fairbanks, AK MSA",United States,6.804,"95,356 "
+,,,,,,,,241.0,Faisalabad,Pakistan,43,"3,204,704 "
+,,,,,,,,242.0,Fangchenggang,China,10.624,"1,046,068 "
+,,,,,,,,243.0,"Fargo, ND-MN MSA",United States,18.792,"258,663 "
+,,,,,,,,244.0,"Farmington, NM MSA",United States,6.594,"120,418 "
+,,,,,,,,245.0,"Fayetteville-Springdale-Rogers, AR MSA",United States,37.749,"576,403 "
+,,,,,,,,246.0,"Fayetteville, NC MSA",United States,25.960,"529,318 "
+,,,,,,,,247.0,"Flagstaff, AZ MSA",United States,9.080,"144,060 "
+,,,,,,,,248.0,Flensburg,Germany,10.839,"113,800 "
+,,,,,,,,249.0,"Flint, MI MSA",United States,17.635,"401,983 "
+,,,,,,,,250.0,"Florence-Muscle Shoals, AL MSA",United States,6.540,"153,911 "
+,,,,,,,,251.0,"Florence, SC MSA",United States,11.807,"199,119 "
+,,,,,,,,252.0,"Fond du Lac, WI MSA",United States,6.203,"103,836 "
+,,,,,,,,253.0,"Fort Collins, CO MSA",United States,25.923,"366,778 "
+,,,,,,,,254.0,"Fort Smith, AR-OK MSA",United States,12.024,"247,072 "
+,,,,,,,,255.0,"Fort Wayne, IN MSA",United States,28.565,"426,076 "
+,,,,,,,,256.0,Fort-de-France,France,10.741,"74,921 "
+,,,,,,,,257.0,Fortaleza,Brazil,21.7,"3,326,820 "
+,,,,,,,,258.0,Freiburg im Breisgau,Germany,30.404,"656,753 "
+,,,,,,,,259.0,"Fresno, CA MSA",United States,55.427,"1,015,190 "
+,,,,,,,,260.0,Fukuoka–Kitakyushu,Japan,182.952,"4,750,000 "
+,,,,,,,,261.0,Fuzhou,China,183,"4,450,000 "
+,,,,,,,,262.0,"Gadsden, AL MSA",United States,3.489,"103,088 "
+,,,,,,,,263.0,"Gainesville, FL MSA",United States,19.655,"348,282 "
+,,,,,,,,264.0,"Gainesville, GA MSA",United States,15.264,"212,692 "
+,,,,,,,,265.0,Gdansk metropolitan area,Poland,23.448,"1,098,379 "
+,,,,,,,,266.0,Geelong,Australia,8.725,"271,848 "
+,,,,,,,,267.0,Geneva,Switzerland,55.423,"506,343 "
+,,,,,,,,268.0,George Town,Malaysia,27.535,"2,050,000 "
+,,,,,,,,269.0,"Gettysburg, PA MSA",United States,4.429,"106,027 "
+,,,,,,,,270.0,Ghent metropolitan area,Belgium,39.015,"561,524 "
+,,,,,,,,271.0,Gibraltar,Gibraltar,3.265,"32,688 "
+,,,,,,,,272.0,Gladstone,Australia,4.464,"45,130 "
+,,,,,,,,273.0,Glasgow,United Kingdom,67.7,"1,861,315 "
+,,,,,,,,274.0,"Glens Falls, NY MSA",United States,8.034,"126,440 "
+,,,,,,,,275.0,Goiânia,Brazil,22.763,"2,078,438 "
+,,,,,,,,276.0,Gold Coast,Australia,26.669,"679,127 "
+,,,,,,,,277.0,"Goldsboro, NC MSA",United States,6.049,"117,286 "
+,,,,,,,,278.0,Gothenburg,Sweden,104.766,"1,051,345 "
+,,,,,,,,279.0,Granada metropolitan area,Spain,18.091,"495,900 "
+,,,,,,,,280.0,Grand Besançon Métropole,France,19.018,"197,494 "
+,,,,,,,,281.0,"Grand Forks, ND-MN MSA",United States,6.580,"103,144 "
+,,,,,,,,282.0,"Grand Island, NE MSA",United States,5.387,"76,333 "
+,,,,,,,,283.0,"Grand Junction, CO MSA",United States,8.218,"158,636 "
+,,,,,,,,284.0,Grand Poitiers communauté urbaine,France,15.217,"266,160 "
+,,,,,,,,285.0,"Grand Rapids-Kentwood, MI MSA",United States,77.296,"1,094,198 "
+,,,,,,,,286.0,Grand Reims,France,23.619,"297,068 "
+,,,,,,,,287.0,"Grants Pass, OR MSA",United States,3.658,"87,730 "
+,,,,,,,,288.0,Graz,Austria,32.416,"351,369 "
+,,,,,,,,289.0,"Great Falls, MT MSA",United States,4.781,"84,864 "
+,,,,,,,,290.0,Greater Buenos Aires,Argentina,235.600,"13,700,000 "
+,,,,,,,,291.0,Greater Cairo,Egypt,190.200,"21,500,000 "
+,,,,,,,,292.0,Dhaka,Bangladesh,258.2,"21,300,000 "
+,,,,,,,,293.0,Greater Dublin Area,Ireland,272.454,"1,400,000 "
+,,,,,,,,294.0,Greater Helsinki,Finland,125.166,"1,320,000 "
+,,,,,,,,295.0,Greater Manchester,United Kingdom,108.000,"2,812,569 "
+,,,,,,,,296.0,Greater Manila Area,Philippines,162.3,"26,400,000 "
+,,,,,,,,297.0,Greater Mexico City,Mexico,340.800,"21,804,515 "
+,,,,,,,,298.0,Greater Montreal,Canada,170.53,"4,336,487 "
+,,,,,,,,299.0,Greater São Paulo,Brazil,261.642,"22,600,000 "
+,,,,,,,,300.0,Greater Sudbury,Canada,7.242,"172,476 "
+,,,,,,,,301.0,Greater Tokyo Area,Japan,"2,080.758","40,700,000 "
+,,,,,,,,302.0,Greater Toronto and Hamilton Area,Canada,349.201,"7,281,694 "
+,,,,,,,,303.0,Greater Vancouver,Canada,122.113,"2,743,765 "
+,,,,,,,,304.0,"Greeley, CO MSA",United States,27.344,"350,176 "
+,,,,,,,,305.0,"Green Bay, WI MSA",United States,24.565,"330,292 "
+,,,,,,,,306.0,"Greensboro-High Point, NC MSA",United States,49.029,"784,101 "
+,,,,,,,,307.0,"Greenville-Anderson, SC MSA",United States,57.403,"958,958 "
+,,,,,,,,308.0,"Greenville, NC MSA",United States,10.921,"173,542 "
+,,,,,,,,309.0,Grenoble metropolitan area,France,53.606,"760,823 "
+,,,,,,,,310.0,Groningen,Netherlands,22.301,"232,874 "
+,,,,,,,,311.0,Guadalajara,Mexico,65.800,"5,750,000 "
+,,,,,,,,312.0,Shenzhen,China,455.694,"14,678,000 "
+,,,,,,,,313.0,Guangzhou,China,429,"18,676,000 "
+,,,,,,,,314.0,Tianjin,China,243,"13,866,000 "
+,,,,,,,,315.0,Suzhou,China,356,"12,748,000 "
+,,,,,,,,316.0,Ningbo,China,234,"9,618,000 "
+,,,,,,,,317.0,Foshan,China,189,"9,499,000 "
+,,,,,,,,318.0,Nantong,China,169,"7,727,000 "
+,,,,,,,,319.0,Dongguan,China,167,"10,466,000 "
+,,,,,,,,320.0,Changzhou,China,142,"5,278,000 "
+,,,,,,,,321.0,Guelph,Canada,7.891,"167,658 "
+,,,,,,,,322.0,Guiyang,China,62.511,"5,987,018 "
+,,,,,,,,323.0,Gujranwala,Pakistan,15.681,"5,011,066 "
+,,,,,,,,324.0,"Gulfport-Biloxi, MS MSA",United States,23.511,"420,782 "
+,,,,,,,,325.0,Gwangju,South Korea,36.000,"1,630,000 "
+,,,,,,,,326.0,"Hagerstown-Martinsburg, MD-WV MSA",United States,13.990,"302,510 "
+,,,,,,,,327.0,Haifa,Israel,25.082,"1,050,000 "
+,,,,,,,,328.0,Haixi Prefecture,China,8.986,"468,216 "
+,,,,,,,,329.0,"Halifax, Nova Scotia",Canada,18.228,"450,910 "
+,,,,,,,,330.0,Hamamatsu,Japan,54.3,"800,866 "
+,,,,,,,,331.0,Hamburg Metropolitan Region,Germany,261.306,"5,100,000 "
+,,,,,,,,332.0,Hami,China,8.814,"673,383 "
+,,,,,,,,333.0,"Hammond, LA MSA",United States,5.447,"137,048 "
+,,,,,,,,334.0,"Hanford-Corcoran, CA MSA",United States,8.146,"152,981 "
+,,,,,,,,335.0,Hangzhou,China,279.000,"12,500,000 "
+,,,,,,,,336.0,Hannover–Braunschweig–Göttingen–Wolfsburg Metropolitan Region,Germany,186.167,"3,845,271 "
+,,,,,,,,337.0,Hanoi,Vietnam,42.04,"8,053,663 "
+,,,,,,,,338.0,Harbin,China,94.1,"10,009,854 "
+,,,,,,,,339.0,"Harrisburg-Carlisle, PA MSA",United States,47.815,"603,493 "
+,,,,,,,,340.0,"Harrisonburg, VA MSA",United States,10.226,"136,555 "
+,,,,,,,,341.0,"Hartford-East Hartford-Middletown, CT MSA",United States,114.887,"1,221,725 "
+,,,,,,,,342.0,"Hattiesburg, MS MSA",United States,7.901,"173,359 "
+,,,,,,,,343.0,Hefei,China,179,"7,150,000 "
+,,,,,,,,344.0,Heidelberg,Germany,34.067,"1,544,830 "
+,,,,,,,,345.0,"Hickory-Lenoir-Morganton, NC MSA",United States,18.281,"368,347 "
+,,,,,,,,346.0,"Hilton Head Island-Bluffton, SC MSA",United States,12.497,"228,410 "
+,,,,,,,,347.0,"Hinesville, GA MSA",United States,4.768,"86,378 "
+,,,,,,,,348.0,Hiroshima,Japan,61.3,"2,860,750 "
+,,,,,,,,349.0,Ho Chi Minh City metropolitan area,Vietnam,96.399,"10,900,000 "
+,,,,,,,,350.0,Hobart,Australia,11.388,"218,874 "
+,,,,,,,,351.0,Hohhot,China,40.605,"3,446,100 "
+,,,,,,,,352.0,"Homosassa Springs, FL MSA",United States,5.664,"162,529 "
+,,,,,,,,353.0,Hong Kong,China,406.775,"7,588,000 "
+,,,,,,,,354.0,"Hot Springs, AR MSA",United States,4.200,"100,089 "
+,,,,,,,,355.0,"Houma-Thibodaux, LA MSA",United States,10.812,"200,656 "
+,,,,,,,,356.0,"Houston-The Woodlands-Sugar Land, TX MSA",United States,633.184,"7,340,118 "
+,,,,,,,,357.0,Hsinchu,Taiwan,11.980,"448,207 "
+,,,,,,,,358.0,Huai'an,China,58.361,"4,556,230 "
+,,,,,,,,359.0,"Huntington-Ashland, WV-KY-OH MSA",United States,18.046,"354,304 "
+,,,,,,,,360.0,"Huntsville, AL MSA",United States,38.101,"514,465 "
+,,,,,,,,361.0,Hyderabad,India,74,"9,482,000 "
+,,,,,,,,362.0,Iași,Romania,8.682,"423,154 "
+,,,,,,,,363.0,"Idaho Falls, ID MSA",United States,11.248,"165,608 "
+,,,,,,,,364.0,"Indianapolis-Carmel-Anderson, IN MSA",United States,184.394,"2,141,779 "
+,,,,,,,,365.0,Indore,India,8.1,"3,175,000 "
+,,,,,,,,366.0,Innsbruck,Austria,15.921,"228,866 "
+,,,,,,,,367.0,"Iowa City, IA MSA",United States,12.900,"178,991 "
+,,,,,,,,368.0,Iserlohn,Germany,16.739,"91,873 "
+,,,,,,,,369.0,Istanbul metropolitan area,Turkey,275.365,"16,500,000 "
+,,,,,,,,370.0,"Ithaca, NY MSA",United States,7.274,"104,777 "
+,,,,,,,,371.0,İzmir,Turkey,51.460,"3,050,000 "
+,,,,,,,,372.0,"Jackson, MI MSA",United States,7.990,"160,066 "
+,,,,,,,,373.0,"Jackson, MS MSA",United States,34.043,"583,197 "
+,,,,,,,,374.0,"Jackson, TN MSA",United States,10.814,"181,579 "
+,,,,,,,,375.0,"Jacksonville, FL MSA",United States,117.162,"1,675,668 "
+,,,,,,,,376.0,"Jacksonville, NC MSA",United States,10.737,"207,298 "
+,,,,,,,,377.0,Jaipur,India,15,"4,050,000 "
+,,,,,,,,378.0,Jakarta metropolitan area,Indonesia,323.030,"34,307,088 "
+,,,,,,,,379.0,"Janesville-Beloit, WI MSA",United States,9.277,"164,060 "
+,,,,,,,,380.0,Jeddah,Saudi Arabia,138.970,"5,500,000 "
+,,,,,,,,381.0,"Jefferson City, MO MSA",United States,9.698,"150,350 "
+,,,,,,,,382.0,Jerusalem,Israel,48.0,"1,008,400 "
+,,,,,,,,383.0,Jiayuguan,China,4.083,"312,663 "
+,,,,,,,,384.0,Jinan,China,179,"6,200,000 "
+,,,,,,,,385.0,Jinchang,China,5.199,"438,026 "
+,,,,,,,,386.0,Beijing,China,618.648,"21,500,000"
+,,,,,,,,387.0,Jingmen,China,27.640,"2,596,927 "
+,,,,,,,,388.0,Jiujiang,China,46.981,"4,600,276 "
+,,,,,,,,389.0,Johannesburg,South Africa,134.682,"8,400,042 "
+,,,,,,,,390.0,"Johnson City, TN MSA",United States,9.943,"210,256 "
+,,,,,,,,391.0,"Johnstown, PA MSA",United States,5.499,"131,441 "
+,,,,,,,,392.0,"Jonesboro, AR MSA",United States,7.016,"135,512 "
+,,,,,,,,393.0,"Joplin, MO MSA",United States,9.407,"184,086 "
+,,,,,,,,394.0,Jundiaí,Brazil,20.081,"698,679 "
+,,,,,,,,395.0,Kabul,Afghanistan,6.000,"4,800,000 "
+,,,,,,,,396.0,Kagoshima,Japan,53.0,"1,588,256 "
+,,,,,,,,397.0,"Kahului-Wailuku-Lahaina, HI MSA",United States,11.649,"164,351 "
+,,,,,,,,398.0,Kaiserslautern,Germany,9.577,"124,300 "
+,,,,,,,,399.0,"Kalamazoo-Portage, MI MSA",United States,18.786,"261,173 "
+,,,,,,,,400.0,"Kankakee, IL MSA",United States,8.320,"106,074 "
+,,,,,,,,401.0,"Kansas City, MO-KS MSA",United States,169.501,"2,209,494 "
+,,,,,,,,402.0,Kaohsiung,Taiwan,58.071,"2,775,000 "
+,,,,,,,,403.0,Karachi,Pakistan,176.2,"14,910,352 "
+,,,,,,,,404.0,Karamay,China,12.858,"490,348 "
+,,,,,,,,405.0,Karlsruhe,Germany,43.054,"504,030 "
+,,,,,,,,406.0,Kassel,Germany,19.433,"340,200 "
+,,,,,,,,407.0,Katowice metropolitan area,Poland,52.713,"2,486,510 "
+,,,,,,,,408.0,Kaunas urban area,Lithuania,14.406,"298,753 "
+,,,,,,,,409.0,Kelowna,Canada,8.401,"223,529 "
+,,,,,,,,410.0,"Kennewick-Richland, WA MSA",United States,19.553,"311,469 "
+,,,,,,,,411.0,Kiel,Germany,26.831,"325,300 "
+,,,,,,,,412.0,Kielce,Poland,9.144,"192,468 "
+,,,,,,,,413.0,"Killeen-Temple, TX MSA",United States,24.105,"496,228 "
+,,,,,,,,414.0,"Kingsport-Bristol, TN-VA MSA",United States,17.596,"311,272 "
+,,,,,,,,415.0,"Kingston, NY MSA",United States,9.053,"182,319 "
+,,,,,,,,416.0,"Kingston, Ontario",Canada,6.873,"176,176 "
+,,,,,,,,417.0,"Kitchener, Ontario",Canada,24.529,"593,397 "
+,,,,,,,,418.0,"Knoxville, TN MSA",United States,58.893,"907,968 "
+,,,,,,,,419.0,Koblenz,Germany,17.01,"113,638 "
+,,,,,,,,420.0,"Kokomo, IN MSA",United States,5.079,"83,574 "
+,,,,,,,,421.0,Kolkata,India,160.2,"17,200,000 "
+,,,,,,,,422.0,"Konstanz, metropolitan area",Germany,12.212,"288,097 "
+,,,,,,,,423.0,Košice,Slovakia,14.243,"228,249 "
+,,,,,,,,424.0,Kraków metropolitan area,Poland,29.165,"1,498,499 "
+,,,,,,,,425.0,Kuala Lumpur,Malaysia,59.831,"8,900,000 "
+,,,,,,,,426.0,Kumamoto,Japan,39.8,"1,817,426 "
+,,,,,,,,427.0,Kunming,China,97.628,"8,460,088 "
+,,,,,,,,428.0,Kuwait City,Kuwait,118.000,"4,750,000 "
+,,,,,,,,429.0,Kyiv,Ukraine,27.5,"3,475,000 "
+,,,,,,,,430.0,Kyoto–Osaka–Kobe,Japan,699.474,"17,700,000 "
+,,,,,,,,431.0,"La Crosse-Onalaska, WI-MN MSA",United States,9.693,"139,094 "
+,,,,,,,,432.0,"Lafayette-West Lafayette, IN MSA",United States,14.002,"226,452 "
+,,,,,,,,433.0,"Lafayette, LA MSA",United States,24.996,"481,125 "
+,,,,,,,,434.0,Lagos metropolitan area,Nigeria,102.010,"20,100,000 "
+,,,,,,,,435.0,Lahore,Pakistan,40.000,"13,900,000 "
+,,,,,,,,436.0,"Lake Charles, LA MSA",United States,18.574,"207,320 "
+,,,,,,,,437.0,"Lake Havasu City-Kingman, AZ MSA",United States,7.715,"220,816 "
+,,,,,,,,438.0,"Lakeland-Winter Haven, FL MSA",United States,37.305,"787,404 "
+,,,,,,,,439.0,"Lancaster, PA MSA",United States,36.312,"556,629 "
+,,,,,,,,440.0,"Lansing-East Lansing, MI MSA",United States,32.633,"540,870 "
+,,,,,,,,441.0,"Laredo, TX MSA",United States,17.010,"267,780 "
+,,,,,,,,442.0,"Las Cruces, NM MSA",United States,9.336,"223,337 "
+,,,,,,,,443.0,Las Palmas metropolitan area,Spain,16.93,"556,159 "
+,,,,,,,,444.0,"Las Vegas-Henderson-Paradise, NV MSA",United States,160.728,"2,322,985 "
+,,,,,,,,445.0,Launceston,Australia,3.961,"89,532 "
+,,,,,,,,446.0,"Lawrence, KS MSA",United States,6.176,"119,964 "
+,,,,,,,,447.0,"Lawton, OK MSA",United States,6.198,"128,523 "
+,,,,,,,,448.0,Le Mans Métropole,France,18.533,"267,560 "
+,,,,,,,,449.0,"Lebanon, PA MSA",United States,7.510,"144,011 "
+,,,,,,,,450.0,Leeds,United Kingdom,37.1,"2,175,000 "
+,,,,,,,,451.0,Leeuwarden metropolitan area,Netherlands,11.749,"124,084 "
+,,,,,,,,452.0,Leiden,Netherlands,18.472,"270,225 "
+,,,,,,,,453.0,Les Abymes,France,10.807,"52,118 "
+,,,,,,,,454.0,Lethbridge,Canada,5.059,"128,795 "
+,,,,,,,,455.0,"Lewiston-Auburn, ME MSA",United States,6.001,"113,023 "
+,,,,,,,,456.0,"Lewiston, ID-WA MSA",United States,3.641,"65,512 "
+,,,,,,,,457.0,"Lexington-Fayette, KY MSA",United States,35.670,"517,916 "
+,,,,,,,,458.0,Lhasa,China,9.832,"867,891 "
+,,,,,,,,459.0,Lianyungang,China,47.512,"4,599,360 "
+,,,,,,,,460.0,Liège,Belgium,31.085,"500,903 "
+,,,,,,,,461.0,Lima,Peru,114.400,"11,283,787 "
+,,,,,,,,462.0,"Lima, OH MSA",United States,10.789,"101,115 "
+,,,,,,,,463.0,Limoges metropolitan area,France,12.558,"296,099 "
+,,,,,,,,464.0,"Lincoln, NE MSA",United States,25.459,"342,448 "
+,,,,,,,,465.0,Linz,Austria,43.918,"271,234 "
+,,,,,,,,466.0,Lisbon metropolitan area,Portugal,103.33,"2,500,000 "
+,,,,,,,,467.0,"Little Rock-North Little Rock-Conway, AR MSA",United States,47.322,"757,615 "
+,,,,,,,,468.0,Liuzhou,China,46.060,"4,157,934 "
+,,,,,,,,469.0,Liverpool,United Kingdom,21.9,"506,565 "
+,,,,,,,,470.0,Ljubljana,Slovenia,23.937,"294,464 "
+,,,,,,,,471.0,Łódź metropolitan area,Poland,21.779,"1,112,069 "
+,,,,,,,,472.0,"Logan, UT-ID MSA",United States,8.009,"155,362 "
+,,,,,,,,473.0,London metropolitan area,United Kingdom,978.402,"14,800,000 "
+,,,,,,,,474.0,"London, Ontario",Canada,20.818,"550,605 "
+,,,,,,,,475.0,"Longview, TX MSA",United States,20.259,"291,219 "
+,,,,,,,,476.0,"Longview, WA MSA",United States,6.626,"111,956 "
+,,,,,,,,477.0,Longyan,China,41.623,"2,723,637 "
+,,,,,,,,478.0,"Los Angeles–Long Beach, CA CSA",United States,"1,227.469","18,372,485 "
+,,,,,,,,479.0,"Louisville/Jefferson County, KY-IN MSA",United States,90.836,"1,284,553 "
+,,,,,,,,480.0,"Lubbock, TX MSA",United States,18.116,"328,283 "
+,,,,,,,,481.0,Lublin,Poland,10.065,"664,000 "
+,,,,,,,,482.0,Lucknow,India,3.83,"4,000,000 "
+,,,,,,,,483.0,Luoyang,China,74.352,"2,550,000 "
+,,,,,,,,484.0,Luxembourg metropolitan area,Luxembourg,85.503,"643,941 "
+,,,,,,,,485.0,"Lynchburg, VA MSA",United States,12.464,"263,613 "
+,,,,,,,,486.0,Maanshan,China,31.706,"2,159,930 "
+,,,,,,,,487.0,Macao,China,54.677,"692,000 "
+,,,,,,,,488.0,Mackay,Australia,6.540,"80,148 "
+,,,,,,,,489.0,"Macon-Bibb County, GA MSA",United States,12.760,"233,916 "
+,,,,,,,,490.0,"Madera, CA MSA",United States,7.738,"160,256 "
+,,,,,,,,491.0,"Madison, WI MSA",United States,60.909,"687,077 "
+,,,,,,,,492.0,Madrid Metropolitan Area,Spain,277.508,"6,980,646 "
+,,,,,,,,493.0,Magdeburg,Germany,18.25,"295,200 "
+,,,,,,,,494.0,Makassar Metropolitan,Indonesia,17.052,"2,900,468 "
+,,,,,,,,495.0,Málaga metropolitan area,Spain,32.26,"1,030,000 "
+,,,,,,,,496.0,Malmö,Sweden,64.427,"748,433 "
+,,,,,,,,497.0,Manado Metropolitan,Indonesia,5.487,"1,008,126 "
+,,,,,,,,498.0,Manaus,Brazil,30.375,"1,802,014 "
+,,,,,,,,499.0,"Manchester-Nashua, NH MSA",United States,34.533,"426,594 "
+,,,,,,,,500.0,"Manhattan, KS MSA",United States,8.457,"133,072 "
+,,,,,,,,501.0,"Mankato, MN MSA",United States,6.831,"104,072 "
+,,,,,,,,502.0,"Mansfield, OH MSA",United States,5.494,"125,319 "
+,,,,,,,,503.0,Mataram  Metropolitan,Indonesia,5.491,"3,808,908 "
+,,,,,,,,504.0,"McAllen-Edinburg-Mission, TX MSA",United States,27.685,"888,367 "
+,,,,,,,,505.0,Medan Metropolitan,Indonesia,28.248,"5,106,670 "
+,,,,,,,,506.0,Medellín,Colombia,35.000,"4,225,000 "
+,,,,,,,,507.0,"Medford, OR MSA",United States,12.024,"221,644 "
+,,,,,,,,508.0,Melbourne,Australia,318.677,"5,050,000 "
+,,,,,,,,509.0,"Memphis, TN-MS-AR MSA",United States,96.183,"1,332,305 "
+,,,,,,,,510.0,"Merced, CA MSA",United States,11.560,"290,014 "
+,,,,,,,,511.0,Métropole du Grand Nancy,France,24.59,"427,697 "
+,,,,,,,,512.0,Métropole Nice Côte d'Azur,France,47.361,"1,101,039 "
+,,,,,,,,513.0,Métropole Rouen Normandie,France,49.637,"499,830 "
+,,,,,,,,514.0,Metropolis of Lyon,France,116.412,"1,424,069 "
+,,,,,,,,515.0,Metropolitan Area of Bogotá,Colombia,121.800,"10,200,000 "
+,,,,,,,,516.0,Metropolitan City of Bari,Italy,30.011,"1,223,102 "
+,,,,,,,,517.0,Metropolitan City of Cagliari,Italy,12.645,"419,553 "
+,,,,,,,,518.0,Metropolitan City of Catania,Italy,22.017,"1,068,482 "
+,,,,,,,,519.0,Metropolitan City of Florence,Italy,39.496,"1,000,111 "
+,,,,,,,,520.0,Metropolitan City of Genoa,Italy,30.556,"564,981 "
+,,,,,,,,521.0,Metropolitan City of Messina,Italy,12.441,"598,811 "
+,,,,,,,,522.0,Metropolitan City of Palermo,Italy,25.53,"647,160 "
+,,,,,,,,523.0,Metropolitan Cork,Ireland,117.882,"270,000 "
+,,,,,,,,524.0,"Miami-Fort Lauderdale-Pompano Beach, FL MSA",United States,483.755,"6,139,340 "
+,,,,,,,,525.0,"Michigan City-La Porte, IN MSA",United States,5.286,"111,675 "
+,,,,,,,,526.0,"Midland, MI MSA",United States,7.047,"83,674 "
+,,,,,,,,527.0,"Midland, TX MSA",United States,55.015,"177,216 "
+,,,,,,,,528.0,Milan metropolitan area,Italy,233.596,"4,985,668 "
+,,,,,,,,529.0,"Milwaukee-Waukesha, WI MSA",United States,120.563,"1,559,792 "
+,,,,,,,,530.0,"Minneapolis-St. Paul-Bloomington, MN-WI MSA",United States,333.102,"3,693,729 "
+,,,,,,,,531.0,Minsk,Belarus,19.913,"1,995,471 "
+,,,,,,,,532.0,"Missoula, MT MSA",United States,7.710,"121,041 "
+,,,,,,,,533.0,"Mobile, AL MSA",United States,27.361,"426,533 "
+,,,,,,,,534.0,"Modesto, CA MSA",United States,28.674,"551,275 "
+,,,,,,,,535.0,Monaco,Monaco,6.816,"39,150 "
+,,,,,,,,536.0,Moncton,Canada,6.031,"159,177 "
+,,,,,,,,537.0,"Monroe, LA MSA",United States,9.650,"202,869 "
+,,,,,,,,538.0,"Monroe, MI MSA",United States,7.119,"155,609 "
+,,,,,,,,539.0,Monterrey,Mexico,140,"5,324,281 "
+,,,,,,,,540.0,Montevideo,Uruguay,53.9,"1,870,000 "
+,,,,,,,,541.0,"Montgomery, AL MSA",United States,22.080,"385,460 "
+,,,,,,,,542.0,Montpellier Méditerranée Métropole,France,45.031,"487,519 "
+,,,,,,,,543.0,"Morgantown, WV MSA",United States,9.657,"141,041 "
+,,,,,,,,544.0,"Morristown, TN MSA",United States,6.730,"146,172 "
+,,,,,,,,545.0,Moscow metropolitan area,Russia,504.808,"21,700,000 "
+,,,,,,,,546.0,"Mount Vernon-Anacortes, WA MSA",United States,8.773,"131,179 "
+,,,,,,,,547.0,Mulhouse Alsace Agglomération,France,27.213,"356,125 "
+,,,,,,,,548.0,Multan,Pakistan,12.000,"2,225,000 "
+,,,,,,,,549.0,Mumbai,India,277.98,"22,300,000 "
+,,,,,,,,550.0,"Muncie, IN MSA",United States,5.102,"112,031 "
+,,,,,,,,551.0,Munich Metropolitan Region,Germany,384.582,"2,926,802 "
+,,,,,,,,552.0,Murcia metropolitan area,Spain,33.946,"1,528,828 "
+,,,,,,,,553.0,"Muskegon, MI MSA",United States,7.408,"176,565 "
+,,,,,,,,554.0,"Myrtle Beach-Conway-North Myrtle Beach, SC-NC MSA",United States,25.132,"536,165 "
+,,,,,,,,555.0,Nagoya,Japan,379.301,"10,500,000 "
+,,,,,,,,556.0,Nagpur,India,19,"3,127,000 "
+,,,,,,,,557.0,Nairobi,Kenya,30,"4,750,056 "
+,,,,,,,,558.0,Namur metropolitan area,Belgium,12.559,"319,355 "
+,,,,,,,,559.0,Nanchang,China,83.300,"6,255,007 "
+,,,,,,,,560.0,Nanjing,China,251.000,"8,850,000 "
+,,,,,,,,561.0,Nanning,China,54.299,"7,765,411 "
+,,,,,,,,562.0,Nanping,China,29.104,"2,680,645 "
+,,,,,,,,563.0,Nantes,France,65.457,"859,972 "
+,,,,,,,,564.0,"Napa, CA MSA",United States,13.166,"134,300 "
+,,,,,,,,565.0,Naples metropolitan area,Italy,64.296,"3,349,233 "
+,,,,,,,,566.0,"Naples-Marco Island, FL MSA",United States,28.083,"397,994 "
+,,,,,,,,567.0,"Nashville-Davidson–Murfreesboro–Franklin, TN MSA",United States,187.781,"2,046,828 "
+,,,,,,,,568.0,National Capital Region (Delhi),India,272.603,"31,300,000 "
+,,,,,,,,569.0,Neubrandenburg,Germany,8.714,"63,043 "
+,,,,,,,,570.0,"New Bern, NC MSA",United States,6.619,"122,488 "
+,,,,,,,,571.0,"New Haven-Milford, CT MSA",United States,61.456,"869,527 "
+,,,,,,,,572.0,"New Orleans-Metairie, LA MSA",United States,94.031,"1,246,176 "
+,,,,,,,,573.0,"New York–Newark, NY-NJ-CT-PA CSA",United States,"2,163.208","21,914,996	"
+,,,,,,,,574.0,Newcastle,Australia,11.554,"492,805 "
+,,,,,,,,575.0,Nicosia,Cyprus,28.407,"350,824 "
+,,,,,,,,576.0,Niigata,Japan,43.3,"2,374,450 "
+,,,,,,,,577.0,"Niles, MI MSA",United States,9.030,"152,900 "
+,,,,,,,,578.0,Ningde,China,37.971,"3,146,789 "
+,,,,,,,,579.0,"North Port-Sarasota-Bradenton, FL MSA",United States,49.369,"891,411 "
+,,,,,,,,580.0,Northwest Metropolitan Region,Germany,115.73,"2,797,706 "
+,,,,,,,,581.0,"Norwich-New London, CT MSA",United States,22.049,"268,681 "
+,,,,,,,,582.0,Nuremberg Metropolitan Region,Germany,169.195,"3,610,543 "
+,,,,,,,,583.0,Nyingchi,China,2.774,"238,936 "
+,,,,,,,,584.0,"Ocala, FL MSA",United States,14.033,"396,415 "
+,,,,,,,,585.0,"Ocean City, NJ MSA",United States,6.533,"95,634 "
+,,,,,,,,586.0,Odense,Denmark,25.361,"205,509 "
+,,,,,,,,587.0,"Odessa, TX MSA",United States,14.192,"160,869 "
+,,,,,,,,588.0,Offenburg,Germany,20.259,"88,600 "
+,,,,,,,,589.0,"Ogden-Clearfield, UT MSA",United States,39.168,"713,839 "
+,,,,,,,,590.0,Okayama,Japan,63.1,"1,945,276 "
+,,,,,,,,591.0,"Oklahoma City, OK MSA",United States,94.742,"1,459,380 "
+,,,,,,,,592.0,"Olympia-Lacey-Tumwater, WA MSA",United States,17.927,"298,758 "
+,,,,,,,,593.0,"Omaha-Council Bluffs, NE-IA MSA",United States,85.021,"976,671 "
+,,,,,,,,594.0,Opole,Poland,8.559,"146,522 "
+,,,,,,,,595.0,Orange,Australia,3.204,"40,493 "
+,,,,,,,,596.0,Ordos,China,51.232,"2,153,638 "
+,,,,,,,,597.0,"Orlando-Kissimmee-Sanford, FL MSA",United States,194.472,"2,764,182 "
+,,,,,,,,598.0,Orléans,France,27.499,"453,067 "
+,,,,,,,,599.0,Oshawa,Canada,10.321,"424,757 "
+,,,,,,,,600.0,"Oshkosh-Neenah, WI MSA",United States,12.398,"170,718 "
+,,,,,,,,601.0,Oslo,Norway,73.715,"1,190,000 "
+,,,,,,,,602.0,Osnabrück,Germany,23.005,"272,674 "
+,,,,,,,,603.0,Ostrava metropolitan area,Czech Republic,25.054,"949,291 "
+,,,,,,,,604.0,Ottawa–Gatineau,Canada,67.042,"1,462,582 "
+,,,,,,,,605.0,"Owensboro, KY MSA",United States,6.742,"121,348 "
+,,,,,,,,606.0,"Oxnard-Thousand Oaks-Ventura, CA MSA",United States,62.329,"832,605 "
+,,,,,,,,607.0,Padang Metropolitan,Indonesia,6.213,"1,441,760 "
+,,,,,,,,608.0,Paderborn,Germany,12.659,"309,380 "
+,,,,,,,,609.0,Padua–Treviso–Venice metropolitan area,Italy,34.796,"2,748,420 "
+,,,,,,,,610.0,Palembang Metropolitan,Indonesia,16.561,"3,722,087 "
+,,,,,,,,611.0,"Palm Bay-Melbourne-Titusville, FL MSA",United States,34.626,"630,693 "
+,,,,,,,,612.0,Palma de Mallorca metropolitan area,Spain,24.507,"422,587 "
+,,,,,,,,613.0,Pamplona metropolitan area,Spain,21.636,"359,435 "
+,,,,,,,,614.0,"Panama City, FL MSA",United States,11.683,"185,134 "
+,,,,,,,,615.0,Panjin,China,18.900,"1,389,691 "
+,,,,,,,,616.0,Panzhihua,China,15.090,"1,212,203 "
+,,,,,,,,617.0,Paris metropolitan area,France,934.168,"14,800,000 "
+,,,,,,,,618.0,"Parkersburg-Vienna, WV MSA",United States,4.354,"88,431 "
+,,,,,,,,619.0,Parma,Italy,19.202,"450,854 "
+,,,,,,,,620.0,Patna,India,30,"2,800,000 "
+,,,,,,,,621.0,Pekanbaru Metropolitan,Indonesia,25.279,"2,718,278 "
+,,,,,,,,622.0,"Pensacola-Ferry Pass-Brent, FL MSA",United States,27.080,"523,146 "
+,,,,,,,,623.0,"Peoria, IL MSA",United States,26.282,"396,466 "
+,,,,,,,,624.0,Perpignan Méditerranée Métropole,France,14.43,"292,142 "
+,,,,,,,,625.0,Perth,Australia,111.056,"2,087,086 "
+,,,,,,,,626.0,Perugia metropolitan area,Italy,18.509,"637,598 "
+,,,,,,,,627.0,"Peterborough, Ontario",Canada,3.657,"131,665 "
+,,,,,,,,628.0,Pforzheim,Germany,12.932,"215,100 "
+,,,,,,,,629.0,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD MSA",United States,518.485,"6,241,164 "
+,,,,,,,,630.0,"Phoenix-Mesa-Chandler, AZ MSA",United States,362.087,"5,015,678 "
+,,,,,,,,631.0,"Pine Bluff, AR MSA",United States,4.122,"84,629 "
+,,,,,,,,632.0,"Pittsburgh, PA MSA",United States,181.485,"2,349,172 "
+,,,,,,,,633.0,"Pittsfield, MA MSA",United States,8.155,"127,859 "
+,,,,,,,,634.0,Ploiești,Romania,8.827,"180,540 "
+,,,,,,,,635.0,Plzeň,Czech Republic,13.742,"174,007 "
+,,,,,,,,636.0,"Pocatello, ID MSA",United States,4.229,"97,585 "
+,,,,,,,,637.0,"Port St. Lucie, FL MSA",United States,24.146,"520,710 "
+,,,,,,,,638.0,"Portland-South Portland, ME MSA",United States,43.764,"561,576 "
+,,,,,,,,639.0,"Portland-Vancouver-Hillsboro, OR-WA MSA",United States,204.319,"2,509,489 "
+,,,,,,,,640.0,Porto Alegre,Brazil,45.506,"3,701,525 "
+,,,,,,,,641.0,Porto metropolitan area,Portugal,40.868,"1,550,000 "
+,,,,,,,,642.0,Poznań metropolitan area,Poland,33.829,"546,859 "
+,,,,,,,,643.0,Prague metropolitan area,Czech Republic,130.085,"1,460,000 "
+,,,,,,,,644.0,Prato,Italy,8.564,"195,213 "
+,,,,,,,,645.0,"Prescott Valley–Prescott, AZ MSA",United States,6.111,"236,209 "
+,,,,,,,,646.0,Pretoria,South Africa,56.286,"7,426,673 "
+,,,,,,,,647.0,"Providence-Warwick, RI-MA MSA",United States,105.571,"1,673,802 "
+,,,,,,,,648.0,"Provo-Orem, UT MSA",United States,40.761,"715,001 "
+,,,,,,,,649.0,Puebla,Mexico,31.102,"3,903,485 "
+,,,,,,,,650.0,"Pueblo, CO MSA",United States,7.836,"169,544 "
+,,,,,,,,651.0,Pune,India,69,"9,429,408 "
+,,,,,,,,652.0,"Punta Gorda, FL MSA",United States,7.714,"202,661 "
+,,,,,,,,653.0,Putian,China,38.333,"3,210,714 "
+,,,,,,,,654.0,Qingdao,China,222,"7,050,000 "
+,,,,,,,,655.0,Quanzhou,China,180,"8,782,285 "
+,,,,,,,,656.0,Quebec City,Canada,35.742,"832,021 "
+,,,,,,,,657.0,Quzhou,China,23.764,"2,276,184 "
+,,,,,,,,658.0,"Racine, WI MSA",United States,9.909,"195,846 "
+,,,,,,,,659.0,"Raleigh-Cary, NC MSA",United States,119.675,"1,484,338 "
+,,,,,,,,660.0,"Rapid City, SD MSA",United States,8.459,"145,159 "
+,,,,,,,,661.0,"Reading, PA MSA",United States,23.751,"430,449 "
+,,,,,,,,662.0,Recife,Brazil,22.81,"3,741,898 "
+,,,,,,,,663.0,"Redding, CA MSA",United States,9.921,"180,930 "
+,,,,,,,,664.0,Regensburg,Germany,25.618,"243,200 "
+,,,,,,,,665.0,Reggio Emilia metropolitan area,Italy,21.133,"525,366 "
+,,,,,,,,666.0,"Regina, Saskatchewan",Canada,13.02,"263,236 "
+,,,,,,,,667.0,Rennes Métropole,France,48.287,"624,744 "
+,,,,,,,,668.0,"Reno, NV MSA",United States,40.095,"500,915 "
+,,,,,,,,669.0,Frankfurt Rhine-Main Metropolitan Region,Germany,197.259,"5,808,518 "
+,,,,,,,,670.0,Rhine-Neckar Metropolitan Region,Germany,113.354,"2,362,000 "
+,,,,,,,,671.0,"Richmond, VA MSA",United States,109.513,"1,339,182 "
+,,,,,,,,672.0,Riga metropolitan area,Latvia,25.207,"663,012 "
+,,,,,,,,673.0,Rio de Janeiro metropolitan area,Brazil,195.095,"13,463,349 "
+,,,,,,,,674.0,"Riverside-San Bernardino-Ontario, CA MSA",United States,237.913,"4,667,558 "
+,,,,,,,,675.0,Riyadh,Saudi Arabia,243.793,"7,009,000 "
+,,,,,,,,676.0,"Roanoke, VA MSA",United States,19.936,"314,340 "
+,,,,,,,,677.0,"Rochester, MN MSA",United States,16.500,"228,073 "
+,,,,,,,,678.0,"Rochester, NY MSA",United States,75.085,"1,081,152 "
+,,,,,,,,679.0,"Rockford, IL MSA",United States,18.129,"335,342 "
+,,,,,,,,680.0,Rockhampton,Australia,5.342,"78,592 "
+,,,,,,,,681.0,"Rocky Mount, NC MSA",United States,8.097,"144,090 "
+,,,,,,,,682.0,Rome metropolitan area,Italy,175.336,"4,325,591 "
+,,,,,,,,683.0,"Rome, GA MSA",United States,4.947,"99,443 "
+,,,,,,,,684.0,Rostock,Germany,15.661,"243,000 "
+,,,,,,,,685.0,Rotterdam,Netherlands,112.578,"1,876,165 "
+,,,,,,,,686.0,Rzeszów,Poland,8.547,"195,871 "
+,,,,,,,,687.0,Saarbrücken,Germany,33.295,"700,000 "
+,,,,,,,,688.0,"Sacramento-Roseville-Folsom, CA MSA",United States,176.276,"2,416,702 "
+,,,,,,,,689.0,"Saginaw, MI MSA",United States,10.091,"188,330 "
+,,,,,,,,690.0,"Saguenay, Quebec",Canada,6.345,"163,335 "
+,,,,,,,,691.0,"Saint John, New Brunswick",Canada,4.747,"131,935 "
+,,,,,,,,692.0,Saint Petersburg,Russia,128.000,"6,200,000 "
+,,,,,,,,693.0,Saint-Étienne Métropole,France,26.675,"425,495 "
+,,,,,,,,694.0,"Salem, OR MSA",United States,24.075,"436,317 "
+,,,,,,,,695.0,"Salinas, CA MSA",United States,33.249,"432,858 "
+,,,,,,,,696.0,"Salisbury, MD-DE MSA",United States,28.573,"439,032 "
+,,,,,,,,697.0,"Salt Lake City, UT MSA",United States,135.409,"1,266,191 "
+,,,,,,,,698.0,Salvador,Brazil,17.98,"3,600,000 "
+,,,,,,,,699.0,Salzburg,Austria,23.287,"157,245 "
+,,,,,,,,700.0,"San Angelo, TX MSA",United States,9.238,"121,839 "
+,,,,,,,,701.0,"San Antonio-New Braunfels, TX MSA",United States,163.061,"2,655,342 "
+,,,,,,,,702.0,"San Diego-Chula Vista-Carlsbad, CA MSA",United States,295.645,"3,276,208 "
+,,,,,,,,703.0,"San Jose-San Francisco–Oakland, CA CSA",United States,"1,383.000","6,518,123 "
+,,,,,,,,704.0,San Juan,Puerto Rico,45.461,"1,920,000 "
+,,,,,,,,705.0,"San Luis Obispo-Paso Robles, CA MSA",United States,21.713,"282,013 "
+,,,,,,,,706.0,San Marino,San Marino,2.034,"34,000 "
+,,,,,,,,707.0,San Sebastián metropolitan area,Spain,24.897,"428,187 "
+,,,,,,,,708.0,Sanmenxia,China,21.033,"2,034,872 "
+,,,,,,,,709.0,Sanming,China,39.177,"2,486,450 "
+,,,,,,,,710.0,Santa Cruz de Tenerife metropolitan area,Spain,19.575,"434,083 "
+,,,,,,,,711.0,"Santa Cruz-Watsonville, CA MSA",United States,19.176,"264,370 "
+,,,,,,,,712.0,"Santa Fe, NM MSA",United States,8.797,"155,664 "
+,,,,,,,,713.0,"Santa Maria-Santa Barbara, CA MSA",United States,36.081,"443,837 "
+,,,,,,,,714.0,"Santa Rosa-Petaluma, CA MSA",United States,36.877,"482,650 "
+,,,,,,,,715.0,Santander metropolitan area,Spain,14.665,"256,025 "
+,,,,,,,,716.0,Santiago Metropolitan Region,Chile,128.800,"8,050,000 "
+,,,,,,,,717.0,Santiago de Cali,Colombia,22.100,"2,925,000 "
+,,,,,,,,718.0,Santos,Brazil,28.609,"1,556,718 "
+,,,,,,,,719.0,São José dos Campos,Brazil,30.148,"1,419,657 "
+,,,,,,,,720.0,São José dos Pinhais,Brazil,14.726,"264,210 "
+,,,,,,,,721.0,Sapporo,Japan,84.7,"1,913,545 "
+,,,,,,,,722.0,Saskatoon,Canada,15.059,"336,850 "
+,,,,,,,,723.0,"Savannah, GA MSA",United States,29.452,"418,373 "
+,,,,,,,,724.0,Schweinfurt,Germany,12.847,"100,500 "
+,,,,,,,,725.0,"Scranton–Wilkes-Barre, PA MSA",United States,32.328,"567,998 "
+,,,,,,,,726.0,"Seattle-Tacoma-Bellevue, WA MSA",United States,517.803,"4,034,248 "
+,,,,,,,,727.0,"Sebastian-Vero Beach, FL MSA",United States,9.573,"167,352 "
+,,,,,,,,728.0,"Sebring-Avon Park, FL MSA",United States,3.215,"105,618 "
+,,,,,,,,729.0,Semarang Metropolitan,Indonesia,26.057,"6,608,815 "
+,,,,,,,,730.0,Sendai,Japan,50,"1,082,159 "
+,,,,,,,,731.0,Seoul Capital Area,South Korea,878.535,"24,800,000 "
+,,,,,,,,732.0,Seville metropolitan area,Spain,42.016,"1,558,006 "
+,,,,,,,,733.0,Shanghai,China,663.874,"24,890,106"
+,,,,,,,,734.0,Shantou,China,34.8,"5,502,031 "
+,,,,,,,,735.0,Shaoxing,China,86.999,"5,270,977 "
+,,,,,,,,736.0,"Sheboygan, WI MSA",United States,8.087,"117,841 "
+,,,,,,,,737.0,Sheffield,United Kingdom,40.6,"1,570,000 "
+,,,,,,,,738.0,Shenyang,China,95.276,"8,000,000 "
+,,,,,,,,739.0,Sherbrooke,Canada,7.02,"224,456 "
+,,,,,,,,740.0,"Sherman-Denison, TX MSA",United States,6.331,"143,131 "
+,,,,,,,,741.0,Shijiazhuang,China,81.252,"11,235,086 "
+,,,,,,,,742.0,Shizuishan,China,7.853,"751,389 "
+,,,,,,,,743.0,Shizuoka,Japan,45.8,"3,765,007 "
+,,,,,,,,744.0,"Shreveport-Bossier City, LA MSA",United States,27.363,"385,154 "
+,,,,,,,,745.0,Shuozhou,China,15.955,"1,593,444 "
+,,,,,,,,746.0,Siegen,Germany,16.336,"101,516 "
+,,,,,,,,747.0,"Sierra Vista-Douglas, AZ MSA",United States,5.698,"125,663 "
+,,,,,,,,748.0,Singapore,Singapore,525.228,"5,938,000 "
+,,,,,,,,749.0,"Sioux City, IA-NE-SD MSA",United States,10.918,"149,240 "
+,,,,,,,,750.0,"Sioux Falls, SD MSA",United States,27.770,"289,592 "
+,,,,,,,,751.0,Sofia metropolitan area,Bulgaria,33.042,"1,300,000 "
+,,,,,,,,752.0,Sorocaba,Brazil,21.313,"779,704 "
+,,,,,,,,753.0,"South Bend-Mishawaka, IN-MI MSA",United States,19.042,"323,637 "
+,,,,,,,,754.0,"Spartanburg, SC MSA",United States,19.485,"345,831 "
+,,,,,,,,755.0,"Spokane-Spokane Valley, WA MSA",United States,35.689,"597,919 "
+,,,,,,,,756.0,"Springfield, IL MSA",United States,13.952,"206,655 "
+,,,,,,,,757.0,"Springfield, MA MSA",United States,40.110,"694,523 "
+,,,,,,,,758.0,"Springfield, MO MSA",United States,26.687,"487,061 "
+,,,,,,,,759.0,"Springfield, OH MSA",United States,5.500,"134,831 "
+,,,,,,,,760.0,St. Catharines–Niagara Falls,Canada,12.979,"437,080 "
+,,,,,,,,761.0,"St. Cloud, MN MSA",United States,12.943,"201,868 "
+,,,,,,,,762.0,"St. George, UT MSA",United States,9.561,"197,680 "
+,,,,,,,,763.0,"St. John's, Newfoundland and Labrador",Canada,9.628,"213,919 "
+,,,,,,,,764.0,"St. Joseph, MO-KS MSA",United States,6.873,"119,690 "
+,,,,,,,,765.0,"St. Louis, MO-IL MSA",United States,209.936,"2,801,319 "
+,,,,,,,,766.0,"State College, PA MSA",United States,10.325,"158,425 "
+,,,,,,,,767.0,"Staunton, VA MSA",United States,6.332,"126,776 "
+,,,,,,,,768.0,Stockholm metropolitan area,Sweden,203.899,"2,308,143 "
+,,,,,,,,769.0,"Stockton, CA MSA",United States,40.228,"793,229 "
+,,,,,,,,770.0,Strasbourg,France,49.09,"1,150,899 "
+,,,,,,,,771.0,Stuttgart Metropolitan Region,Germany,294.957,"2,400,000 "
+,,,,,,,,772.0,"Sumter, SC MSA",United States,5.801,"134,925 "
+,,,,,,,,773.0,Sunshine Coast,Australia,13.813,"333,436 "
+,,,,,,,,774.0,Surabaya Metropolitan,Indonesia,88.821,"11,800,657 "
+,,,,,,,,775.0,Surat,India,59.8,"6,600,000 "
+,,,,,,,,776.0,Sydney,Australia,398.037,"5,400,000 "
+,,,,,,,,777.0,"Syracuse, NY MSA",United States,49.281,"653,633 "
+,,,,,,,,778.0,Szczecin metropolitan area,Poland,13.822,"750,000 "
+,,,,,,,,779.0,Taichung,Taiwan,63.910,"3,033,840 "
+,,,,,,,,780.0,Tainan,Taiwan,37.038,"1,875,076 "
+,,,,,,,,781.0,Taipei–Keelung metropolitan area,Taiwan,407.838,"9,150,000 "
+,,,,,,,,782.0,Taiyuan,China,60.215,"5,304,061 "
+,,,,,,,,783.0,"Taizhou, Jiangsu",China,77.015,"4,512,762 "
+,,,,,,,,784.0,"Taizhou, Zhejiang",China,76.300,"6,622,888 "
+,,,,,,,,785.0,"Tallahassee, FL MSA",United States,22.394,"390,992 "
+,,,,,,,,786.0,Tallinn metropolitan area,Estonia,22.797,"638,076 "
+,,,,,,,,787.0,"Tampa-St. Petersburg-Clearwater, FL MSA",United States,219.414,"3,290,730 "
+,,,,,,,,788.0,Tampere,Finland,23.987,"241,009 "
+,,,,,,,,789.0,Tangshan,China,132,"2,600,000 "
+,,,,,,,,790.0,Taoyuan,Taiwan,52.010,"2,254,363 "
+,,,,,,,,791.0,Taranto metropolitan area,Italy,11.518,"555,999 "
+,,,,,,,,792.0,Tbilisi,Georgia,8.0,"1,184,818 "
+,,,,,,,,793.0,Tel Aviv metropolitan area,Israel,310.00,"4,260,000 "
+,,,,,,,,794.0,"Terre Haute, IN MSA",United States,9.774,"184,875 "
+,,,,,,,,795.0,"Texarkana, TX-AR MSA",United States,6.746,"146,408 "
+,,,,,,,,796.0,The Hague,Netherlands,60.105,"1,116,798 "
+,,,,,,,,797.0,"The Villages, FL MSA",United States,5.785,"144,970 "
+,,,,,,,,798.0,Thessaloniki,Greece,16.452,"1,104,023 "
+,,,,,,,,799.0,Thunder Bay,Canada,4.658,"126,502 "
+,,,,,,,,800.0,Tilburg,Netherlands,21.869,"221,947 "
+,,,,,,,,801.0,Timișoara metropolitan area,Romania,11.526,"430,071 "
+,,,,,,,,802.0,Tokelau,Tokelau,0.009,"1,499 "
+,,,,,,,,803.0,"Toledo, OH MSA",United States,45.846,"640,384 "
+,,,,,,,,804.0,Toowoomba,Australia,7.118,"136,861 "
+,,,,,,,,805.0,"Topeka, KS MSA",United States,14.388,"231,783 "
+,,,,,,,,806.0,Toulouse Métropole,France,65.456,"1,445,789 "
+,,,,,,,,807.0,Tours Métropole Val de Loire,France,23.795,"392,030 "
+,,,,,,,,808.0,Townsville,Australia,9.075,"180,820 "
+,,,,,,,,809.0,"Trenton-Princeton, NJ MSA",United States,49.620,"380,688 "
+,,,,,,,,810.0,Trois-Rivières,Canada,5.134,"163,374 "
+,,,,,,,,811.0,"Tucson, AZ MSA",United States,55.800,"1,057,597 "
+,,,,,,,,812.0,"Tulsa, OK MSA",United States,61.966,"1,034,123 "
+,,,,,,,,813.0,Turin metropolitan area,Italy,78.268,"1,728,714 "
+,,,,,,,,814.0,Turku metropolitan area,Finland,21.939,"346,662 "
+,,,,,,,,815.0,"Tuscaloosa, AL MSA",United States,13.818,"277,494 "
+,,,,,,,,816.0,"Twin Falls, Idaho",United States,5.878,"116,645 "
+,,,,,,,,817.0,"Tyler, TX MSA",United States,14.729,"241,922 "
+,,,,,,,,818.0,Uberlandia,Brazil,14.728,"604,013 "
+,,,,,,,,819.0,Ulm,Germany,26.464,"126,949 "
+,,,,,,,,820.0,Uppsala,Sweden,19.237,"388,394 "
+,,,,,,,,821.0,"Urban Honolulu, HI MSA",United States,74.422,"995,638 "
+,,,,,,,,822.0,Ürümqi,China,48.385,"4,054,369 "
+,,,,,,,,823.0,"Utica-Rome, NY MSA",United States,15.115,"288,668 "
+,,,,,,,,824.0,Utrecht,Netherlands,88.005,"1,356,430 "
+,,,,,,,,825.0,"Valdosta, GA MSA",United States,7.132,"149,849 "
+,,,,,,,,826.0,Valencia metropolitan area,Spain,64.435,"1,768,205 "
+,,,,,,,,827.0,Valladolid,Spain,15.309,"371,861 "
+,,,,,,,,828.0,"Vallejo, CA MSA",United States,35.408,"448,747 "
+,,,,,,,,829.0,Valletta,Malta,17.72,"480,134 "
+,,,,,,,,830.0,Verona metropolitan area,Italy,34.169,"915,975 "
+,,,,,,,,831.0,"Victoria, British Columbia",Canada,16.789,"409,398 "
+,,,,,,,,832.0,"Victoria, TX MSA",United States,5.907,"98,196 "
+,,,,,,,,833.0,Vienna,Austria,165.968,"3,004,660 "
+,,,,,,,,834.0,Vigo metropolitan area,Spain,22.987,"321,748 "
+,,,,,,,,835.0,Vilnius urban area,Lithuania,30.915,"868,341 "
+,,,,,,,,836.0,"Vineland-Bridgeton, NJ MSA",United States,7.831,"151,356 "
+,,,,,,,,837.0,"Virginia Beach-Norfolk-Newport News, VA-NC MSA",United States,116.686,"1,806,840 "
+,,,,,,,,838.0,"Visalia, CA MSA",United States,22.794,"477,544 "
+,,,,,,,,839.0,Vishakhapatnam,India,43.5,"2,200,000 "
+,,,,,,,,840.0,Vitória,Brazil,28.357,"1,582,418 "
+,,,,,,,,841.0,Vitoria-Gasteiz,Spain,13.403,"253,996 "
+,,,,,,,,842.0,"Waco, TX MSA",United States,16.276,"283,885 "
+,,,,,,,,843.0,Wagga Wagga,Australia,4.392,"56,442 "
+,,,,,,,,844.0,"Walla Walla, WA MSA",United States,4.134,"61,890 "
+,,,,,,,,845.0,"Warner Robins, GA MSA",United States,9.812,"198,193 "
+,,,,,,,,846.0,Warsaw metropolitan area,Poland,135.343,"3,269,510 "
+,,,,,,,,847.0,"Washington-Arlington-Alexandria, DC-VA-MD-WV MSA",United States,660.626,"6,373,756 "
+,,,,,,,,848.0,"Waterloo-Cedar Falls, IA MSA",United States,11.824,"167,889 "
+,,,,,,,,849.0,"Watertown-Fort Drum, NY MSA",United States,7.598,"116,637 "
+,,,,,,,,850.0,"Wausau-Weston, WI MSA",United States,12.065,"166,334 "
+,,,,,,,,851.0,Weihai,China,43.753,"2,906,548 "
+,,,,,,,,852.0,"Weirton-Steubenville, WV-OH MSA",United States,7.446,"114,235 "
+,,,,,,,,853.0,Wellington,New Zealand,26.607,"440,900 "
+,,,,,,,,854.0,"Wenatchee, WA MSA",United States,8.355,"124,118 "
+,,,,,,,,855.0,Wenzhou,China,119.2,"5,050,000 "
+,,,,,,,,856.0,Wetzlar,Germany,9.957,"278,200 "
+,,,,,,,,857.0,"Wheeling, WV-OH MSA",United States,12.603,"136,708 "
+,,,,,,,,858.0,"Wichita Falls, TX MSA",United States,7.590,"149,299 "
+,,,,,,,,859.0,"Wichita, KS MSA",United States,43.935,"650,039 "
+,,,,,,,,860.0,"Williamsport, PA MSA",United States,7.040,"113,104 "
+,,,,,,,,861.0,"Wilmington, NC MSA",United States,20.127,"300,658 "
+,,,,,,,,862.0,"Winchester, VA-WV MSA",United States,9.181,"146,455 "
+,,,,,,,,863.0,"Windsor, Ontario",Canada,12.243,"353,572 "
+,,,,,,,,864.0,Winnipeg Metropolitan Region,Canada,33.557,"850,558 "
+,,,,,,,,865.0,"Winston-Salem, NC MSA",United States,40.940,"688,471 "
+,,,,,,,,866.0,Wollongong,Australia,5.624,"300,332 "
+,,,,,,,,867.0,"Worcester, MA-CT MSA",United States,60.343,"980,137 "
+,,,,,,,,868.0,Wrocław metropolitan area,Poland,17.387,"672,929 "
+,,,,,,,,869.0,Wuhai,China,8.165,"556,621 "
+,,,,,,,,870.0,Wuhan,China,281.000,"10,800,000 "
+,,,,,,,,871.0,Wuhu,China,54.412,"3,644,420 "
+,,,,,,,,872.0,Xi'an,China,171,"11,600,000 "
+,,,,,,,,873.0,Xiamen,China,92.557,"5,163,970 "
+,,,,,,,,874.0,Xiangtan,China,33.971,"2,726,181 "
+,,,,,,,,875.0,Xiangyang,China,66.720,"5,260,951 "
+,,,,,,,,876.0,Xilingol League,China,12.176,"1,107,075 "
+,,,,,,,,877.0,Xinyu,China,14.517,"1,202,499 "
+,,,,,,,,878.0,Xuchang,China,50.008,"4,379,998 "
+,,,,,,,,879.0,Xuzhou,China,126,"3,050,000 "
+,,,,,,,,880.0,"Yakima, WA MSA",United States,13.038,"257,001 "
+,,,,,,,,881.0,Yan'an,China,23.219,"2,282,581 "
+,,,,,,,,882.0,Yancheng,China,86.314,"6,709,629 "
+,,,,,,,,883.0,Yangzhou,China,87.690,"4,559,797 "
+,,,,,,,,884.0,Yantai,China,142,"2,450,000 "
+,,,,,,,,885.0,Yerevan,Armenia,5.23,"1,500,000 "
+,,,,,,,,886.0,Yichang,China,61.783,"4,017,607 "
+,,,,,,,,887.0,Yingtan,China,14.290,"1,154,223 "
+,,,,,,,,888.0,"York-Hanover, PA MSA",United States,25.187,"461,058 "
+,,,,,,,,889.0,"Youngstown-Warren-Boardman, OH-PA MSA",United States,24.990,"535,499 "
+,,,,,,,,890.0,"Yuba City, CA MSA",United States,8.608,"182,813 "
+,,,,,,,,891.0,Yueyang,China,58.015,"5,051,922 "
+,,,,,,,,892.0,"Yulin, Shaanxi",China,59.293,"3,624,750 "
+,,,,,,,,893.0,"Yuma, AZ MSA",United States,9.883,"207,842 "
+,,,,,,,,894.0,Yuxi,China,29.840,"2,249,502 "
+,,,,,,,,895.0,Zagreb metropolitan area,Croatia,29.63,"1,189,279 "
+,,,,,,,,896.0,Zaragoza metropolitan area,Spain,29.702,"681,877 "
+,,,,,,,,897.0,Zhangzhou,China,65.903,"5,054,328 "
+,,,,,,,,898.0,Zhengzhou,China,192,"8,950,000 "
+,,,,,,,,899.0,Zhenjiang,China,61.182,"3,210,418 "
+,,,,,,,,900.0,Zhuzhou,China,45.029,"1,330,000 "
+,,,,,,,,901.0,Zibo,China,53.260,"4,704,138 "
+,,,,,,,,902.0,Zürich Metropolitan Area,Switzerland,158.913,"1,430,000 "
+,,,,,,,,903.0,Zwolle,Netherlands,17.936,"129,840 "

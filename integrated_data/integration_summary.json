@@ -1,0 +1,15 @@
+{
+  "integration_date": "2025-10-19T06:49:16.296039",
+  "datasets_integrated": 8,
+  "total_records": 429457,
+  "domains": [
+    "air_quality",
+    "traffic_mobility",
+    "crime_safety",
+    "demographics",
+    "healthcare",
+    "infrastructure",
+    "digital_infrastructure",
+    "unified_metrics"
+  ]
+}

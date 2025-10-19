@@ -1,0 +1,65 @@
+{
+  "models_trained": [
+    "air_quality",
+    "traffic",
+    "digital_readiness"
+  ],
+  "model_performance": {
+    "air_quality_RandomForest": {
+      "r2_score": -0.03162459198054113,
+      "mae": 125.45585859292966,
+      "rmse": 145.70428178828263,
+      "features_used": [
+        "hour",
+        "day_of_week",
+        "month",
+        "is_weekend",
+        "PM2.5",
+        "PM10",
+        "NO2",
+        "SO2",
+        "O3",
+        "CO",
+        "city_encoded"
+      ]
+    },
+    "air_quality_GradientBoosting": {
+      "r2_score": -0.0075609502016091845,
+      "mae": 124.42020147901758,
+      "rmse": 143.99490809593019,
+      "features_used": [
+        "hour",
+        "day_of_week",
+        "month",
+        "is_weekend",
+        "PM2.5",
+        "PM10",
+        "NO2",
+        "SO2",
+        "O3",
+        "CO",
+        "city_encoded"
+      ]
+    },
+    "air_quality_LinearRegression": {
+      "r2_score": -0.0016299360831906196,
+      "mae": 124.18525091867059,
+      "rmse": 143.5704690744422,
+      "features_used": [
+        "hour",
+        "day_of_week",
+        "month",
+        "is_weekend",
+        "PM2.5",
+        "PM10",
+        "NO2",
+        "SO2",
+        "O3",
+        "CO",
+        "city_encoded"
+      ]
+    }
+  },
+  "training_date": "2025-10-19T07:07:49.575496",
+  "total_models": 3
+}

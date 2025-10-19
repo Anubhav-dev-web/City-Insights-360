@@ -1,0 +1,26 @@
+ranking_category,rank,city,value,unit
+Cleanest Air,1,Madras,249.3,AQI
+Cleanest Air,2,Bombay,250.7,AQI
+Cleanest Air,3,Calcutta,251.0,AQI
+Cleanest Air,4,Bangalore,251.5,AQI
+Cleanest Air,5,Delhi,252.8,AQI
+Most Digitally Ready,1,Kochi,64.6,Score
+Most Digitally Ready,2,Calcutta,64.3,Score
+Most Digitally Ready,3,Amaravati,64.1,Score
+Most Digitally Ready,4,Hyderabad,63.3,Score
+Most Digitally Ready,5,Nashik,63.1,Score
+Most Digitally Ready,6,Madras,63.0,Score
+Most Digitally Ready,7,Bangalore,62.9,Score
+Most Digitally Ready,8,Talcher,62.6,Score
+Most Digitally Ready,9,Chandigarh,62.3,Score
+Most Digitally Ready,10,Ludhiana,62.3,Score
+Largest Cities,1,Tokyo,37115035.0,Population
+Largest Cities,2,Delhi,33807403.0,Population
+Largest Cities,3,Shanghai,29867918.0,Population
+Largest Cities,4,Dhaka,23935652.0,Population
+Largest Cities,5,Sao Paulo,22806704.0,Population
+Largest Cities,6,Cairo,22623874.0,Population
+Largest Cities,7,Mexico City,22505315.0,Population
+Largest Cities,8,Beijing,22189082.0,Population
+Largest Cities,9,Bombay,21673149.0,Population
+Largest Cities,10,Osaka,18967459.0,Population

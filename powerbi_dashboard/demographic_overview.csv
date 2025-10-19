@@ -1,0 +1,802 @@
+City,Country,Population (2024),Growth Rate,city_size_category,growth_category
+Tokyo,Japan,37115035.0,-0.0021,Megacity,Declining
+Delhi,India,33807403.0,0.0263,Megacity,Moderate Growth
+Shanghai,China,29867918.0,0.0225,Megacity,Moderate Growth
+Dhaka,Bangladesh,23935652.0,0.0313,Megacity,Fast Growth
+Sao Paulo,Brazil,22806704.0,0.0083,Megacity,Slow Growth
+Cairo,Egypt,22623874.0,0.0199,Megacity,Moderate Growth
+Mexico City,Mexico,22505315.0,0.01,Megacity,Slow Growth
+Beijing,China,22189082.0,0.0194,Megacity,Moderate Growth
+Mumbai,India,21673149.0,0.0177,Megacity,Moderate Growth
+Osaka,Japan,18967459.0,-0.0024,Megacity,Declining
+Chongqing,China,17773923.0,0.025,Megacity,Moderate Growth
+Karachi,Pakistan,17648555.0,0.0239,Megacity,Moderate Growth
+Kinshasa,DR Congo,17032322.0,0.0439,Megacity,Fast Growth
+Lagos,Nigeria,16536018.0,0.037,Megacity,Fast Growth
+Istanbul,Turkey,16047350.0,0.0126,Megacity,Moderate Growth
+Buenos Aires,Argentina,15618288.0,0.0083,Megacity,Slow Growth
+Kolkata,India,15570786.0,0.0155,Megacity,Moderate Growth
+Manila,Philippines,14941953.0,0.0187,Megacity,Moderate Growth
+Guangzhou,China,14590096.0,0.0214,Megacity,Moderate Growth
+Tianjin,China,14470873.0,0.0163,Megacity,Moderate Growth
+Lahore,Pakistan,14407074.0,0.0306,Megacity,Fast Growth
+Bangalore,India,14008262.0,0.0294,Megacity,Moderate Growth
+Rio De Janeiro,Brazil,13824347.0,0.007,Megacity,Slow Growth
+Shenzhen,China,13311855.0,0.0183,Megacity,Moderate Growth
+Moscow,Russia,12712305.0,0.0025,Megacity,Slow Growth
+Chennai,India,12053697.0,0.0236,Megacity,Moderate Growth
+Bogota,Colombia,11658211.0,0.0131,Megacity,Moderate Growth
+Jakarta,Indonesia,11436004.0,0.0166,Megacity,Moderate Growth
+Lima,Peru,11361938.0,0.0141,Megacity,Moderate Growth
+Paris,France,11276701.0,0.0061,Megacity,Slow Growth
+Bangkok,Thailand,11233869.0,0.0148,Megacity,Moderate Growth
+Hyderabad,India,11068877.0,0.0248,Megacity,Moderate Growth
+Seoul,South Korea,10004840.0,0.0017,Megacity,Slow Growth
+Nanjing,China,9947548.0,0.0257,Large,Moderate Growth
+Chengdu,China,9828110.0,0.0181,Large,Moderate Growth
+London,United Kingdom,9748033.0,0.0104,Large,Moderate Growth
+Luanda,Angola,9651032.0,0.0386,Large,Fast Growth
+Tehran,Iran,9616007.0,0.0122,Large,Moderate Growth
+Ho Chi Minh City,Vietnam,9567656.0,0.0265,Large,Moderate Growth
+Nagoya,Japan,9556879.0,-0.0013,Large,Declining
+Xi An Shaanxi,China,9013837.0,0.026,Large,Moderate Growth
+Ahmedabad,India,8854444.0,0.0236,Large,Moderate Growth
+Wuhan,China,8850850.0,0.0152,Large,Moderate Growth
+Kuala Lumpur,Malaysia,8815630.0,0.0225,Large,Moderate Growth
+Hangzhou,China,8419842.0,0.0222,Large,Moderate Growth
+Suzhou,China,8350625.0,0.0343,Large,Fast Growth
+Surat,India,8330528.0,0.0329,Large,Fast Growth
+Dar Es Salaam,Tanzania,8161231.0,0.0496,Large,Fast Growth
+New York,United States,7931147.0,-0.0249,Large,Declining
+Baghdad,Iraq,7921134.0,0.0272,Large,Moderate Growth
+Shenyang,China,7830377.0,0.0195,Large,Moderate Growth
+Riyadh,Saudi Arabia,7820551.0,0.018,Large,Moderate Growth
+Hong Kong,Hong Kong,7725859.0,0.0053,Large,Slow Growth
+Foshan,China,7704935.0,0.0142,Large,Moderate Growth
+Dongguan,China,7675146.0,0.0116,Large,Moderate Growth
+Pune,India,7345848.0,0.025,Large,Moderate Growth
+Santiago,Chile,6950952.0,0.0069,Large,Slow Growth
+Haerbin,China,6938008.0,0.0197,Large,Moderate Growth
+Madrid,Spain,6783241.0,0.0047,Large,Slow Growth
+Khartoum,Sudan,6542070.0,0.0312,Large,Fast Growth
+Toronto,Canada,6431430.0,0.0093,Large,Slow Growth
+Johannesburg,South Africa,6324351.0,0.0204,Large,Moderate Growth
+Belo Horizonte,Brazil,6300409.0,0.0084,Large,Slow Growth
+Dalian,China,6217487.0,0.023,Large,Moderate Growth
+Singapore,Singapore,6119203.0,0.0063,Large,Slow Growth
+Qingdao,China,6104597.0,0.0197,Large,Moderate Growth
+Zhengzhou,China,6014887.0,0.0266,Large,Moderate Growth
+Ji Nan Shandong,China,5940698.0,0.0232,Large,Moderate Growth
+Abidjan,Ivory Coast,5866704.0,0.0317,Large,Fast Growth
+Barcelona,Spain,5711917.0,0.0043,Large,Slow Growth
+Yangon,Myanmar,5709678.0,0.0177,Large,Moderate Growth
+Addis Ababa,Ethiopia,5703628.0,0.0445,Large,Fast Growth
+Alexandria,Egypt,5696131.0,0.0193,Large,Moderate Growth
+Saint Petersburg,Russia,5581707.0,0.0037,Large,Slow Growth
+Nairobi,Kenya,5541172.0,0.0406,Large,Fast Growth
+Chittagong,Bangladesh,5513609.0,0.0249,Large,Moderate Growth
+Guadalajara,Mexico,5499678.0,0.0147,Large,Moderate Growth
+Fukuoka,Japan,5478076.0,-0.0022,Large,Declining
+Ankara,Turkey,5477087.0,0.0148,Large,Moderate Growth
+Hanoi,Vietnam,5431801.0,0.034,Large,Fast Growth
+Melbourne,Australia,5315600.0,0.0153,Large,Moderate Growth
+Monterrey,Mexico,5195355.0,0.0154,Large,Moderate Growth
+Sydney,Australia,5184896.0,0.0125,Large,Moderate Growth
+Changsha,China,5027975.0,0.0216,Large,Moderate Growth
+Urumqi,China,5005964.0,0.029,Large,Moderate Growth
+Cape Town,South Africa,4977833.0,0.0179,Medium,Moderate Growth
+Jiddah,Saudi Arabia,4943210.0,0.0165,Medium,Moderate Growth
+Brasilia,Brazil,4935274.0,0.0128,Medium,Moderate Growth
+Kunming,China,4861079.0,0.021,Medium,Moderate Growth
+Changchun,China,4802447.0,0.0195,Medium,Moderate Growth
+Kabul,Afghanistan,4728384.0,0.0304,Medium,Fast Growth
+Hefei,China,4727290.0,0.0242,Medium,Moderate Growth
+Yaounde,Cameroon,4681768.0,0.0383,Medium,Fast Growth
+Ningbo,China,4659830.0,0.0269,Medium,Moderate Growth
+Shantou,China,4656525.0,0.0181,Medium,Moderate Growth
+New Taipei,Taiwan,4534877.0,0.0068,Medium,Slow Growth
+Tel Aviv,Israel,4495727.0,0.0169,Medium,Moderate Growth
+Kano,Nigeria,4490734.0,0.0327,Medium,Fast Growth
+Shijiazhuang,China,4454132.0,0.0191,Medium,Moderate Growth
+Montreal,Canada,4341638.0,0.0078,Medium,Slow Growth
+Rome,Italy,4331974.0,0.0038,Medium,Slow Growth
+Jaipur,India,4308510.0,0.0241,Medium,Moderate Growth
+Recife,Brazil,4305127.0,0.0097,Medium,Slow Growth
+Nanning,China,4291463.0,0.0238,Medium,Moderate Growth
+Fortaleza,Brazil,4246399.0,0.0095,Medium,Slow Growth
+Kozhikode,India,4243962.0,0.038,Medium,Fast Growth
+Porto Alegre,Brazil,4239867.0,0.0066,Medium,Slow Growth
+Taiyuan Shanxi,China,4226782.0,0.0197,Medium,Moderate Growth
+Douala,Cameroon,4203108.0,0.0344,Medium,Fast Growth
+Ekurhuleni,South Africa,4190832.0,0.0176,Medium,Moderate Growth
+Malappuram,India,4184921.0,0.0439,Medium,Fast Growth
+Medellin,Colombia,4137386.0,0.0086,Medium,Slow Growth
+Changzhou,China,4085502.0,0.0261,Medium,Moderate Growth
+Kampala,Uganda,4050826.0,0.0532,Medium,Fast Growth
+Antananarivo,Madagascar,4048666.0,0.0456,Medium,Fast Growth
+Lucknow,India,4038214.0,0.0235,Medium,Moderate Growth
+Abuja,Nigeria,4025735.0,0.0485,Medium,Fast Growth
+Nanchang,China,4016037.0,0.0244,Medium,Moderate Growth
+Wenzhou,China,4009531.0,0.0229,Medium,Moderate Growth
+Xiamen,China,4007468.0,0.0183,Medium,Moderate Growth
+Ibadan,Nigeria,4004316.0,0.0334,Medium,Fast Growth
+Fuzhou Fujian,China,3998754.0,0.0195,Medium,Moderate Growth
+Salvador,Brazil,3994982.0,0.0092,Medium,Slow Growth
+Casablanca,Morocco,3950408.0,0.0148,Medium,Moderate Growth
+Tangshan Hebei,China,3925206.0,0.029,Medium,Moderate Growth
+Kumasi,Ghana,3903481.0,0.0359,Medium,Fast Growth
+Curitiba,Brazil,3852459.0,0.0103,Medium,Moderate Growth
+Bekasi,Indonesia,3830678.0,0.0272,Medium,Moderate Growth
+Faisalabad,Pakistan,3800193.0,0.0241,Medium,Moderate Growth
+Los Angeles,United States,3748640.0,-0.0097,Medium,Declining
+Guiyang,China,3661446.0,0.0225,Medium,Moderate Growth
+Port Harcourt,Nigeria,3636547.0,0.045,Medium,Fast Growth
+Thrissur,India,3605238.0,0.0353,Medium,Fast Growth
+Santo Domingo,Dominican Republic,3587402.0,0.018,Medium,Moderate Growth
+Berlin,Germany,3576873.0,0.0008,Medium,Slow Growth
+Asuncion,Paraguay,3568830.0,0.0166,Medium,Moderate Growth
+Dakar,Senegal,3540462.0,0.0323,Medium,Fast Growth
+Kochi,India,3507053.0,0.0297,Medium,Moderate Growth
+Wuxi,China,3498740.0,0.0179,Medium,Moderate Growth
+Busan,South Korea,3477419.0,0.0016,Medium,Slow Growth
+Campinas,Brazil,3458441.0,0.0104,Medium,Moderate Growth
+Mashhad,Iran,3415532.0,0.0142,Medium,Moderate Growth
+Sanaa,Yemen,3407814.0,0.035,Medium,Fast Growth
+Puebla,Mexico,3394342.0,0.0148,Medium,Moderate Growth
+Indore,India,3393380.0,0.0277,Medium,Moderate Growth
+Lanzhou,China,3365910.0,0.0207,Medium,Moderate Growth
+Ouagadougou,Burkina Faso,3358934.0,0.0484,Medium,Fast Growth
+Kuwait City,Kuwait,3353602.0,0.0169,Medium,Moderate Growth
+Lusaka,Zambia,3324219.0,0.0449,Medium,Fast Growth
+Kanpur,India,3286142.0,0.0161,Medium,Moderate Growth
+Durban,South Africa,3262128.0,0.0106,Medium,Moderate Growth
+Guayaquil,Ecuador,3193267.0,0.0162,Medium,Moderate Growth
+Pyongyang,North Korea,3183135.0,0.0081,Medium,Slow Growth
+Milan,Italy,3160631.0,0.0019,Medium,Slow Growth
+Guatemala City,Guatemala,3159631.0,0.0208,Medium,Moderate Growth
+Athens,Greece,3154591.0,0.0,Medium,Declining
+Depok,Indonesia,3133298.0,0.0303,Medium,Fast Growth
+Izmir,Turkey,3120340.0,0.0103,Medium,Moderate Growth
+Nagpur,India,3106340.0,0.0196,Medium,Moderate Growth
+Surabaya,Indonesia,3088748.0,0.0146,Medium,Moderate Growth
+Handan,China,3085998.0,0.0268,Medium,Moderate Growth
+Coimbatore,India,3083721.0,0.0248,Medium,Moderate Growth
+Huaian,China,3071048.0,0.0306,Medium,Fast Growth
+Port Au Prince,Haiti,3060169.0,0.0243,Medium,Moderate Growth
+Zhongshan,China,3051065.0,0.0134,Medium,Moderate Growth
+Dubai,United Arab Emirates,3051016.0,0.0144,Medium,Moderate Growth
+Bamako,Mali,3050570.0,0.0414,Medium,Fast Growth
+Mbuji Mayi,DR Congo,3022855.0,0.0453,Medium,Fast Growth
+Kiev,Ukraine,3020228.0,0.0011,Medium,Slow Growth
+Lisbon,Portugal,3014607.0,0.0047,Medium,Slow Growth
+Weifang,China,2994537.0,0.0263,Medium,Moderate Growth
+Caracas,Venezuela,2991727.0,0.0066,Medium,Slow Growth
+Thiruvananthapuram,India,2984154.0,0.0322,Medium,Fast Growth
+Algiers,Algeria,2952115.0,0.0173,Medium,Moderate Growth
+Shizuoka,Japan,2935527.0,-0.0006,Medium,Declining
+Lubumbashi,DR Congo,2933962.0,0.0434,Medium,Fast Growth
+Cali,Colombia,2890433.0,0.0093,Medium,Slow Growth
+Goiania,Brazil,2890418.0,0.0147,Medium,Moderate Growth
+Pretoria,South Africa,2889899.0,0.0255,Medium,Moderate Growth
+Shaoxing,China,2882171.0,0.0273,Medium,Moderate Growth
+Incheon,South Korea,2861686.0,0.0046,Medium,Slow Growth
+Yantai,China,2834508.0,0.0253,Medium,Moderate Growth
+Zibo,China,2828435.0,0.0174,Medium,Moderate Growth
+Huizhou,China,2827610.0,0.025,Medium,Moderate Growth
+Manchester,United Kingdom,2811756.0,0.0074,Medium,Slow Growth
+Taipei,Taiwan,2766334.0,0.0044,Medium,Slow Growth
+Mogadishu,Somalia,2726815.0,0.0446,Medium,Fast Growth
+Brazzaville,Republic of the Congo,2724566.0,0.0329,Medium,Fast Growth
+Accra,Ghana,2721165.0,0.023,Medium,Moderate Growth
+Bandung,Indonesia,2714215.0,0.015,Medium,Moderate Growth
+Damascus,Syria,2685361.0,0.0389,Medium,Fast Growth
+Birmingham,United Kingdom,2684807.0,0.0074,Medium,Slow Growth
+Vancouver,Canada,2682509.0,0.0096,Medium,Slow Growth
+Toluca De Lerdo,Mexico,2674336.0,0.0183,Medium,Moderate Growth
+Luoyang,China,2666744.0,0.0246,Medium,Moderate Growth
+Sapporo,Japan,2660947.0,-0.0019,Medium,Declining
+Tashkent,Uzbekistan,2633661.0,0.0117,Medium,Moderate Growth
+Patna,India,2633243.0,0.0207,Medium,Moderate Growth
+Bhopal,India,2624865.0,0.0235,Medium,Moderate Growth
+Chicago,United States,2590002.0,-0.0143,Medium,Declining
+Tangerang,Indonesia,2570980.0,0.0226,Medium,Moderate Growth
+Nantong,China,2555722.0,0.0255,Medium,Moderate Growth
+Brisbane,Australia,2536449.0,0.0128,Medium,Moderate Growth
+Tunis,Tunisia,2510673.0,0.0142,Medium,Moderate Growth
+Peshawar,Pakistan,2480546.0,0.0285,Medium,Moderate Growth
+Medan,Indonesia,2479070.0,0.0164,Medium,Moderate Growth
+Gujranwala,Pakistan,2479058.0,0.0263,Medium,Moderate Growth
+Baku,Azerbaijan,2464162.0,0.0131,Medium,Moderate Growth
+Hohhot,China,2443686.0,0.0265,Medium,Moderate Growth
+San Juan,Puerto Rico,2436620.0,-0.0012,Medium,Declining
+Belem,Brazil,2432177.0,0.0094,Medium,Slow Growth
+Rawalpindi,Pakistan,2430388.0,0.0223,Medium,Moderate Growth
+Agra,India,2422342.0,0.0231,Medium,Moderate Growth
+Manaus,Brazil,2406854.0,0.0131,Medium,Moderate Growth
+Kannur,India,2405664.0,0.0254,Medium,Moderate Growth
+Beirut,Lebanon,2402485.0,-0.0078,Medium,Declining
+Maracaibo,Venezuela,2400826.0,0.014,Medium,Moderate Growth
+Liuzhou,China,2397410.0,0.023,Medium,Moderate Growth
+Visakhapatnam,India,2385110.0,0.0232,Medium,Moderate Growth
+Baotou,China,2381242.0,0.0199,Medium,Moderate Growth
+Vadodara,India,2373365.0,0.0212,Medium,Moderate Growth
+Barranquilla,Colombia,2373302.0,0.0102,Medium,Moderate Growth
+Phnom Penh,Cambodia,2352680.0,0.0313,Medium,Fast Growth
+Sendai,Japan,2341433.0,-0.0004,Medium,Declining
+Taoyuan,Taiwan,2338724.0,0.0086,Medium,Slow Growth
+Xuzhou,China,2332531.0,0.0198,Medium,Moderate Growth
+Aleppo,Syria,2317650.0,0.052,Medium,Fast Growth
+Houston,United States,2305889.0,0.0007,Medium,Slow Growth
+Tijuana,Mexico,2297216.0,0.0166,Medium,Moderate Growth
+Esfahan,Iran,2294589.0,0.016,Medium,Moderate Growth
+Nashik,India,2294299.0,0.0254,Medium,Moderate Growth
+Vijayawada,India,2290785.0,0.0274,Medium,Moderate Growth
+Amman,Jordan,2252688.0,0.0092,Medium,Slow Growth
+Putian,China,2250104.0,0.034,Medium,Fast Growth
+Multan,Pakistan,2205407.0,0.0236,Medium,Moderate Growth
+Grande Vitoria,Brazil,2196818.0,0.0121,Medium,Moderate Growth
+Wuhu Anhui,China,2195262.0,0.0332,Medium,Fast Growth
+Mecca,Saudi Arabia,2184560.0,0.0161,Medium,Moderate Growth
+Kollam,India,2181940.0,0.0358,Medium,Fast Growth
+Naples,Italy,2180027.0,0.0003,Medium,Slow Growth
+Daegu,South Korea,2179929.0,-0.0005,Medium,Declining
+Conakry,Guinea,2178596.0,0.0321,Medium,Fast Growth
+Yangzhou,China,2175102.0,0.0206,Medium,Moderate Growth
+Havana,Cuba,2152518.0,0.0017,Medium,Slow Growth
+Taizhou Zhejiang,China,2152226.0,0.0238,Medium,Moderate Growth
+Baoding,China,2149703.0,0.02,Medium,Moderate Growth
+Perth,Australia,2143491.0,0.012,Medium,Moderate Growth
+Brussels,Belgium,2132178.0,0.0048,Medium,Slow Growth
+Linyi Shandong,China,2120049.0,0.021,Medium,Moderate Growth
+Bursa,Turkey,2115513.0,0.014,Medium,Moderate Growth
+Rajkot,India,2096981.0,0.0264,Medium,Moderate Growth
+Minsk,Belarus,2064733.0,0.0036,Medium,Slow Growth
+Hiroshima,Japan,2062884.0,-0.0023,Medium,Declining
+Haikou,China,2056646.0,0.0201,Medium,Moderate Growth
+Daqing,China,2044371.0,0.0219,Medium,Moderate Growth
+Lome,Togo,2042734.0,0.0308,Medium,Fast Growth
+Lianyungang,China,2035631.0,0.0248,Medium,Moderate Growth
+Yancheng Jiangsu,China,2034326.0,0.0205,Medium,Moderate Growth
+Panama City,Panama,2015735.0,0.0197,Medium,Moderate Growth
+Almaty,Kazakhstan,2015209.0,0.014,Medium,Moderate Growth
+Semarang,Indonesia,2013571.0,0.0194,Medium,Moderate Growth
+Hyderabad,Pakistan,2011964.0,0.0225,Medium,Moderate Growth
+Valencia,Venezuela,2007265.0,0.012,Medium,Moderate Growth
+Davao City,Philippines,1991457.0,0.0216,Medium,Moderate Growth
+Vienna,Austria,1990487.0,0.0077,Medium,Slow Growth
+Rabat,Morocco,1989197.0,0.0152,Medium,Moderate Growth
+Ludhiana,India,1988438.0,0.0191,Medium,Moderate Growth
+Quito,Ecuador,1986667.0,0.0152,Medium,Moderate Growth
+Benin City,Nigeria,1972558.0,0.0357,Medium,Fast Growth
+La Paz,Bolivia,1965570.0,0.0155,Medium,Moderate Growth
+Baixada Santista,Brazil,1965110.0,0.0089,Medium,Slow Growth
+West Yorkshire,United Kingdom,1942470.0,0.0072,Medium,Slow Growth
+Can Tho,Vietnam,1938915.0,0.0395,Medium,Fast Growth
+Zhuhai,China,1930373.0,0.0215,Medium,Moderate Growth
+Leon De Los Aldamas,Mexico,1924435.0,0.0135,Medium,Moderate Growth
+Quanzhou,China,1920733.0,0.0271,Medium,Moderate Growth
+Matola,Mozambique,1915035.0,0.0338,Medium,Fast Growth
+Datong,China,1913674.0,0.0213,Medium,Moderate Growth
+Sharjah,United Arab Emirates,1872199.0,0.0226,Medium,Moderate Growth
+Madurai,India,1871912.0,0.0205,Medium,Moderate Growth
+Raipur,India,1871107.0,0.0299,Medium,Moderate Growth
+Adana,Turkey,1856638.0,0.0113,Medium,Moderate Growth
+Santa Cruz,Bolivia,1855732.0,0.0196,Medium,Moderate Growth
+Palembang,Indonesia,1852673.0,0.0188,Medium,Moderate Growth
+Mosul,Iraq,1847691.0,0.0311,Medium,Fast Growth
+Cixi,China,1840039.0,0.0286,Medium,Moderate Growth
+Meerut,India,1835403.0,0.0209,Medium,Moderate Growth
+Gaziantep,Turkey,1833006.0,0.0157,Medium,Moderate Growth
+La Laguna,Mexico,1826135.0,0.0256,Medium,Moderate Growth
+Batam,Indonesia,1806147.0,0.0332,Medium,Fast Growth
+Turin,Italy,1805727.0,0.0021,Medium,Slow Growth
+Warsaw,Poland,1799451.0,0.0011,Medium,Slow Growth
+Jiangmen,China,1797469.0,0.0164,Medium,Moderate Growth
+Varanasi,India,1789047.0,0.0197,Medium,Moderate Growth
+Hamburg,Germany,1787280.0,-0.0001,Medium,Declining
+Montevideo,Uruguay,1781363.0,0.0039,Medium,Slow Growth
+Budapest,Hungary,1780391.0,0.0013,Medium,Slow Growth
+Lyon,France,1774395.0,0.0075,Medium,Slow Growth
+Xiangyang,China,1772318.0,0.017,Medium,Moderate Growth
+Bucharest,Romania,1767520.0,-0.005,Medium,Declining
+Yichang,China,1758100.0,0.0274,Medium,Moderate Growth
+Yinchuan,China,1757699.0,0.0239,Medium,Moderate Growth
+Shiraz,Iran,1742750.0,0.0127,Medium,Moderate Growth
+Kananga,DR Congo,1738716.0,0.0446,Medium,Fast Growth
+Srinagar,India,1737502.0,0.0231,Medium,Moderate Growth
+Monrovia,Liberia,1735365.0,0.0342,Medium,Fast Growth
+Tiruppur,India,1731862.0,0.0326,Medium,Fast Growth
+Jamshedpur,India,1730521.0,0.0209,Medium,Moderate Growth
+Suqian,China,1726327.0,0.0369,Medium,Fast Growth
+Aurangabad,India,1725283.0,0.0249,Medium,Moderate Growth
+Qinhuangdao,China,1723728.0,0.0254,Medium,Moderate Growth
+Stockholm,Sweden,1719604.0,0.0115,Medium,Moderate Growth
+Anshan,China,1713452.0,0.0142,Medium,Moderate Growth
+Glasgow,United Kingdom,1708147.0,0.0059,Medium,Slow Growth
+Xining,China,1705078.0,0.0231,Medium,Moderate Growth
+Makassar,Indonesia,1704930.0,0.019,Medium,Moderate Growth
+Hengyang,China,1702012.0,0.0242,Medium,Moderate Growth
+Novosibirsk,Russia,1701510.0,0.004,Medium,Slow Growth
+Ulaanbaatar,Mongolia,1699363.0,0.016,Medium,Moderate Growth
+Onitsha,Nigeria,1694913.0,0.0441,Medium,Fast Growth
+Jilin,China,1693701.0,0.0149,Medium,Moderate Growth
+Anyang,China,1693375.0,0.0311,Medium,Fast Growth
+Auckland,New Zealand,1692770.0,0.0117,Medium,Moderate Growth
+Tabriz,Iran,1678028.0,0.0104,Medium,Moderate Growth
+Phoenix,United States,1676481.0,0.0097,Medium,Slow Growth
+Muscat,Oman,1676167.0,0.0157,Medium,Moderate Growth
+Calgary,Canada,1665023.0,0.0155,Medium,Moderate Growth
+Qiqihaer,China,1662407.0,0.0165,Medium,Moderate Growth
+N Djamena,Chad,1655618.0,0.0397,Medium,Fast Growth
+Marseille,France,1635707.0,0.005,Medium,Slow Growth
+Cordoba,Argentina,1625937.0,0.0089,Medium,Slow Growth
+Jodhpur,India,1625325.0,0.0244,Medium,Moderate Growth
+Kathmandu,Nepal,1621642.0,0.0322,Medium,Fast Growth
+Rosario,Argentina,1613041.0,0.0119,Medium,Moderate Growth
+Tegucigalpa,Honduras,1609261.0,0.0263,Medium,Moderate Growth
+Ciudad Juarez,Mexico,1604085.0,0.0138,Medium,Moderate Growth
+Harare,Zimbabwe,1603201.0,0.0159,Medium,Moderate Growth
+Karaj,Iran,1603011.0,0.0059,Medium,Slow Growth
+Medina,Saudi Arabia,1598976.0,0.0168,Medium,Moderate Growth
+Jining Shandong,China,1595963.0,0.0168,Medium,Moderate Growth
+Abu Dhabi,United Arab Emirates,1593284.0,0.0168,Medium,Moderate Growth
+Munich,Germany,1584507.0,0.0051,Medium,Slow Growth
+Ranchi,India,1584237.0,0.0239,Medium,Moderate Growth
+Daejon,South Korea,1581705.0,0.0027,Medium,Slow Growth
+Zhangjiakou,China,1568122.0,0.0208,Medium,Moderate Growth
+Edmonton,Canada,1567615.0,0.015,Medium,Moderate Growth
+Mandalay,Myanmar,1563021.0,0.0203,Medium,Moderate Growth
+Gaoxiong,Taiwan,1559085.0,0.004,Medium,Slow Growth
+Kota,India,1558468.0,0.0275,Medium,Moderate Growth
+Natal,Brazil,1556413.0,0.0137,Medium,Moderate Growth
+Nouakchott,Mauritania,1552146.0,0.0403,Medium,Fast Growth
+Jabalpur,India,1551004.0,0.019,Medium,Moderate Growth
+Huainan,China,1538603.0,0.0171,Medium,Moderate Growth
+Grande Sao Luis,Brazil,1536017.0,0.0081,Medium,Slow Growth
+Asansol,India,1534081.0,0.0193,Medium,Moderate Growth
+Philadelphia,United States,1533916.0,-0.0107,Medium,Declining
+Yekaterinburg,Russia,1532970.0,0.0034,Medium,Slow Growth
+Gwangju,South Korea,1532902.0,0.0022,Medium,Slow Growth
+Yiwu,China,1525749.0,0.0286,Medium,Moderate Growth
+Chaozhou,China,1520628.0,0.0163,Medium,Moderate Growth
+Gwalior,India,1508846.0,0.0229,Medium,Moderate Growth
+Ganzhou,China,1508037.0,0.0331,Medium,Fast Growth
+San Antonio,United States,1506593.0,0.0113,Medium,Moderate Growth
+Homs,Syria,1499603.0,0.0389,Medium,Fast Growth
+Niamey,Niger,1496258.0,0.0411,Medium,Fast Growth
+Mombasa,Kenya,1495223.0,0.0381,Medium,Fast Growth
+Allahabad,India,1493346.0,0.0192,Medium,Moderate Growth
+Basra,Iraq,1485156.0,0.0256,Medium,Moderate Growth
+Kisangani,DR Congo,1483513.0,0.0422,Medium,Fast Growth
+San Jose,Costa Rica,1482460.0,0.014,Medium,Moderate Growth
+Amritsar,India,1480470.0,0.0198,Medium,Moderate Growth
+Taizhou Jiangsu,China,1477600.0,0.0213,Medium,Moderate Growth
+Chon Buri,Thailand,1472709.0,0.0127,Medium,Moderate Growth
+Jiaxing,China,1470917.0,0.0322,Medium,Fast Growth
+Weihai,China,1465926.0,0.0256,Medium,Moderate Growth
+Hai Phong,Vietnam,1463650.0,0.0286,Medium,Moderate Growth
+Ottawa,Canada,1451571.0,0.01,Medium,Slow Growth
+Zurich,Switzerland,1443349.0,0.0083,Medium,Slow Growth
+Taian Shandong,China,1441911.0,0.0183,Medium,Moderate Growth
+Queretaro,Mexico,1436818.0,0.0165,Medium,Moderate Growth
+Joao Pessoa,Brazil,1435125.0,0.0094,Medium,Slow Growth
+Kaifeng,China,1434463.0,0.0259,Medium,Moderate Growth
+Cochabamba,Bolivia,1430688.0,0.0217,Medium,Moderate Growth
+Konya,Turkey,1429935.0,0.0158,Medium,Moderate Growth
+Liuyang,China,1428802.0,0.0402,Medium,Fast Growth
+Liuan,China,1427894.0,0.0361,Medium,Fast Growth
+Rizhao,China,1426583.0,0.0254,Medium,Moderate Growth
+Kharkiv,Ukraine,1418978.0,-0.0015,Medium,Declining
+Dhanbad,India,1414532.0,0.0178,Medium,Moderate Growth
+Nanchong,China,1412714.0,0.0255,Medium,Moderate Growth
+Dongying,China,1410791.0,0.0228,Medium,Moderate Growth
+Belgrade,Serbia,1410697.0,0.0018,Medium,Slow Growth
+Zunyi,China,1406091.0,0.0215,Medium,Moderate Growth
+Zhanjiang,China,1399310.0,0.0199,Medium,Moderate Growth
+Bucaramanga,Colombia,1396632.0,0.011,Medium,Moderate Growth
+Uyo,Nigeria,1393453.0,0.0483,Medium,Fast Growth
+Copenhagen,Denmark,1391205.0,0.0074,Medium,Slow Growth
+Shiyan,China,1387377.0,0.0246,Medium,Moderate Growth
+Taizhong,Taiwan,1381855.0,0.0093,Medium,Slow Growth
+Bareilly,India,1380715.0,0.0238,Medium,Moderate Growth
+Pointe Noire,Republic of the Congo,1379368.0,0.0322,Medium,Fast Growth
+Adelaide,Australia,1379280.0,0.0091,Medium,Slow Growth
+Suweon,South Korea,1378229.0,0.0094,Medium,Slow Growth
+Mwanza,Tanzania,1378014.0,0.0513,Medium,Fast Growth
+Mianyang Sichuan,China,1376449.0,0.0185,Medium,Moderate Growth
+Samut Prakan,Thailand,1376146.0,0.0127,Medium,Moderate Growth
+Maceio,Brazil,1375984.0,0.0091,Medium,Slow Growth
+San Diego,United States,1375452.0,-0.0021,Medium,Declining
+Qom,Iran,1373800.0,0.0145,Medium,Moderate Growth
+Antalya,Turkey,1372400.0,0.0187,Medium,Moderate Growth
+Joinville,Brazil,1361992.0,0.01,Medium,Slow Growth
+Tengzhou,China,1360779.0,0.0286,Medium,Moderate Growth
+Yingkou,China,1355564.0,0.0245,Medium,Moderate Growth
+Ad Dammam,Saudi Arabia,1352912.0,0.0178,Medium,Moderate Growth
+Suzhou,China,1349994.0,0.0302,Medium,Fast Growth
+Tanger,Morocco,1348848.0,0.0264,Medium,Moderate Growth
+Freetown,Sierra Leone,1347559.0,0.0293,Medium,Moderate Growth
+Helsinki,Finland,1346810.0,0.0067,Medium,Slow Growth
+Aligarh,India,1346018.0,0.0256,Medium,Moderate Growth
+Moradabad,India,1335966.0,0.0263,Medium,Moderate Growth
+Pekan Baru,Indonesia,1334532.0,0.0239,Medium,Moderate Growth
+Maoming,China,1333930.0,0.023,Medium,Moderate Growth
+Lilongwe,Malawi,1333096.0,0.0445,Medium,Fast Growth
+Porto,Portugal,1329301.0,0.0035,Medium,Slow Growth
+Prague,Czech Republic,1327947.0,0.0035,Medium,Slow Growth
+Astana,Kazakhstan,1324111.0,0.0254,Medium,Moderate Growth
+Jieyang,China,1320779.0,0.0299,Medium,Moderate Growth
+Fushun Liaoning,China,1317276.0,0.0097,Medium,Slow Growth
+Mysore,India,1316461.0,0.0219,Medium,Moderate Growth
+Abomey Calavi,Benin,1314916.0,0.0495,Medium,Fast Growth
+Ruian,China,1314784.0,0.0257,Medium,Moderate Growth
+Fes,Morocco,1313311.0,0.018,Medium,Moderate Growth
+Port Elizabeth,South Africa,1312631.0,0.0129,Medium,Moderate Growth
+Florianopolis,Brazil,1309895.0,0.0119,Medium,Moderate Growth
+Ahvaz,Iran,1309372.0,0.0122,Medium,Moderate Growth
+Bukavu,DR Congo,1308469.0,0.0478,Medium,Fast Growth
+Nnewi,Nigeria,1300993.0,0.0499,Medium,Fast Growth
+Kazan,Russia,1296232.0,0.0034,Medium,Slow Growth
+Jinhua,China,1296065.0,0.0303,Medium,Fast Growth
+Dallas,United States,1295447.0,-0.0016,Medium,Declining
+San Luis Potosi,Mexico,1292133.0,0.0148,Medium,Moderate Growth
+Baoji,China,1290231.0,0.0231,Medium,Moderate Growth
+Durg Bhilainagar,India,1289673.0,0.0187,Medium,Moderate Growth
+Bhubaneswar,India,1289254.0,0.0251,Medium,Moderate Growth
+Kigali,Rwanda,1287952.0,0.0324,Medium,Fast Growth
+Sofia,Bulgaria,1287540.0,-0.0004,Medium,Declining
+Pingdingshan Henan,China,1285750.0,0.0232,Medium,Moderate Growth
+Dublin,Ireland,1284551.0,0.0113,Medium,Moderate Growth
+Puning,China,1282756.0,0.0228,Medium,Moderate Growth
+Chifeng,China,1279544.0,0.0217,Medium,Moderate Growth
+Zhuzhou,China,1277238.0,0.0181,Medium,Moderate Growth
+Bujumbura,Burundi,1277050.0,0.0582,Medium,Fast Growth
+Zhenjiang Jiangsu,China,1275395.0,0.0198,Medium,Moderate Growth
+Liupanshui,China,1272872.0,0.0343,Medium,Fast Growth
+Barquisimeto,Venezuela,1267872.0,0.0109,Medium,Moderate Growth
+Islamabad,Pakistan,1266792.0,0.0279,Medium,Moderate Growth
+Huaibei,China,1264856.0,0.0231,Medium,Moderate Growth
+Tasikmalaya,Indonesia,1258124.0,0.0365,Medium,Fast Growth
+Maracay,Venezuela,1256553.0,0.0109,Medium,Moderate Growth
+Bogor,Indonesia,1256155.0,0.0201,Medium,Moderate Growth
+Da Nang,Vietnam,1253228.0,0.0267,Medium,Moderate Growth
+Nizhniy Novgorod,Russia,1250302.0,-0.0008,Medium,Declining
+Nanyang Henan,China,1250300.0,0.021,Medium,Moderate Growth
+Xiangtan Hunan,China,1249380.0,0.0208,Medium,Moderate Growth
+Pizhou,China,1247177.0,0.0331,Medium,Fast Growth
+Tiruchirappalli,India,1244978.0,0.0188,Medium,Moderate Growth
+Chelyabinsk,Russia,1243883.0,0.0024,Medium,Slow Growth
+Mendoza,Argentina,1242319.0,0.013,Medium,Moderate Growth
+Luohe,China,1241152.0,0.0361,Medium,Fast Growth
+Xiongan,China,1240158.0,0.0483,Medium,Fast Growth
+Chandigarh,India,1239699.0,0.0205,Medium,Moderate Growth
+Merida,Mexico,1239654.0,0.0156,Medium,Moderate Growth
+Jinzhou,China,1238377.0,0.0189,Medium,Moderate Growth
+Benxi,China,1237550.0,0.017,Medium,Moderate Growth
+Binzhou,China,1233584.0,0.0278,Medium,Moderate Growth
+Aba,Nigeria,1230407.0,0.035,Medium,Fast Growth
+Chiang Mai,Thailand,1228773.0,0.0127,Medium,Moderate Growth
+Bazhong,China,1225591.0,0.0422,Medium,Fast Growth
+Quetta,Pakistan,1221495.0,0.0262,Medium,Moderate Growth
+Kaduna,Nigeria,1221451.0,0.0287,Medium,Moderate Growth
+Guilin,China,1218067.0,0.0177,Medium,Moderate Growth
+Saharanpur,India,1207856.0,0.0309,Medium,Fast Growth
+Hubli Dharwad,India,1205428.0,0.0205,Medium,Moderate Growth
+Yueqing,China,1201400.0,0.027,Medium,Moderate Growth
+Guwahati,India,1199455.0,0.0197,Medium,Moderate Growth
+Mexicali,Mexico,1196982.0,0.0157,Medium,Moderate Growth
+Salem,India,1194757.0,0.0212,Medium,Moderate Growth
+Maputo,Mozambique,1193253.0,0.0262,Medium,Moderate Growth
+Tripoli,Libya,1192436.0,0.0077,Medium,Slow Growth
+Haifa,Israel,1186475.0,0.0103,Medium,Moderate Growth
+Bandar Lampung,Indonesia,1186233.0,0.0206,Medium,Moderate Growth
+Bobo Dioulasso,Burkina Faso,1185053.0,0.05,Medium,Fast Growth
+Amsterdam,Netherlands,1181817.0,0.0066,Medium,Slow Growth
+Shimkent,Kazakhstan,1181020.0,0.0225,Medium,Moderate Growth
+Omsk,Russia,1180677.0,-0.0001,Medium,Declining
+Aguascalientes,Mexico,1179301.0,0.0154,Medium,Moderate Growth
+Hargeysa,Somalia,1176617.0,0.0438,Medium,Fast Growth
+Krasnoyarsk,Russia,1173095.0,0.0054,Medium,Slow Growth
+Xinxiang,China,1160840.0,0.0177,Medium,Moderate Growth
+Siliguri,India,1159371.0,0.0294,Medium,Moderate Growth
+Wenling,China,1159259.0,0.0247,Medium,Moderate Growth
+Samara,Russia,1154451.0,-0.0011,Medium,Declining
+Zaozhuang,China,1150859.0,0.0152,Medium,Moderate Growth
+Cologne,Germany,1149014.0,0.0046,Medium,Slow Growth
+Yongin,South Korea,1147967.0,0.0108,Medium,Moderate Growth
+Ufa,Russia,1146786.0,0.0017,Medium,Slow Growth
+Fuyang,China,1146343.0,0.0229,Medium,Moderate Growth
+Ikorodu,Nigeria,1145224.0,0.0475,Medium,Fast Growth
+Bien Hoa,Vietnam,1142997.0,0.029,Medium,Moderate Growth
+Jalandhar,India,1142682.0,0.0213,Medium,Moderate Growth
+Panjin,China,1142542.0,0.0195,Medium,Moderate Growth
+Ma'anshan,China,1140264.0,0.0248,Medium,Moderate Growth
+Cuernavaca,Mexico,1140169.0,0.0145,Medium,Moderate Growth
+Rostov on Don,Russia,1139641.0,0.0007,Medium,Slow Growth
+Chihuahua,Mexico,1135342.0,0.0171,Medium,Moderate Growth
+Fuzhou Jiangxi,China,1131718.0,0.0286,Medium,Moderate Growth
+Tshikapa,DR Congo,1131226.0,0.0502,Medium,Fast Growth
+Shangrao,China,1130887.0,0.0218,Medium,Moderate Growth
+Samarinda,Indonesia,1128176.0,0.0253,Medium,Moderate Growth
+Bishkek,Kyrgyzstan,1127721.0,0.0208,Medium,Moderate Growth
+Zhaoqing,China,1127601.0,0.0221,Medium,Moderate Growth
+San Salvador,El Salvador,1123376.0,0.0066,Medium,Slow Growth
+Yichun Jiangxi,China,1122041.0,0.0402,Medium,Fast Growth
+Chenzhou,China,1119791.0,0.0321,Medium,Fast Growth
+Sekondi Takoradi,Ghana,1119534.0,0.0386,Medium,Fast Growth
+Leshan,China,1116497.0,0.0267,Medium,Moderate Growth
+Aden,Yemen,1116193.0,0.0338,Medium,Fast Growth
+Goyang,South Korea,1114079.0,0.008,Medium,Slow Growth
+Diyarbakir,Turkey,1113333.0,0.0149,Medium,Moderate Growth
+Asmara,Eritrea,1111748.0,0.0364,Medium,Fast Growth
+Dezhou,China,1108356.0,0.0256,Medium,Moderate Growth
+Jingzhou Hubei,China,1108067.0,0.0167,Medium,Moderate Growth
+Managua,Nicaragua,1107118.0,0.0115,Medium,Moderate Growth
+Johor Bahru,Malaysia,1107001.0,0.0191,Medium,Moderate Growth
+Kermanshah,Iran,1101611.0,0.0157,Medium,Moderate Growth
+Nyala,Sudan,1101314.0,0.042,Medium,Fast Growth
+Oslo,Norway,1100868.0,0.0137,Medium,Moderate Growth
+Kirkuk,Iraq,1100390.0,0.0237,Medium,Moderate Growth
+Yerevan,Armenia,1097542.0,0.0025,Medium,Slow Growth
+Cartagena,Colombia,1096463.0,0.0082,Medium,Slow Growth
+Changshu,China,1093687.0,0.0319,Medium,Fast Growth
+Huzhou,China,1091811.0,0.0226,Medium,Moderate Growth
+Xuchang,China,1091744.0,0.0262,Medium,Moderate Growth
+Solapur,India,1088131.0,0.0166,Medium,Moderate Growth
+Lille,France,1085199.0,0.0056,Medium,Slow Growth
+Mersin,Turkey,1084817.0,0.0144,Medium,Moderate Growth
+Tbilisi,Georgia,1084471.0,0.0021,Medium,Slow Growth
+Perm,Russia,1084120.0,0.0022,Medium,Slow Growth
+Voronezh,Russia,1083724.0,0.0027,Medium,Slow Growth
+Denpasar,Indonesia,1075244.0,0.0211,Medium,Moderate Growth
+Toulouse,France,1070746.0,0.0097,Medium,Slow Growth
+Blantyre Limbe,Malawi,1070625.0,0.0385,Medium,Fast Growth
+Aracaju,Brazil,1070122.0,0.0124,Medium,Moderate Growth
+Marrakech,Morocco,1067172.0,0.0167,Medium,Moderate Growth
+Qujing,China,1066897.0,0.0269,Medium,Moderate Growth
+Yueyang,China,1064166.0,0.0146,Medium,Moderate Growth
+Ilorin,Nigeria,1063713.0,0.0322,Medium,Fast Growth
+Tampico,Mexico,1062567.0,0.0146,Medium,Moderate Growth
+Antwerp,Belgium,1061089.0,0.0037,Medium,Slow Growth
+Teresina,Brazil,1059657.0,0.0088,Medium,Slow Growth
+Guiping,China,1055921.0,0.0348,Medium,Fast Growth
+Warangal,India,1055604.0,0.0238,Medium,Moderate Growth
+Changwon,South Korea,1055373.0,0.0009,Medium,Slow Growth
+Padang,Indonesia,1052849.0,0.0186,Medium,Moderate Growth
+Saltillo,Mexico,1050320.0,0.0157,Medium,Moderate Growth
+Xintai,China,1049486.0,0.0251,Medium,Moderate Growth
+Cancun,Mexico,1045005.0,0.0219,Medium,Moderate Growth
+Cebu City,Philippines,1042613.0,0.0172,Medium,Moderate Growth
+San Miguel De Tucuman,Argentina,1039226.0,0.0121,Medium,Moderate Growth
+Hamah,Syria,1034498.0,0.0389,Medium,Fast Growth
+Acapulco De Juarez,Mexico,1032772.0,0.0135,Medium,Moderate Growth
+Warri,Nigeria,1031425.0,0.0451,Medium,Fast Growth
+Kayseri,Turkey,1025507.0,0.0121,Medium,Moderate Growth
+Chengde,China,1024521.0,0.0316,Medium,Fast Growth
+Owerri,Nigeria,1022922.0,0.0402,Medium,Fast Growth
+Rotterdam,Netherlands,1021919.0,0.0038,Medium,Slow Growth
+Pingxiang Jiangxi,China,1021575.0,0.0219,Medium,Moderate Growth
+Zhucheng,China,1019600.0,0.0286,Medium,Moderate Growth
+Songkhla,Thailand,1017784.0,0.0127,Medium,Moderate Growth
+Valparaiso,Chile,1016585.0,0.0079,Medium,Slow Growth
+Dehradun,India,1016402.0,0.0247,Medium,Moderate Growth
+Nonthaburi,Thailand,1013672.0,0.0127,Medium,Moderate Growth
+Leiyang,China,1013191.0,0.0356,Medium,Fast Growth
+Dushanbe,Tajikistan,1012794.0,0.0262,Medium,Moderate Growth
+Nampula,Mozambique,1012582.0,0.0446,Medium,Fast Growth
+Misratah,Libya,1011119.0,0.0274,Medium,Moderate Growth
+Krasnodar,Russia,1010552.0,0.0094,Medium,Slow Growth
+Laiwu,China,1009727.0,0.0238,Medium,Moderate Growth
+Bordeaux,France,1009594.0,0.0091,Medium,Slow Growth
+Jixi Heilongjiang,China,1008989.0,0.0159,Medium,Moderate Growth
+San Pedro Sula,Honduras,1008220.0,0.0267,Medium,Moderate Growth
+Odesa,Ukraine,1007596.0,-0.0001,Medium,Declining
+Jiujiang,China,1004247.0,0.0218,Medium,Moderate Growth
+Lubango,Angola,1003016.0,0.0464,Medium,Fast Growth
+Morelia,Mexico,1002461.0,0.0139,Medium,Moderate Growth
+Jos,Nigeria,1001155.0,0.032,Medium,Fast Growth
+Sylhet,Bangladesh,999374.0,0.0364,Small,Fast Growth
+Agadir,Morocco,998146.0,0.0193,Small,Moderate Growth
+Volgograd,Russia,993352.0,-0.0017,Small,Declining
+Mudanjiang,China,992414.0,0.0175,Small,Moderate Growth
+Jacksonville,United States,990931.0,0.01,Small,Slow Growth
+Guigang,China,990310.0,0.0237,Small,Moderate Growth
+Fort Worth,United States,989842.0,0.017,Small,Moderate Growth
+Najaf,Iraq,987814.0,0.0306,Small,Fast Growth
+Bangui,Central African Republic,985965.0,0.0288,Small,Moderate Growth
+Rajshahi,Bangladesh,983707.0,0.0226,Small,Moderate Growth
+Hengshui,China,983694.0,0.0293,Small,Moderate Growth
+Austin,United States,983126.0,0.0044,Small,Slow Growth
+Jerusalem,Israel,983097.0,0.0137,Small,Moderate Growth
+Zhangzhou,China,980054.0,0.0257,Small,Moderate Growth
+Xinyu,China,979303.0,0.0284,Small,Moderate Growth
+Linfen,China,978614.0,0.0281,Small,Moderate Growth
+Tianmen,China,978317.0,0.0257,Small,Moderate Growth
+Ciudad Guayana,Venezuela,978202.0,0.0145,Small,Moderate Growth
+Zamboanga City,Philippines,977081.0,0.0174,Small,Moderate Growth
+Yangjiang,China,976606.0,0.0215,Small,Moderate Growth
+Taiz,Yemen,974518.0,0.0361,Small,Fast Growth
+Cucuta,Colombia,972485.0,0.0098,Small,Slow Growth
+Arequipa,Peru,971296.0,0.0128,Small,Moderate Growth
+Liling,China,970907.0,0.0362,Small,Fast Growth
+Antipolo,Philippines,968288.0,0.0229,Small,Moderate Growth
+Veracruz,Mexico,968070.0,0.0134,Small,Moderate Growth
+Reynosa,Mexico,967627.0,0.017,Small,Moderate Growth
+Khulna,Bangladesh,965483.0,0.0109,Small,Moderate Growth
+Deyang,China,963160.0,0.0255,Small,Moderate Growth
+Pathum Thani,Thailand,962126.0,0.0127,Small,Moderate Growth
+Bengbu,China,959784.0,0.0162,Small,Moderate Growth
+Jiangyin,China,959250.0,0.0277,Small,Moderate Growth
+Southampton,United Kingdom,959202.0,0.0081,Small,Slow Growth
+Villahermosa,Mexico,958118.0,0.0155,Small,Moderate Growth
+Baishan,China,956976.0,0.0317,Small,Fast Growth
+Nice,France,951808.0,0.0039,Small,Slow Growth
+Oran,Algeria,950768.0,0.0158,Small,Moderate Growth
+West Rand,South Africa,947734.0,0.0143,Small,Moderate Growth
+Cabinda,Angola,947634.0,0.0475,Small,Fast Growth
+Umuahia,Nigeria,947460.0,0.0479,Small,Fast Growth
+Bogra,Bangladesh,944877.0,0.0431,Small,Fast Growth
+Bahawalpur,Pakistan,944812.0,0.0274,Small,Moderate Growth
+Seongnam,South Korea,942159.0,0.0007,Small,Slow Growth
+Guntur,India,940205.0,0.0238,Small,Moderate Growth
+Dnipro,Ukraine,936766.0,-0.0051,Small,Declining
+Campo Grande,Brazil,934936.0,0.0095,Small,Slow Growth
+Malang,Indonesia,933392.0,0.0152,Small,Moderate Growth
+Londrina,Brazil,932892.0,0.0113,Small,Moderate Growth
+Dandong,China,932648.0,0.016,Small,Moderate Growth
+San Jose,United States,932636.0,-0.0203,Small,Declining
+Changzhi,China,930620.0,0.0218,Small,Moderate Growth
+Hermosillo,Mexico,929961.0,0.0163,Small,Moderate Growth
+Bhiwandi,India,924670.0,0.02,Small,Moderate Growth
+La Plata,Argentina,923715.0,0.0106,Small,Moderate Growth
+Liverpool,United Kingdom,922871.0,0.0064,Small,Slow Growth
+Ashgabat,Turkmenistan,921601.0,0.0213,Small,Moderate Growth
+Concepcion,Chile,920916.0,0.0099,Small,Slow Growth
+Charlotte,United States,920325.0,0.0124,Small,Moderate Growth
+Puducherry,India,919280.0,0.0237,Small,Moderate Growth
+Changde,China,919026.0,0.023,Small,Moderate Growth
+Bergamo,Italy,918675.0,0.0058,Small,Slow Growth
+Firozabad,India,918218.0,0.0266,Small,Moderate Growth
+Erbil,Iraq,917639.0,0.0233,Small,Moderate Growth
+Tyumen,Russia,916862.0,0.0144,Small,Moderate Growth
+Trujillo,Peru,916632.0,0.0141,Small,Moderate Growth
+Liaoyang,China,916238.0,0.0173,Small,Moderate Growth
+Shangqiu,China,915823.0,0.0231,Small,Moderate Growth
+Ulsan,South Korea,914300.0,0.0017,Small,Slow Growth
+Tuxtla Gutierrez,Mexico,913075.0,0.0171,Small,Moderate Growth
+Columbus,United States,909676.0,0.0009,Small,Slow Growth
+Kuerle,China,906765.0,0.0357,Small,Fast Growth
+Soshanguve,South Africa,905868.0,0.0153,Small,Moderate Growth
+Xingtai,China,904070.0,0.02,Small,Moderate Growth
+Culiacan,Mexico,903910.0,0.0172,Small,Moderate Growth
+Quzhou,China,902621.0,0.0358,Small,Fast Growth
+Cherthala,India,901820.0,0.036,Small,Fast Growth
+Huangshi,China,893107.0,0.0184,Small,Moderate Growth
+Fuxin,China,889767.0,0.0156,Small,Moderate Growth
+Lokoja,Nigeria,885882.0,0.0558,Small,Fast Growth
+Hufuf Mubarraz,Saudi Arabia,884753.0,0.0141,Small,Moderate Growth
+Libreville,Gabon,883920.0,0.0163,Small,Moderate Growth
+Yongzhou,China,883326.0,0.0265,Small,Moderate Growth
+Xinghua,China,882986.0,0.0244,Small,Moderate Growth
+Donetsk,Ukraine,882209.0,-0.0062,Small,Declining
+Yibin,China,881480.0,0.0192,Small,Moderate Growth
+Enugu,Nigeria,875552.0,0.0342,Small,Fast Growth
+Tainan,Taiwan,875392.0,0.0066,Small,Slow Growth
+Indianapolis (balance),United States,874089.0,-0.0037,Small,Declining
+Xinyang,China,873268.0,0.0211,Small,Moderate Growth
+Ipoh,Malaysia,872424.0,0.0177,Small,Moderate Growth
+Luzhou,China,870714.0,0.0152,Small,Moderate Growth
+Banghazi,Libya,870502.0,0.0131,Small,Moderate Growth
+Maiduguri,Nigeria,870201.0,0.0301,Small,Fast Growth
+Yangquan,China,869585.0,0.0211,Small,Moderate Growth
+Huaihua,China,869575.0,0.0306,Small,Fast Growth
+Xiaogan,China,869479.0,0.0234,Small,Moderate Growth
+Tianshui,China,858672.0,0.0253,Small,Moderate Growth
+Bunia,DR Congo,856339.0,0.0545,Small,Fast Growth
+Bozhou,China,854946.0,0.0299,Small,Moderate Growth
+Kottayam,India,853635.0,0.0428,Small,Fast Growth
+Zhuji,China,852608.0,0.0214,Small,Moderate Growth
+Kunshan,China,851399.0,0.0302,Small,Fast Growth
+Quebec City,Canada,851061.0,0.0081,Small,Slow Growth
+Palermo,Italy,850233.0,0.0006,Small,Slow Growth
+Winnipeg,Canada,849251.0,0.0097,Small,Slow Growth
+Orumiyeh,Iran,848443.0,0.015,Small,Moderate Growth
+Eskisehir,Turkey,848002.0,0.0167,Small,Moderate Growth
+Benguela,Angola,843207.0,0.0417,Small,Fast Growth
+Jincheng,China,841928.0,0.0292,Small,Moderate Growth
+Valencia,Spain,839770.0,0.0018,Small,Slow Growth
+Heze,China,838928.0,0.0147,Small,Moderate Growth
+Saratov,Russia,837687.0,-0.0008,Small,Declining
+Nellore,India,837660.0,0.0262,Small,Moderate Growth
+Huludao,China,836344.0,0.0185,Small,Moderate Growth
+Zanzibar,Tanzania,835850.0,0.0448,Small,Fast Growth
+Barcelona Puerto La Cruz,Venezuela,835805.0,0.0124,Small,Moderate Growth
+Bikaner,India,835802.0,0.0211,Small,Moderate Growth
+Haicheng,China,834639.0,0.0164,Small,Moderate Growth
+Gebze,Turkey,831360.0,0.0221,Small,Moderate Growth
+Taixing,China,830623.0,0.0236,Small,Moderate Growth
+Liaocheng,China,830004.0,0.0205,Small,Moderate Growth
+Zhumadian,China,829361.0,0.0309,Small,Fast Growth
+Newcastle Upon Tyne,United Kingdom,828712.0,0.0064,Small,Slow Growth
+Langfang,China,827967.0,0.0249,Small,Moderate Growth
+Bucheon,South Korea,826919.0,-0.0001,Small,Declining
+Sulaimaniya,Iraq,823199.0,0.028,Small,Moderate Growth
+Xalapa,Mexico,822863.0,0.0146,Small,Moderate Growth
+Malanje,Angola,822471.0,0.0501,Small,Fast Growth
+Anqiu,China,821765.0,0.0377,Small,Fast Growth
+Sorocaba,Brazil,821435.0,0.01,Small,Slow Growth
+Gaomi,China,821154.0,0.0291,Small,Moderate Growth
+Dasmarinas,Philippines,820886.0,0.0228,Small,Moderate Growth
+Cagayan De Oro City,Philippines,820297.0,0.0213,Small,Moderate Growth
+Hanchuan,China,818761.0,0.0288,Small,Moderate Growth
+Meishan,China,818037.0,0.0267,Small,Moderate Growth
+Bologna,Italy,816848.0,0.0031,Small,Slow Growth
+Ar Rayyan,Qatar,815869.0,0.0219,Small,Moderate Growth
+Thessaloniki,Greece,814980.0,0.0006,Small,Slow Growth
+Muzaffarnagar,India,814491.0,0.0294,Small,Moderate Growth
+Kayamkulam,India,813379.0,0.0346,Small,Fast Growth
+Nottingham,United Kingdom,813078.0,0.0078,Small,Slow Growth
+Nakhon Ratchasima,Thailand,811446.0,0.012,Small,Moderate Growth
+Danyang,China,810450.0,0.0262,Small,Moderate Growth
+Ibb,Yemen,810149.0,0.0501,Small,Fast Growth
+Amravati,India,808263.0,0.0197,Small,Moderate Growth
+Jiaozuo,China,808079.0,0.0145,Small,Moderate Growth
+Vereeniging,South Africa,802900.0,0.0113,Small,Moderate Growth
+Gorakhpur,India,801634.0,0.0169,Small,Moderate Growth
+Gaza,Palestine,800636.0,0.0288,Small,Moderate Growth
+Frankfurt,Germany,800529.0,0.0051,Small,Slow Growth
+Anqing,China,795987.0,0.0211,Small,Moderate Growth
+Niigata,Japan,795916.0,-0.0024,Small,Declining
+Oshogbo,Nigeria,795808.0,0.0315,Small,Fast Growth
+Linhai,China,795777.0,0.0254,Small,Moderate Growth
+Shaoguan,China,794279.0,0.0128,Small,Moderate Growth
+Erduosi Ordoss,China,794143.0,0.0256,Small,Moderate Growth
+Merca,Somalia,793545.0,0.044,Small,Fast Growth
+Bur Sa'id,Egypt,792925.0,0.0188,Small,Moderate Growth
+Kitwe,Zambia,792350.0,0.0385,Small,Fast Growth
+Yan'an,China,791839.0,0.0321,Small,Fast Growth
+Cuttack,India,789558.0,0.0181,Small,Moderate Growth
+Hamilton,Canada,786843.0,0.0074,Small,Slow Growth
+Zaria,Nigeria,786197.0,0.0264,Small,Moderate Growth
+Banjarmasin,Indonesia,785125.0,0.0184,Small,Moderate Growth
+Dengzhou,China,783041.0,0.0315,Small,Fast Growth
+Belgaum,India,783020.0,0.0207,Small,Moderate Growth
+Malegaon,India,781925.0,0.0226,Small,Moderate Growth
+Goma,DR Congo,781875.0,0.0506,Small,Fast Growth
+Zigong,China,779684.0,0.0151,Small,Moderate Growth
+Qingyuan,China,778628.0,0.0154,Small,Moderate Growth
+Yuncheng,China,777193.0,0.0298,Small,Moderate Growth
+Shaoyang,China,776404.0,0.02,Small,Moderate Growth
+Yanji,China,775672.0,0.0244,Small,Moderate Growth
+Tirupati,India,775455.0,0.0302,Small,Fast Growth
+Maturin,Venezuela,775097.0,0.0223,Small,Moderate Growth
+Yuxi,China,774356.0,0.0323,Small,Fast Growth
+Akure,Nigeria,773141.0,0.0387,Small,Fast Growth
+Tongliao,China,772756.0,0.022,Small,Moderate Growth
+Sialkot,Pakistan,770962.0,0.0234,Small,Moderate Growth
+Tongling,China,770032.0,0.0227,Small,Moderate Growth
+Krakow,Poland,769396.0,0.0,Small,Declining
+Ansan,South Korea,768822.0,0.0028,Small,Slow Growth
+Wuzhou,China,768512.0,0.0224,Small,Moderate Growth
+Dazhou,China,767532.0,0.0258,Small,Moderate Growth
+Suining Sichuan,China,765887.0,0.0211,Small,Moderate Growth
+Mangalore,India,763312.0,0.019,Small,Moderate Growth
+Jiamusi,China,761903.0,0.0162,Small,Moderate Growth
+Al Hudaydah,Yemen,759157.0,0.0333,Small,Fast Growth
+Seattle,United States,757992.0,0.0058,Small,Slow Growth
+Sargodha,Pakistan,757915.0,0.0217,Small,Moderate Growth
+Nay Pyi Taw,Myanmar,757823.0,0.0484,Small,Fast Growth
+Tamale,Ghana,757506.0,0.038,Small,Fast Growth
+Sao Jose Dos Campos,Brazil,757137.0,0.0106,Small,Moderate Growth
+Bacoor,Philippines,757035.0,0.0235,Small,Moderate Growth
+Dongtai,China,756344.0,0.0246,Small,Moderate Growth
+Zhangjiagang,China,755752.0,0.0299,Small,Moderate Growth
+Nanded Waghala,India,755577.0,0.0231,Small,Moderate Growth
+Xianyang Shaanxi,China,754446.0,0.0147,Small,Moderate Growth
+Amara,Iraq,753708.0,0.0335,Small,Fast Growth
+Zarqa,Jordan,753392.0,0.0066,Small,Slow Growth
+Bhavnagar,India,751493.0,0.0195,Small,Moderate Growth
+Sheffield,United Kingdom,751303.0,0.0073,Small,Slow Growth
+Huambo,Angola,751297.0,0.0325,Small,Fast Growth
+Ribeirao Preto,Brazil,750174.0,0.0109,Small,Moderate Growth
+Panzhihua,China,750036.0,0.0156,Small,Moderate Growth

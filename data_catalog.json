@@ -1,0 +1,4164 @@
+{
+  "cities_by_gdp": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\cities_by_gdp.csv",
+    "schema": {
+      "rows": 903,
+      "columns": 5,
+      "column_info": {
+        "Index": {
+          "dtype": "int64",
+          "non_null": 903,
+          "null_percentage": 0.0,
+          "unique_values": 903,
+          "sample_values": [
+            1,
+            2,
+            3
+          ]
+        },
+        "Metropolitian Area/City": {
+          "dtype": "object",
+          "non_null": 903,
+          "null_percentage": 0.0,
+          "unique_values": 903,
+          "sample_values": [
+            "A Coru\u00f1a metropolitan area",
+            "Aachen",
+            "Aalborg"
+          ]
+        },
+        "Country/Region": {
+          "dtype": "object",
+          "non_null": 903,
+          "null_percentage": 0.0,
+          "unique_values": 81,
+          "sample_values": [
+            "Spain",
+            "Germany",
+            "Denmark"
+          ]
+        },
+        "Official est. GDP(billion US$)": {
+          "dtype": "object",
+          "non_null": 903,
+          "null_percentage": 0.0,
+          "unique_values": 887,
+          "sample_values": [
+            "28.819",
+            "24.296",
+            "31.855"
+          ]
+        },
+        "Metropolitian Population": {
+          "dtype": "object",
+          "non_null": 903,
+          "null_percentage": 0.0,
+          "unique_values": 892,
+          "sample_values": [
+            "1,121,815 ",
+            "249,070 ",
+            "219,487 "
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "Metropolitian Area/City",
+        "Country/Region",
+        "Metropolitian Population"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Index": {
+        "mean": 452.0,
+        "median": 452.0,
+        "std": 260.818,
+        "min": 1.0,
+        "max": 903.0
+      }
+    },
+    "domain": "Demographics & Economics",
+    "last_updated": "2025-10-19T06:47:23.341996"
+  },
+  "city_day": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\city_day.csv",
+    "schema": {
+      "rows": 18265,
+      "columns": 16,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+          ]
+        },
+        "Datetime": {
+          "dtype": "object",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 3653,
+          "sample_values": [
+            "2015-01-01",
+            "2015-01-01",
+            "2015-01-01"
+          ]
+        },
+        "PM2.5": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 4876,
+          "sample_values": [
+            153.3,
+            70.5,
+            174.1
+          ]
+        },
+        "PM10": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 5709,
+          "sample_values": [
+            241.7,
+            312.7,
+            275.4
+          ]
+        },
+        "NO": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 2000,
+          "sample_values": [
+            182.9,
+            195.0,
+            56.2
+          ]
+        },
+        "NO2": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 1501,
+          "sample_values": [
+            33.0,
+            42.0,
+            68.8
+          ]
+        },
+        "NOx": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 2498,
+          "sample_values": [
+            81.3,
+            122.5,
+            230.9
+          ]
+        },
+        "NH3": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 501,
+          "sample_values": [
+            38.5,
+            31.5,
+            28.5
+          ]
+        },
+        "CO": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            1.87,
+            7.22,
+            8.56
+          ]
+        },
+        "SO2": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            64.5,
+            83.8,
+            60.8
+          ]
+        },
+        "O3": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            83.6,
+            108.0,
+            43.9
+          ]
+        },
+        "Benzene": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 2000,
+          "sample_values": [
+            18.93,
+            2.01,
+            19.07
+          ]
+        },
+        "Toluene": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 2999,
+          "sample_values": [
+            20.81,
+            19.41,
+            10.19
+          ]
+        },
+        "Xylene": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            8.32,
+            2.86,
+            9.63
+          ]
+        },
+        "AQI": {
+          "dtype": "float64",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 4887,
+          "sample_values": [
+            204.5,
+            60.9,
+            486.5
+          ]
+        },
+        "AQI_Bucket": {
+          "dtype": "object",
+          "non_null": 18265,
+          "null_percentage": 0.0,
+          "unique_values": 6,
+          "sample_values": [
+            "Severe",
+            "Satisfactory",
+            "Severe"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Datetime"
+      ],
+      "time_ranges": {
+        "Datetime": {
+          "min": "2015-01-01 00:00:00",
+          "max": "2024-12-31 00:00:00",
+          "range_days": 3652
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "PM2.5": {
+        "mean": 250.598,
+        "median": 251.0,
+        "std": 144.46,
+        "min": 0.0,
+        "max": 499.9
+      },
+      "PM10": {
+        "mean": 299.442,
+        "median": 300.3,
+        "std": 173.48,
+        "min": 0.0,
+        "max": 600.0
+      },
+      "NO": {
+        "mean": 100.481,
+        "median": 100.2,
+        "std": 57.775,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "NO2": {
+        "mean": 75.416,
+        "median": 76.0,
+        "std": 43.46,
+        "min": 0.0,
+        "max": 150.0
+      },
+      "NOx": {
+        "mean": 125.964,
+        "median": 126.2,
+        "std": 72.404,
+        "min": 0.0,
+        "max": 250.0
+      },
+      "NH3": {
+        "mean": 25.065,
+        "median": 25.3,
+        "std": 14.452,
+        "min": 0.0,
+        "max": 50.0
+      },
+      "CO": {
+        "mean": 5.002,
+        "median": 5.0,
+        "std": 2.889,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "SO2": {
+        "mean": 49.836,
+        "median": 49.9,
+        "std": 28.989,
+        "min": 0.0,
+        "max": 100.0
+      },
+      "O3": {
+        "mean": 100.407,
+        "median": 100.7,
+        "std": 57.591,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "Benzene": {
+        "mean": 10.07,
+        "median": 10.08,
+        "std": 5.785,
+        "min": 0.0,
+        "max": 20.0
+      },
+      "Toluene": {
+        "mean": 15.063,
+        "median": 15.13,
+        "std": 8.619,
+        "min": 0.0,
+        "max": 30.0
+      },
+      "Xylene": {
+        "mean": 4.996,
+        "median": 4.96,
+        "std": 2.899,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "AQI": {
+        "mean": 251.111,
+        "median": 251.2,
+        "std": 144.503,
+        "min": 0.0,
+        "max": 500.0
+      }
+    },
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:23.447099"
+  },
+  "city_hour": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\city_hour.csv",
+    "schema": {
+      "rows": 438245,
+      "columns": 16,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "Delhi",
+            "Mumbai",
+            "Chennai"
+          ]
+        },
+        "Datetime": {
+          "dtype": "object",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 87649,
+          "sample_values": [
+            "2015-01-01 00:00:00",
+            "2015-01-01 00:00:00",
+            "2015-01-01 00:00:00"
+          ]
+        },
+        "PM2.5": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 5001,
+          "sample_values": [
+            258.0,
+            120.1,
+            130.1
+          ]
+        },
+        "PM10": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 6001,
+          "sample_values": [
+            340.6,
+            47.9,
+            375.0
+          ]
+        },
+        "NO": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            191.0,
+            165.3,
+            21.9
+          ]
+        },
+        "NO2": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 1501,
+          "sample_values": [
+            13.4,
+            57.9,
+            23.7
+          ]
+        },
+        "NOx": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 2501,
+          "sample_values": [
+            104.1,
+            139.2,
+            205.6
+          ]
+        },
+        "NH3": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 501,
+          "sample_values": [
+            16.2,
+            14.4,
+            33.6
+          ]
+        },
+        "CO": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            1.15,
+            0.76,
+            3.5
+          ]
+        },
+        "SO2": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            39.8,
+            3.3,
+            63.0
+          ]
+        },
+        "O3": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            70.4,
+            23.2,
+            138.9
+          ]
+        },
+        "Benzene": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            11.64,
+            11.35,
+            16.3
+          ]
+        },
+        "Toluene": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 3001,
+          "sample_values": [
+            10.23,
+            11.38,
+            24.07
+          ]
+        },
+        "Xylene": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            1.95,
+            1.53,
+            0.56
+          ]
+        },
+        "AQI": {
+          "dtype": "float64",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 5001,
+          "sample_values": [
+            411.5,
+            134.8,
+            329.6
+          ]
+        },
+        "AQI_Bucket": {
+          "dtype": "object",
+          "non_null": 438245,
+          "null_percentage": 0.0,
+          "unique_values": 6,
+          "sample_values": [
+            "Moderate",
+            "Poor",
+            "Poor"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Datetime"
+      ],
+      "time_ranges": {
+        "Datetime": {
+          "min": "2015-01-01 00:00:00",
+          "max": "2024-12-31 00:00:00",
+          "range_days": 3652
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "PM2.5": {
+        "mean": 249.418,
+        "median": 249.1,
+        "std": 144.36,
+        "min": 0.0,
+        "max": 500.0
+      },
+      "PM10": {
+        "mean": 299.64,
+        "median": 299.4,
+        "std": 173.399,
+        "min": 0.0,
+        "max": 600.0
+      },
+      "NO": {
+        "mean": 100.078,
+        "median": 100.0,
+        "std": 57.647,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "NO2": {
+        "mean": 75.071,
+        "median": 75.1,
+        "std": 43.259,
+        "min": 0.0,
+        "max": 150.0
+      },
+      "NOx": {
+        "mean": 125.04,
+        "median": 125.2,
+        "std": 72.181,
+        "min": 0.0,
+        "max": 250.0
+      },
+      "NH3": {
+        "mean": 25.021,
+        "median": 25.0,
+        "std": 14.421,
+        "min": 0.0,
+        "max": 50.0
+      },
+      "CO": {
+        "mean": 5.002,
+        "median": 5.0,
+        "std": 2.886,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "SO2": {
+        "mean": 50.089,
+        "median": 50.1,
+        "std": 28.887,
+        "min": 0.0,
+        "max": 100.0
+      },
+      "O3": {
+        "mean": 99.983,
+        "median": 99.9,
+        "std": 57.76,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "Benzene": {
+        "mean": 9.994,
+        "median": 9.98,
+        "std": 5.772,
+        "min": 0.0,
+        "max": 20.0
+      },
+      "Toluene": {
+        "mean": 14.995,
+        "median": 14.99,
+        "std": 8.653,
+        "min": 0.0,
+        "max": 30.0
+      },
+      "Xylene": {
+        "mean": 4.994,
+        "median": 4.99,
+        "std": 2.889,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "AQI": {
+        "mean": 250.096,
+        "median": 250.0,
+        "std": 144.129,
+        "min": 0.0,
+        "max": 500.0
+      }
+    },
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:25.377352"
+  },
+  "crimes.dataset": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\crimes.dataset.csv",
+    "schema": {
+      "rows": 20,
+      "columns": 22,
+      "column_info": {
+        "Year": {
+          "dtype": "int64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            2000,
+            2001,
+            2002
+          ]
+        },
+        "Population": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "281,421,906",
+            "285,317,559",
+            "287,973,924"
+          ]
+        },
+        "Violent Crimes": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "1,425,486",
+            "1,439,480",
+            "1,423,677"
+          ]
+        },
+        "Violent crime rate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            506.5,
+            504.5,
+            494.4
+          ]
+        },
+        "Murder nonnegligent manslaughter": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "15,586",
+            "16,037",
+            "16,229"
+          ]
+        },
+        "Murder nonnegligent manslaughter rate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 12,
+          "sample_values": [
+            5.5,
+            5.6,
+            5.6
+          ]
+        },
+        "Rape\n(revised\ndefinition)": {
+          "dtype": "object",
+          "non_null": 7,
+          "null_percentage": 65.0,
+          "unique_values": 7,
+          "sample_values": [
+            "113,695",
+            "118,027",
+            "126,134"
+          ]
+        },
+        "Rape\n(revised\ndefinition)\nrate": {
+          "dtype": "float64",
+          "non_null": 7,
+          "null_percentage": 65.0,
+          "unique_values": 7,
+          "sample_values": [
+            35.9,
+            37.0,
+            39.3
+          ]
+        },
+        "Rape\n(legacy\ndefinition": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "90,178",
+            "90,863",
+            "95,235"
+          ]
+        },
+        "Rape\n(legacy\ndefinition)\nrate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 19,
+          "sample_values": [
+            32.0,
+            31.8,
+            33.1
+          ]
+        },
+        "Robbery": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "408,016",
+            "423,557",
+            "420,806"
+          ]
+        },
+        "Robbery\nrate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            145.0,
+            148.5,
+            146.1
+          ]
+        },
+        "Aggravated\nassault": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "911,706",
+            "909,023",
+            "891,407"
+          ]
+        },
+        "Aggravated\nassault rate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            324.0,
+            318.6,
+            309.5
+          ]
+        },
+        "Property\ncrime": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "10,182,584",
+            "10,437,189",
+            "10,455,277"
+          ]
+        },
+        "Property\ncrime\nrate": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "3,618.3",
+            "3,658.1",
+            "3,630.6"
+          ]
+        },
+        "Burglary": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "2,050,992",
+            "2,116,531",
+            "2,151,252"
+          ]
+        },
+        "Burglary\nrate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            728.8,
+            741.8,
+            747.0
+          ]
+        },
+        "Larceny-\ntheft": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "6,971,590",
+            "7,092,267",
+            "7,057,379"
+          ]
+        },
+        "Larceny-\ntheft rate": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "2,477.3",
+            "2,485.7",
+            "2,450.7"
+          ]
+        },
+        "Motor\nvehicle\ntheft": {
+          "dtype": "object",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            "1,160,002",
+            "1,228,391",
+            "1,246,646"
+          ]
+        },
+        "Motor\nvehicle\ntheft\nrate": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            412.2,
+            430.5,
+            432.9
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 94.09,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "Rape\n(revised\ndefinition)",
+        "Rape\n(revised\ndefinition)\nrate"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Year"
+      ],
+      "time_ranges": {
+        "Year": {
+          "min": 2000,
+          "max": 2019,
+          "range_years": 19
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "Population"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Year": {
+        "mean": 2009.5,
+        "median": 2009.5,
+        "std": 5.916,
+        "min": 2000.0,
+        "max": 2019.0
+      },
+      "Violent crime rate": {
+        "mean": 427.315,
+        "median": 418.2,
+        "std": 52.581,
+        "min": 361.6,
+        "max": 506.5
+      },
+      "Murder nonnegligent manslaughter rate": {
+        "mean": 5.205,
+        "median": 5.35,
+        "std": 0.436,
+        "min": 4.4,
+        "max": 5.8
+      },
+      "Rape\n(revised\ndefinition)\nrate": {
+        "mean": 40.2,
+        "median": 40.9,
+        "std": 2.957,
+        "min": 35.9,
+        "max": 44.0
+      },
+      "Rape\n(legacy\ndefinition)\nrate": {
+        "mean": 29.94,
+        "median": 30.3,
+        "std": 2.176,
+        "min": 25.9,
+        "max": 33.1
+      },
+      "Robbery\nrate": {
+        "mean": 123.245,
+        "median": 126.2,
+        "std": 22.845,
+        "min": 81.6,
+        "max": 150.0
+      },
+      "Aggravated\nassault rate": {
+        "mean": 268.91,
+        "median": 258.75,
+        "std": 29.943,
+        "min": 229.2,
+        "max": 324.0
+      },
+      "Burglary\nrate": {
+        "mean": 632.985,
+        "median": 709.5,
+        "std": 137.324,
+        "min": 340.5,
+        "max": 747.0
+      },
+      "Motor\nvehicle\ntheft\nrate": {
+        "mean": 308.54,
+        "median": 249.15,
+        "std": 91.828,
+        "min": 215.4,
+        "max": 433.7
+      }
+    },
+    "domain": "Crime & Safety",
+    "last_updated": "2025-10-19T06:47:25.393025"
+  },
+  "geocode_health_centre": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\geocode_health_centre.csv",
+    "schema": {
+      "rows": 200438,
+      "columns": 11,
+      "column_info": {
+        "State Name": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 37,
+          "sample_values": [
+            "A & N Islands",
+            "A & N Islands",
+            "A & N Islands"
+          ]
+        },
+        "District Name": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 668,
+          "sample_values": [
+            "Nicobar",
+            "South Andaman",
+            "North and Middle Andaman"
+          ]
+        },
+        "Subdistrict Name": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 6126,
+          "sample_values": [
+            "Nancowry",
+            "Ferrargunj",
+            "Rangat"
+          ]
+        },
+        "Facility Type": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "chc",
+            "chc",
+            "chc"
+          ]
+        },
+        "Facility Name": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 158050,
+          "sample_values": [
+            "CHC Nancowry",
+            "CHC Bambooflat",
+            "CHC Rangat"
+          ]
+        },
+        "Facility Address": {
+          "dtype": "object",
+          "non_null": 18,
+          "null_percentage": 99.99,
+          "unique_values": 18,
+          "sample_values": [
+            "Kamorta",
+            "17.340649",
+            "Dhoraji"
+          ]
+        },
+        "Latitude": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 161141,
+          "sample_values": [
+            "7.96109",
+            "11.7303",
+            "12.71609"
+          ]
+        },
+        "Longitude": {
+          "dtype": "object",
+          "non_null": 200423,
+          "null_percentage": 0.01,
+          "unique_values": 152530,
+          "sample_values": [
+            "93.5589",
+            "92.65003",
+            "92.90579"
+          ]
+        },
+        "ActiveFlag_C": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 2,
+          "sample_values": [
+            "Y",
+            "Y",
+            "Y"
+          ]
+        },
+        "Location Type": {
+          "dtype": "object",
+          "non_null": 200438,
+          "null_percentage": 0.0,
+          "unique_values": 3,
+          "sample_values": [
+            "Rural",
+            "Rural",
+            "Rural"
+          ]
+        },
+        "Type Of Facility": {
+          "dtype": "object",
+          "non_null": 200437,
+          "null_percentage": 0.0,
+          "unique_values": 2,
+          "sample_values": [
+            "Public",
+            "Public",
+            "Public"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 90.91,
+      "duplicate_rows": 15,
+      "duplicate_percentage": 0.01,
+      "columns_with_nulls": [
+        "Facility Address",
+        "Longitude",
+        "Type Of Facility"
+      ],
+      "data_consistency": {
+        "Facility Address_mixed_types": [
+          "str",
+          "float"
+        ]
+      }
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "State Name",
+        "Facility Address",
+        "Latitude",
+        "Longitude",
+        "Location Type"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {},
+    "domain": "Healthcare Infrastructure",
+    "last_updated": "2025-10-19T06:47:26.570503"
+  },
+  "govthospitalbeds2013jan": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\govthospitalbeds2013jan.csv",
+    "schema": {
+      "rows": 36,
+      "columns": 11,
+      "column_info": {
+        "State/UT/Division": {
+          "dtype": "object",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            "India",
+            "Andhra Pradesh",
+            "Arunachal Pradesh"
+          ]
+        },
+        " Number of Rural Hospitals (Govt.)": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 33,
+          "sample_values": [
+            26604,
+            308,
+            382
+          ]
+        },
+        " Number of beds in Rural Hospitals (Govt.)": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 34,
+          "sample_values": [
+            362996,
+            10370,
+            4660
+          ]
+        },
+        "Number of Urban Hospitals (Govt.)": {
+          "dtype": "float64",
+          "non_null": 35,
+          "null_percentage": 2.78,
+          "unique_values": 32,
+          "sample_values": [
+            8812.0,
+            152.0,
+            2.0
+          ]
+        },
+        "Number of beds in Urban Hospitals (Govt.)": {
+          "dtype": "float64",
+          "non_null": 35,
+          "null_percentage": 2.78,
+          "unique_values": 35,
+          "sample_values": [
+            1013017.0,
+            27591.0,
+            350.0
+          ]
+        },
+        "Number of Total Hospitals (Govt.)": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            35416,
+            460,
+            384
+          ]
+        },
+        "Number of beds in Total Hospitals (Govt.)": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            1376013,
+            37961,
+            5010
+          ]
+        },
+        "Provisional/ Projected Population as on reference period in (000)": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            1209924,
+            84666,
+            1184
+          ]
+        },
+        "Average Population Served Per Govt. Hospital": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            34163,
+            184056,
+            3083
+          ]
+        },
+        "Average Population Served Per Govt. Hospital Bed": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            879,
+            2230,
+            236
+          ]
+        },
+        "Reference Period": {
+          "dtype": "object",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 7,
+          "sample_values": [
+            "01/01/2013",
+            "01/01/2013",
+            "01/01/2013"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 99.49,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "Number of Urban Hospitals (Govt.)",
+        "Number of beds in Urban Hospitals (Govt.)"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "State/UT/Division",
+        "Provisional/ Projected Population as on reference period in (000)",
+        "Average Population Served Per Govt. Hospital",
+        "Average Population Served Per Govt. Hospital Bed"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      " Number of Rural Hospitals (Govt.)": {
+        "mean": 1265.861,
+        "median": 308.5,
+        "std": 4389.62,
+        "min": 0.0,
+        "max": 26604.0
+      },
+      " Number of beds in Rural Hospitals (Govt.)": {
+        "mean": 15552.861,
+        "median": 3587.0,
+        "std": 59901.779,
+        "min": 0.0,
+        "max": 362996.0
+      },
+      "Number of Urban Hospitals (Govt.)": {
+        "mean": 393.171,
+        "median": 77.0,
+        "std": 1478.111,
+        "min": 1.0,
+        "max": 8812.0
+      },
+      "Number of beds in Urban Hospitals (Govt.)": {
+        "mean": 41106.8,
+        "median": 4928.0,
+        "std": 169861.228,
+        "min": 200.0,
+        "max": 1013017.0
+      },
+      "Number of Total Hospitals (Govt.)": {
+        "mean": 1648.111,
+        "median": 422.0,
+        "std": 5836.224,
+        "min": 2.0,
+        "max": 35416.0
+      },
+      "Number of beds in Total Hospitals (Govt.)": {
+        "mean": 55517.806,
+        "median": 8225.0,
+        "std": 227317.223,
+        "min": 120.0,
+        "max": 1376013.0
+      },
+      "Provisional/ Projected Population as on reference period in (000)": {
+        "mean": 67283.167,
+        "median": 19220.0,
+        "std": 200776.276,
+        "min": 64.0,
+        "max": 1209924.0
+      },
+      "Average Population Served Per Govt. Hospital": {
+        "mean": 70734.972,
+        "median": 47231.0,
+        "std": 63718.938,
+        "min": 101.0,
+        "max": 229118.0
+      },
+      "Average Population Served Per Govt. Hospital Bed": {
+        "mean": 1686.417,
+        "median": 1198.5,
+        "std": 1578.626,
+        "min": 2.0,
+        "max": 7846.0
+      }
+    },
+    "domain": "Healthcare Infrastructure",
+    "last_updated": "2025-10-19T06:47:26.595513"
+  },
+  "ICT_Subdimension_Dataset new": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\ICT_Subdimension_Dataset new.csv",
+    "schema": {
+      "rows": 180,
+      "columns": 20,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 30,
+          "sample_values": [
+            "Mumbai",
+            "Delhi",
+            "Bengaluru"
+          ]
+        },
+        "Year": {
+          "dtype": "int64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 6,
+          "sample_values": [
+            2019,
+            2019,
+            2019
+          ]
+        },
+        "Household Internet Access (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 121,
+          "sample_values": [
+            79.45,
+            88.62,
+            79.1
+          ]
+        },
+        "Fixed Broadband Subscriptions (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 115,
+          "sample_values": [
+            48.0,
+            54.7,
+            47.53
+          ]
+        },
+        "Wireless Broadband Subscriptions (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 121,
+          "sample_values": [
+            50.35,
+            61.7,
+            67.9
+          ]
+        },
+        "Wireless Broadband Coverage 3G (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 167,
+          "sample_values": [
+            91.57,
+            88.99,
+            94.31
+          ]
+        },
+        "Wireless Broadband Coverage 4G (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 178,
+          "sample_values": [
+            59.19,
+            59.02,
+            58.18
+          ]
+        },
+        "Smart Water Meters (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 111,
+          "sample_values": [
+            33.3,
+            38.33,
+            21.98
+          ]
+        },
+        "Smart Electricity Meters (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 102,
+          "sample_values": [
+            43.4,
+            31.03,
+            37.43
+          ]
+        },
+        "Dynamic Public Transport Information (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 173,
+          "sample_values": [
+            10.04,
+            10.12,
+            9.59
+          ]
+        },
+        "Traffic Monitoring (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 169,
+          "sample_values": [
+            15.3,
+            15.44,
+            14.51
+          ]
+        },
+        "Availability of WIFI in Public Areas (count)": {
+          "dtype": "int64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 65,
+          "sample_values": [
+            137,
+            149,
+            152
+          ]
+        },
+        "Water Supply ICT Monitoring (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 169,
+          "sample_values": [
+            31.31,
+            28.64,
+            31.26
+          ]
+        },
+        "Drainage / Storm Water System ICT Monitoring (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 167,
+          "sample_values": [
+            20.72,
+            20.66,
+            19.64
+          ]
+        },
+        "Electricity Supply ICT Monitoring (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 170,
+          "sample_values": [
+            33.88,
+            35.79,
+            36.72
+          ]
+        },
+        "Demand Response Penetration (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 164,
+          "sample_values": [
+            10.05,
+            9.66,
+            9.68
+          ]
+        },
+        "Intersection Control (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 169,
+          "sample_values": [
+            15.48,
+            15.64,
+            14.32
+          ]
+        },
+        "Open data (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 155,
+          "sample_values": [
+            4.85,
+            4.87,
+            4.78
+          ]
+        },
+        "e-Government (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 165,
+          "sample_values": [
+            19.07,
+            19.31,
+            20.38
+          ]
+        },
+        "Public Sector e-procurement (%)": {
+          "dtype": "float64",
+          "non_null": 180,
+          "null_percentage": 0.0,
+          "unique_values": 175,
+          "sample_values": [
+            24.2,
+            24.0,
+            23.97
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Year"
+      ],
+      "time_ranges": {
+        "Year": {
+          "min": 2019,
+          "max": 2024,
+          "range_years": 5
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City",
+        "Smart Electricity Meters (%)",
+        "Electricity Supply ICT Monitoring (%)"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Year": {
+        "mean": 2021.5,
+        "median": 2021.5,
+        "std": 1.713,
+        "min": 2019.0,
+        "max": 2024.0
+      },
+      "Household Internet Access (%)": {
+        "mean": 72.998,
+        "median": 72.985,
+        "std": 8.985,
+        "min": 53.65,
+        "max": 92.63
+      },
+      "Fixed Broadband Subscriptions (%)": {
+        "mean": 45.9,
+        "median": 46.685,
+        "std": 8.39,
+        "min": 23.97,
+        "max": 60.72
+      },
+      "Wireless Broadband Subscriptions (%)": {
+        "mean": 56.287,
+        "median": 56.0,
+        "std": 8.717,
+        "min": 33.0,
+        "max": 72.88
+      },
+      "Wireless Broadband Coverage 3G (%)": {
+        "mean": 93.24,
+        "median": 93.475,
+        "std": 3.124,
+        "min": 85.57,
+        "max": 99.56
+      },
+      "Wireless Broadband Coverage 4G (%)": {
+        "mean": 72.327,
+        "median": 72.255,
+        "std": 8.792,
+        "min": 57.11,
+        "max": 88.28
+      },
+      "Smart Water Meters (%)": {
+        "mean": 29.933,
+        "median": 27.59,
+        "std": 7.813,
+        "min": 9.92,
+        "max": 47.24
+      },
+      "Smart Electricity Meters (%)": {
+        "mean": 35.485,
+        "median": 31.8,
+        "std": 9.653,
+        "min": 16.99,
+        "max": 56.83
+      },
+      "Dynamic Public Transport Information (%)": {
+        "mean": 20.019,
+        "median": 19.885,
+        "std": 6.886,
+        "min": 9.5,
+        "max": 31.46
+      },
+      "Traffic Monitoring (%)": {
+        "mean": 27.642,
+        "median": 27.315,
+        "std": 8.643,
+        "min": 14.27,
+        "max": 41.74
+      },
+      "Availability of WIFI in Public Areas (count)": {
+        "mean": 105.467,
+        "median": 103.5,
+        "std": 20.298,
+        "min": 67.0,
+        "max": 172.0
+      },
+      "Water Supply ICT Monitoring (%)": {
+        "mean": 42.372,
+        "median": 42.345,
+        "std": 8.612,
+        "min": 28.64,
+        "max": 57.4
+      },
+      "Drainage / Storm Water System ICT Monitoring (%)": {
+        "mean": 30.104,
+        "median": 30.03,
+        "std": 6.938,
+        "min": 19.17,
+        "max": 41.97
+      },
+      "Electricity Supply ICT Monitoring (%)": {
+        "mean": 47.804,
+        "median": 47.365,
+        "std": 8.725,
+        "min": 33.25,
+        "max": 62.95
+      },
+      "Demand Response Penetration (%)": {
+        "mean": 17.554,
+        "median": 17.515,
+        "std": 5.177,
+        "min": 9.6,
+        "max": 26.23
+      },
+      "Intersection Control (%)": {
+        "mean": 22.411,
+        "median": 22.445,
+        "std": 5.162,
+        "min": 14.32,
+        "max": 31.41
+      },
+      "Open data (%)": {
+        "mean": 9.937,
+        "median": 9.935,
+        "std": 3.418,
+        "min": 4.75,
+        "max": 15.68
+      },
+      "e-Government (%)": {
+        "mean": 30.018,
+        "median": 29.935,
+        "std": 6.931,
+        "min": 19.07,
+        "max": 41.95
+      },
+      "Public Sector e-procurement (%)": {
+        "mean": 37.595,
+        "median": 37.43,
+        "std": 8.654,
+        "min": 23.85,
+        "max": 52.42
+      }
+    },
+    "domain": "Digital Infrastructure",
+    "last_updated": "2025-10-19T06:47:26.611077"
+  },
+  "Length_of_National_Highways": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\Length_of_National_Highways.csv",
+    "schema": {
+      "rows": 37,
+      "columns": 14,
+      "column_info": {
+        "Unnamed: 0": {
+          "dtype": "int64",
+          "non_null": 37,
+          "null_percentage": 0.0,
+          "unique_values": 37,
+          "sample_values": [
+            0,
+            1,
+            2
+          ]
+        },
+        "States/UTs": {
+          "dtype": "object",
+          "non_null": 37,
+          "null_percentage": 0.0,
+          "unique_values": 37,
+          "sample_values": [
+            "Andhra Pradesh",
+            "Arunachal Pradesh",
+            "Assam"
+          ]
+        },
+        "2004": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4472.0,
+            392.0,
+            2836.0
+          ]
+        },
+        "2005": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4472.0,
+            392.0,
+            2836.0
+          ]
+        },
+        "2006": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4472.0,
+            392.0,
+            2836.0
+          ]
+        },
+        "2007": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4472.0,
+            392.0,
+            2836.0
+          ]
+        },
+        "2008": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4472.0,
+            392.0,
+            2836.0
+          ]
+        },
+        "2009": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4537.0,
+            1992.0,
+            2836.0
+          ]
+        },
+        "2010": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4537.0,
+            1992.0,
+            2836.0
+          ]
+        },
+        "2011": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4537.0,
+            1992.0,
+            2836.0
+          ]
+        },
+        "2012": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            4537.0,
+            2027.0,
+            2940.0
+          ]
+        },
+        "2013": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 10.81,
+          "unique_values": 33,
+          "sample_values": [
+            5022.0,
+            2027.0,
+            2940.0
+          ]
+        },
+        "2014": {
+          "dtype": "float64",
+          "non_null": 35,
+          "null_percentage": 5.41,
+          "unique_values": 35,
+          "sample_values": [
+            6590.0,
+            2027.0,
+            3634.0
+          ]
+        },
+        "2015": {
+          "dtype": "float64",
+          "non_null": 36,
+          "null_percentage": 2.7,
+          "unique_values": 36,
+          "sample_values": [
+            4670.0,
+            2513.0,
+            3784.0
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 91.7,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "2004",
+        "2005",
+        "2006",
+        "2007",
+        "2008",
+        "2009",
+        "2010",
+        "2011",
+        "2012",
+        "2013",
+        "2014",
+        "2015"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "States/UTs"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Unnamed: 0": {
+        "mean": 18.0,
+        "median": 18.0,
+        "std": 10.824,
+        "min": 0.0,
+        "max": 36.0
+      },
+      "2004": {
+        "mean": 3973.879,
+        "median": 1557.0,
+        "std": 11193.361,
+        "min": 24.0,
+        "max": 65569.0
+      },
+      "2005": {
+        "mean": 3973.879,
+        "median": 1557.0,
+        "std": 11193.361,
+        "min": 24.0,
+        "max": 65569.0
+      },
+      "2006": {
+        "mean": 4035.758,
+        "median": 1557.0,
+        "std": 11364.042,
+        "min": 24.0,
+        "max": 66590.0
+      },
+      "2007": {
+        "mean": 4035.758,
+        "median": 1557.0,
+        "std": 11364.042,
+        "min": 24.0,
+        "max": 66590.0
+      },
+      "2008": {
+        "mean": 4045.697,
+        "median": 1557.0,
+        "std": 11391.491,
+        "min": 24.0,
+        "max": 66754.0
+      },
+      "2009": {
+        "mean": 4275.636,
+        "median": 1805.0,
+        "std": 12035.21,
+        "min": 24.0,
+        "max": 70548.0
+      },
+      "2010": {
+        "mean": 4299.03,
+        "median": 1805.0,
+        "std": 12102.014,
+        "min": 24.0,
+        "max": 70934.0
+      },
+      "2011": {
+        "mean": 4275.636,
+        "median": 1805.0,
+        "std": 12035.21,
+        "min": 24.0,
+        "max": 70548.0
+      },
+      "2012": {
+        "mean": 4655.606,
+        "median": 2027.0,
+        "std": 13113.071,
+        "min": 24.0,
+        "max": 76818.0
+      },
+      "2013": {
+        "mean": 4794.909,
+        "median": 2027.0,
+        "std": 13502.94,
+        "min": 24.0,
+        "max": 79116.0
+      },
+      "2014": {
+        "mean": 5216.4,
+        "median": 2196.0,
+        "std": 15158.528,
+        "min": 22.0,
+        "max": 91287.0
+      },
+      "2015": {
+        "mean": 5443.944,
+        "median": 2553.0,
+        "std": 16033.948,
+        "min": 15.0,
+        "max": 97991.0
+      }
+    },
+    "domain": "Transportation Infrastructure",
+    "last_updated": "2025-10-19T06:47:26.624023"
+  },
+  "nin-health-facilities": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\nin-health-facilities.csv",
+    "schema": {
+      "rows": 192904,
+      "columns": 11,
+      "column_info": {
+        "SrNo": {
+          "dtype": "int64",
+          "non_null": 192904,
+          "null_percentage": 0.0,
+          "unique_values": 192904,
+          "sample_values": [
+            1,
+            2,
+            3
+          ]
+        },
+        "Health Facility Name": {
+          "dtype": "object",
+          "non_null": 192901,
+          "null_percentage": 0.0,
+          "unique_values": 159097,
+          "sample_values": [
+            "Chunawadh",
+            "11 G CHOOTI",
+            "27GG"
+          ]
+        },
+        "pincode": {
+          "dtype": "object",
+          "non_null": 156520,
+          "null_percentage": 18.86,
+          "unique_values": 15398,
+          "sample_values": [
+            "335022",
+            "335022",
+            "335022"
+          ]
+        },
+        "latitude": {
+          "dtype": "object",
+          "non_null": 192763,
+          "null_percentage": 0.07,
+          "unique_values": 142100,
+          "sample_values": [
+            "29.08210684",
+            "29.859938",
+            "29.84301"
+          ]
+        },
+        "longitude": {
+          "dtype": "object",
+          "non_null": 192688,
+          "null_percentage": 0.11,
+          "unique_values": 133544,
+          "sample_values": [
+            "73.7273276",
+            "73.673635",
+            "73.688201"
+          ]
+        },
+        "altitude": {
+          "dtype": "object",
+          "non_null": 192901,
+          "null_percentage": 0.0,
+          "unique_values": 15066,
+          "sample_values": [
+            "0",
+            "0",
+            "0"
+          ]
+        },
+        "Facility Type": {
+          "dtype": "object",
+          "non_null": 192885,
+          "null_percentage": 0.01,
+          "unique_values": 314,
+          "sample_values": [
+            "Community Health Center",
+            "SubCentre",
+            "SubCentre"
+          ]
+        },
+        "State_Name": {
+          "dtype": "object",
+          "non_null": 192903,
+          "null_percentage": 0.0,
+          "unique_values": 130,
+          "sample_values": [
+            "Rajasthan",
+            "Rajasthan",
+            "Rajasthan"
+          ]
+        },
+        "District_Name": {
+          "dtype": "object",
+          "non_null": 192903,
+          "null_percentage": 0.0,
+          "unique_values": 689,
+          "sample_values": [
+            "Ganganagar ",
+            "Ganganagar ",
+            "Ganganagar "
+          ]
+        },
+        "Taluka_Name": {
+          "dtype": "object",
+          "non_null": 192904,
+          "null_percentage": 0.0,
+          "unique_values": 5073,
+          "sample_values": [
+            "Ganganagar",
+            "Ganganagar",
+            "Ganganagar"
+          ]
+        },
+        "Unnamed: 10": {
+          "dtype": "object",
+          "non_null": 2,
+          "null_percentage": 100.0,
+          "unique_values": 2,
+          "sample_values": [
+            "SIRUGUPPA ",
+            "DURG"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 89.18,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "Health Facility Name",
+        "pincode",
+        "latitude",
+        "longitude",
+        "altitude",
+        "Facility Type",
+        "State_Name",
+        "District_Name",
+        "Unnamed: 10"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "latitude",
+        "longitude",
+        "State_Name"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "SrNo": {
+        "mean": 96453.443,
+        "median": 96453.5,
+        "std": 55686.825,
+        "min": 1.0,
+        "max": 192905.0
+      }
+    },
+    "domain": "Healthcare Infrastructure",
+    "last_updated": "2025-10-19T06:47:27.869623"
+  },
+  "phcdoclabasstpharma2012mar": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\phcdoclabasstpharma2012mar.csv",
+    "schema": {
+      "rows": 36,
+      "columns": 10,
+      "column_info": {
+        "State/UT": {
+          "dtype": "object",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 36,
+          "sample_values": [
+            "Andhra Pradesh",
+            "Arunachal Pradesh#",
+            "Assam"
+          ]
+        },
+        "Total PHCs functioning": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 35,
+          "sample_values": [
+            1624,
+            97,
+            975
+          ]
+        },
+        "Number of PHCs functioning with 4+ doctors": {
+          "dtype": "float64",
+          "non_null": 34,
+          "null_percentage": 5.56,
+          "unique_values": 15,
+          "sample_values": [
+            0.0,
+            2.0,
+            78.0
+          ]
+        },
+        "Number of PHCs functioning with 3 doctors": {
+          "dtype": "float64",
+          "non_null": 34,
+          "null_percentage": 5.56,
+          "unique_values": 20,
+          "sample_values": [
+            105.0,
+            4.0,
+            102.0
+          ]
+        },
+        "Number of PHCs functioning with 2 doctors": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 8.33,
+          "unique_values": 28,
+          "sample_values": [
+            656.0,
+            33.0,
+            379.0
+          ]
+        },
+        "Number of PHCs functioning with 1 doctor": {
+          "dtype": "float64",
+          "non_null": 34,
+          "null_percentage": 5.56,
+          "unique_values": 30,
+          "sample_values": [
+            863.0,
+            48.0,
+            416.0
+          ]
+        },
+        "Number of PHCs functioning without doctor": {
+          "dtype": "float64",
+          "non_null": 33,
+          "null_percentage": 8.33,
+          "unique_values": 14,
+          "sample_values": [
+            0.0,
+            10.0,
+            0.0
+          ]
+        },
+        "Number of PHCs functioning without lab tech": {
+          "dtype": "float64",
+          "non_null": 34,
+          "null_percentage": 5.56,
+          "unique_values": 27,
+          "sample_values": [
+            251.0,
+            55.0,
+            241.0
+          ]
+        },
+        "Number of PHCs functioning without pharma": {
+          "dtype": "int64",
+          "non_null": 36,
+          "null_percentage": 0.0,
+          "unique_values": 28,
+          "sample_values": [
+            314,
+            64,
+            136
+          ]
+        },
+        "Number of PHCs functioning with lady doctor": {
+          "dtype": "float64",
+          "non_null": 35,
+          "null_percentage": 2.78,
+          "unique_values": 33,
+          "sample_values": [
+            929.0,
+            20.0,
+            363.0
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 95.83,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "Number of PHCs functioning with 4+ doctors",
+        "Number of PHCs functioning with 3 doctors",
+        "Number of PHCs functioning with 2 doctors",
+        "Number of PHCs functioning with 1 doctor",
+        "Number of PHCs functioning without doctor",
+        "Number of PHCs functioning without lab tech",
+        "Number of PHCs functioning with lady doctor"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "State/UT"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Total PHCs functioning": {
+        "mean": 1336.056,
+        "median": 421.5,
+        "std": 3980.24,
+        "min": 0.0,
+        "max": 24049.0
+      },
+      "Number of PHCs functioning with 4+ doctors": {
+        "mean": 47.706,
+        "median": 2.0,
+        "std": 153.874,
+        "min": 0.0,
+        "max": 811.0
+      },
+      "Number of PHCs functioning with 3 doctors": {
+        "mean": 64.353,
+        "median": 8.5,
+        "std": 198.919,
+        "min": 0.0,
+        "max": 1094.0
+      },
+      "Number of PHCs functioning with 2 doctors": {
+        "mean": 344.061,
+        "median": 62.0,
+        "std": 1005.994,
+        "min": 0.0,
+        "max": 5677.0
+      },
+      "Number of PHCs functioning with 1 doctor": {
+        "mean": 874.882,
+        "median": 141.5,
+        "std": 2572.773,
+        "min": 0.0,
+        "max": 14873.0
+      },
+      "Number of PHCs functioning without doctor": {
+        "mean": 54.727,
+        "median": 0.0,
+        "std": 164.769,
+        "min": 0.0,
+        "max": 903.0
+      },
+      "Number of PHCs functioning without lab tech": {
+        "mean": 451.529,
+        "median": 117.5,
+        "std": 1310.015,
+        "min": 0.0,
+        "max": 7676.0
+      },
+      "Number of PHCs functioning without pharma": {
+        "mean": 308.278,
+        "median": 46.5,
+        "std": 934.356,
+        "min": 0.0,
+        "max": 5549.0
+      },
+      "Number of PHCs functioning with lady doctor": {
+        "mean": 310.743,
+        "median": 72.0,
+        "std": 918.799,
+        "min": 0.0,
+        "max": 5438.0
+      }
+    },
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:27.891740"
+  },
+  "smart_mobility_dataset": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\smart_mobility_dataset.csv",
+    "schema": {
+      "rows": 5000,
+      "columns": 15,
+      "column_info": {
+        "Timestamp": {
+          "dtype": "object",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            "2024-03-01 00:00:00",
+            "2024-03-01 00:05:00",
+            "2024-03-01 00:10:00"
+          ]
+        },
+        "Latitude": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            40.84227529289184,
+            40.8311193987152,
+            40.81954876392327
+          ]
+        },
+        "Longitude": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            -73.70314869323049,
+            -73.9873540904415,
+            -73.73246185831279
+          ]
+        },
+        "Vehicle_Count": {
+          "dtype": "int64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 290,
+          "sample_values": [
+            205,
+            202,
+            252
+          ]
+        },
+        "Traffic_Speed_kmh": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            49.89343479610332,
+            22.38396487008785,
+            46.88969943933488
+          ]
+        },
+        "Road_Occupancy_%": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            82.65277992850861,
+            45.82929780270145,
+            82.77246480269831
+          ]
+        },
+        "Traffic_Light_State": {
+          "dtype": "object",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 3,
+          "sample_values": [
+            "Yellow",
+            "Green",
+            "Green"
+          ]
+        },
+        "Weather_Condition": {
+          "dtype": "object",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 4,
+          "sample_values": [
+            "Clear",
+            "Clear",
+            "Rain"
+          ]
+        },
+        "Accident_Report": {
+          "dtype": "int64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 2,
+          "sample_values": [
+            0,
+            0,
+            0
+          ]
+        },
+        "Sentiment_Score": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            -0.6091990900689384,
+            0.965442369948869,
+            0.2896603158283986
+          ]
+        },
+        "Ride_Sharing_Demand": {
+          "dtype": "int64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 99,
+          "sample_values": [
+            2,
+            16,
+            16
+          ]
+        },
+        "Parking_Availability": {
+          "dtype": "int64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 50,
+          "sample_values": [
+            45,
+            1,
+            49
+          ]
+        },
+        "Emission_Levels_g_km": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            450.7600550695179,
+            321.8003405168867,
+            231.1526548042294
+          ]
+        },
+        "Energy_Consumption_L_h": {
+          "dtype": "float64",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 5000,
+          "sample_values": [
+            19.57433652960039,
+            5.385553512193732,
+            10.277477486419944
+          ]
+        },
+        "Traffic_Condition": {
+          "dtype": "object",
+          "non_null": 5000,
+          "null_percentage": 0.0,
+          "unique_values": 3,
+          "sample_values": [
+            "High",
+            "High",
+            "High"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Timestamp",
+        "Sentiment_Score"
+      ],
+      "time_ranges": {
+        "Timestamp": {
+          "min": "2024-03-01 00:00:00",
+          "max": "2024-03-18 08:35:00",
+          "range_days": 17
+        },
+        "Sentiment_Score": {
+          "min": "1970-01-01 00:00:00",
+          "max": "1970-01-01 00:00:00",
+          "range_days": 0
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "Latitude",
+        "Longitude",
+        "Traffic_Light_State"
+      ],
+      "coordinate_pairs": [
+        [
+          "Latitude",
+          "Longitude"
+        ]
+      ],
+      "has_coordinates": true,
+      "geographic_coverage": {
+        "lat_range": {
+          "min": 40.60001638114008,
+          "max": 40.89997245351517
+        },
+        "lon_range": {
+          "min": -73.99998703685291,
+          "max": -73.70015891091866
+        },
+        "coordinate_count": 5000
+      }
+    },
+    "key_metrics": {
+      "Latitude": {
+        "mean": 40.75,
+        "median": 40.749,
+        "std": 0.086,
+        "min": 40.6,
+        "max": 40.9
+      },
+      "Longitude": {
+        "mean": -73.847,
+        "median": -73.846,
+        "std": 0.086,
+        "min": -74.0,
+        "max": -73.7
+      },
+      "Vehicle_Count": {
+        "mean": 153.921,
+        "median": 156.0,
+        "std": 83.523,
+        "min": 10.0,
+        "max": 299.0
+      },
+      "Traffic_Speed_kmh": {
+        "mean": 42.111,
+        "median": 42.192,
+        "std": 21.708,
+        "min": 5.003,
+        "max": 79.998
+      },
+      "Road_Occupancy_%": {
+        "mean": 54.748,
+        "median": 54.657,
+        "std": 26.145,
+        "min": 10.005,
+        "max": 100.0
+      },
+      "Accident_Report": {
+        "mean": 0.096,
+        "median": 0.0,
+        "std": 0.295,
+        "min": 0.0,
+        "max": 1.0
+      },
+      "Sentiment_Score": {
+        "mean": -0.006,
+        "median": -0.011,
+        "std": 0.584,
+        "min": -1.0,
+        "max": 0.999
+      },
+      "Ride_Sharing_Demand": {
+        "mean": 50.488,
+        "median": 50.0,
+        "std": 28.484,
+        "min": 1.0,
+        "max": 99.0
+      },
+      "Parking_Availability": {
+        "mean": 24.613,
+        "median": 24.0,
+        "std": 14.533,
+        "min": 0.0,
+        "max": 49.0
+      },
+      "Emission_Levels_g_km": {
+        "mean": 272.175,
+        "median": 272.046,
+        "std": 130.086,
+        "min": 50.137,
+        "max": 499.923
+      },
+      "Energy_Consumption_L_h": {
+        "mean": 17.343,
+        "median": 17.154,
+        "std": 7.208,
+        "min": 5.004,
+        "max": 29.995
+      }
+    },
+    "domain": "Smart Mobility & Traffic",
+    "last_updated": "2025-10-19T06:47:27.942785"
+  },
+  "stations": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\stations.csv",
+    "schema": {
+      "rows": 10,
+      "columns": 2,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 10,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "Delhi",
+            "Delhi",
+            "Mumbai"
+          ]
+        },
+        "Station": {
+          "dtype": "object",
+          "non_null": 10,
+          "null_percentage": 0.0,
+          "unique_values": 10,
+          "sample_values": [
+            "Station_D1",
+            "Station_D2",
+            "Station_M1"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {},
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:27.948118"
+  },
+  "station_day": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\station_day.csv",
+    "schema": {
+      "rows": 36530,
+      "columns": 17,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "Delhi",
+            "Delhi",
+            "Mumbai"
+          ]
+        },
+        "Datetime": {
+          "dtype": "object",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 3653,
+          "sample_values": [
+            "2015-01-01",
+            "2015-01-01",
+            "2015-01-01"
+          ]
+        },
+        "Station": {
+          "dtype": "object",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 10,
+          "sample_values": [
+            "Station_D1",
+            "Station_D2",
+            "Station_M1"
+          ]
+        },
+        "PM2.5": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 5001,
+          "sample_values": [
+            58.3,
+            222.5,
+            36.6
+          ]
+        },
+        "PM10": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 5986,
+          "sample_values": [
+            223.2,
+            541.4,
+            160.8
+          ]
+        },
+        "NO": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            126.6,
+            198.6,
+            164.2
+          ]
+        },
+        "NO2": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 1501,
+          "sample_values": [
+            85.5,
+            20.8,
+            18.6
+          ]
+        },
+        "NOx": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 2501,
+          "sample_values": [
+            207.5,
+            0.6,
+            94.8
+          ]
+        },
+        "NH3": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 501,
+          "sample_values": [
+            18.4,
+            25.5,
+            8.9
+          ]
+        },
+        "CO": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            0.25,
+            6.21,
+            6.84
+          ]
+        },
+        "SO2": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            42.7,
+            95.0,
+            70.7
+          ]
+        },
+        "O3": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            184.9,
+            76.2,
+            195.4
+          ]
+        },
+        "Benzene": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 2001,
+          "sample_values": [
+            8.03,
+            17.69,
+            5.53
+          ]
+        },
+        "Toluene": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 3001,
+          "sample_values": [
+            12.72,
+            13.85,
+            26.93
+          ]
+        },
+        "Xylene": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            4.1,
+            2.79,
+            2.64
+          ]
+        },
+        "AQI": {
+          "dtype": "float64",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 4996,
+          "sample_values": [
+            266.4,
+            185.3,
+            5.9
+          ]
+        },
+        "AQI_Bucket": {
+          "dtype": "object",
+          "non_null": 36530,
+          "null_percentage": 0.0,
+          "unique_values": 6,
+          "sample_values": [
+            "Moderate",
+            "Poor",
+            "Moderate"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Datetime"
+      ],
+      "time_ranges": {
+        "Datetime": {
+          "min": "2015-01-01 00:00:00",
+          "max": "2024-12-31 00:00:00",
+          "range_days": 3652
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "PM2.5": {
+        "mean": 251.063,
+        "median": 252.6,
+        "std": 144.238,
+        "min": 0.0,
+        "max": 500.0
+      },
+      "PM10": {
+        "mean": 299.846,
+        "median": 298.4,
+        "std": 172.75,
+        "min": 0.0,
+        "max": 600.0
+      },
+      "NO": {
+        "mean": 99.873,
+        "median": 99.5,
+        "std": 57.686,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "NO2": {
+        "mean": 75.116,
+        "median": 75.3,
+        "std": 43.2,
+        "min": 0.0,
+        "max": 150.0
+      },
+      "NOx": {
+        "mean": 124.657,
+        "median": 124.4,
+        "std": 72.265,
+        "min": 0.0,
+        "max": 250.0
+      },
+      "NH3": {
+        "mean": 25.075,
+        "median": 25.2,
+        "std": 14.369,
+        "min": 0.0,
+        "max": 50.0
+      },
+      "CO": {
+        "mean": 4.975,
+        "median": 4.96,
+        "std": 2.889,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "SO2": {
+        "mean": 49.852,
+        "median": 49.8,
+        "std": 28.884,
+        "min": 0.0,
+        "max": 100.0
+      },
+      "O3": {
+        "mean": 100.295,
+        "median": 100.3,
+        "std": 57.874,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "Benzene": {
+        "mean": 9.991,
+        "median": 9.975,
+        "std": 5.785,
+        "min": 0.0,
+        "max": 20.0
+      },
+      "Toluene": {
+        "mean": 15.112,
+        "median": 15.12,
+        "std": 8.667,
+        "min": 0.0,
+        "max": 30.0
+      },
+      "Xylene": {
+        "mean": 5.012,
+        "median": 5.03,
+        "std": 2.886,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "AQI": {
+        "mean": 250.291,
+        "median": 250.8,
+        "std": 144.193,
+        "min": 0.0,
+        "max": 500.0
+      }
+    },
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:28.128080"
+  },
+  "station_hour": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\station_hour.csv",
+    "schema": {
+      "rows": 7210,
+      "columns": 17,
+      "column_info": {
+        "City": {
+          "dtype": "object",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 5,
+          "sample_values": [
+            "Delhi",
+            "Delhi",
+            "Mumbai"
+          ]
+        },
+        "Datetime": {
+          "dtype": "object",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 721,
+          "sample_values": [
+            "2015-01-01 00:00:00",
+            "2015-01-01 00:00:00",
+            "2015-01-01 00:00:00"
+          ]
+        },
+        "Station": {
+          "dtype": "object",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 10,
+          "sample_values": [
+            "Station_D1",
+            "Station_D2",
+            "Station_M1"
+          ]
+        },
+        "PM2.5": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 3789,
+          "sample_values": [
+            243.1,
+            476.7,
+            463.9
+          ]
+        },
+        "PM10": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 4201,
+          "sample_values": [
+            193.5,
+            504.0,
+            92.7
+          ]
+        },
+        "NO": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1941,
+          "sample_values": [
+            182.4,
+            172.4,
+            142.5
+          ]
+        },
+        "NO2": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1487,
+          "sample_values": [
+            58.8,
+            80.7,
+            21.7
+          ]
+        },
+        "NOx": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 2374,
+          "sample_values": [
+            100.9,
+            114.4,
+            130.2
+          ]
+        },
+        "NH3": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 501,
+          "sample_values": [
+            30.4,
+            30.3,
+            11.3
+          ]
+        },
+        "CO": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            3.08,
+            7.96,
+            4.89
+          ]
+        },
+        "SO2": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1001,
+          "sample_values": [
+            24.3,
+            48.1,
+            99.5
+          ]
+        },
+        "O3": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1946,
+          "sample_values": [
+            166.7,
+            72.9,
+            166.5
+          ]
+        },
+        "Benzene": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 1951,
+          "sample_values": [
+            12.66,
+            8.35,
+            15.96
+          ]
+        },
+        "Toluene": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 2734,
+          "sample_values": [
+            18.42,
+            26.53,
+            24.41
+          ]
+        },
+        "Xylene": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 998,
+          "sample_values": [
+            1.91,
+            1.66,
+            7.88
+          ]
+        },
+        "AQI": {
+          "dtype": "float64",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 3853,
+          "sample_values": [
+            301.5,
+            243.1,
+            14.7
+          ]
+        },
+        "AQI_Bucket": {
+          "dtype": "object",
+          "non_null": 7210,
+          "null_percentage": 0.0,
+          "unique_values": 6,
+          "sample_values": [
+            "Good",
+            "Satisfactory",
+            "Severe"
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Datetime"
+      ],
+      "time_ranges": {
+        "Datetime": {
+          "min": "2015-01-01 00:00:00",
+          "max": "2015-01-31 00:00:00",
+          "range_days": 30
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "PM2.5": {
+        "mean": 251.12,
+        "median": 250.85,
+        "std": 143.122,
+        "min": 0.0,
+        "max": 499.7
+      },
+      "PM10": {
+        "mean": 296.5,
+        "median": 294.05,
+        "std": 173.714,
+        "min": 0.0,
+        "max": 599.9
+      },
+      "NO": {
+        "mean": 101.43,
+        "median": 102.75,
+        "std": 57.442,
+        "min": 0.0,
+        "max": 200.0
+      },
+      "NO2": {
+        "mean": 75.853,
+        "median": 75.6,
+        "std": 43.202,
+        "min": 0.0,
+        "max": 150.0
+      },
+      "NOx": {
+        "mean": 125.027,
+        "median": 124.4,
+        "std": 72.166,
+        "min": 0.0,
+        "max": 250.0
+      },
+      "NH3": {
+        "mean": 24.86,
+        "median": 24.8,
+        "std": 14.483,
+        "min": 0.0,
+        "max": 50.0
+      },
+      "CO": {
+        "mean": 5.027,
+        "median": 5.05,
+        "std": 2.878,
+        "min": 0.0,
+        "max": 10.0
+      },
+      "SO2": {
+        "mean": 50.045,
+        "median": 50.2,
+        "std": 29.154,
+        "min": 0.0,
+        "max": 100.0
+      },
+      "O3": {
+        "mean": 100.187,
+        "median": 99.0,
+        "std": 57.771,
+        "min": 0.0,
+        "max": 199.9
+      },
+      "Benzene": {
+        "mean": 10.019,
+        "median": 10.02,
+        "std": 5.775,
+        "min": 0.0,
+        "max": 20.0
+      },
+      "Toluene": {
+        "mean": 14.967,
+        "median": 14.97,
+        "std": 8.612,
+        "min": 0.0,
+        "max": 30.0
+      },
+      "Xylene": {
+        "mean": 5.019,
+        "median": 4.99,
+        "std": 2.883,
+        "min": 0.01,
+        "max": 10.0
+      },
+      "AQI": {
+        "mean": 249.699,
+        "median": 250.2,
+        "std": 143.927,
+        "min": 0.0,
+        "max": 500.0
+      }
+    },
+    "domain": "General Urban Data",
+    "last_updated": "2025-10-19T06:47:28.190397"
+  },
+  "Total_and_Surfaced_Length_of_Rural_Roads": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\Total_and_Surfaced_Length_of_Rural_Roads.csv",
+    "schema": {
+      "rows": 32,
+      "columns": 4,
+      "column_info": {
+        "Unnamed: 0": {
+          "dtype": "int64",
+          "non_null": 32,
+          "null_percentage": 0.0,
+          "unique_values": 32,
+          "sample_values": [
+            0,
+            1,
+            2
+          ]
+        },
+        "State/ UT Name": {
+          "dtype": "object",
+          "non_null": 32,
+          "null_percentage": 0.0,
+          "unique_values": 32,
+          "sample_values": [
+            "Andhra Pradesh",
+            "Arunachal Pradesh",
+            "Assam"
+          ]
+        },
+        "Total": {
+          "dtype": "int64",
+          "non_null": 32,
+          "null_percentage": 0.0,
+          "unique_values": 32,
+          "sample_values": [
+            112787,
+            11217,
+            255389
+          ]
+        },
+        "Surfaced": {
+          "dtype": "int64",
+          "non_null": 32,
+          "null_percentage": 0.0,
+          "unique_values": 32,
+          "sample_values": [
+            62878,
+            6330,
+            27670
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "State/ UT Name"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Unnamed: 0": {
+        "mean": 15.5,
+        "median": 15.5,
+        "std": 9.381,
+        "min": 0.0,
+        "max": 31.0
+      },
+      "Total": {
+        "mean": 152328.438,
+        "median": 48961.5,
+        "std": 424986.53,
+        "min": 293.0,
+        "max": 2437255.0
+      },
+      "Surfaced": {
+        "mean": 92879.312,
+        "median": 24246.0,
+        "std": 260565.553,
+        "min": 111.0,
+        "max": 1486069.0
+      }
+    },
+    "domain": "Transportation Infrastructure",
+    "last_updated": "2025-10-19T06:47:28.196748"
+  },
+  "Total_Road_Length_by_Category_of_Roads": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\Total_Road_Length_by_Category_of_Roads.csv",
+    "schema": {
+      "rows": 20,
+      "columns": 20,
+      "column_info": {
+        "Unnamed: 0": {
+          "dtype": "int64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            0,
+            1,
+            2
+          ]
+        },
+        "Year (As On 31st March)": {
+          "dtype": "int64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            1951,
+            1961,
+            1971
+          ]
+        },
+        "National Highways : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 16,
+          "sample_values": [
+            19811.0,
+            23798.0,
+            23838.0
+          ]
+        },
+        "National Highways : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 18,
+          "sample_values": [
+            4.95,
+            4.54,
+            2.61
+          ]
+        },
+        "State Highways : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 18,
+          "null_percentage": 10.0,
+          "unique_values": 18,
+          "sample_values": [
+            56765.0,
+            94359.0,
+            127311.0
+          ]
+        },
+        "State Highways : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 16,
+          "sample_values": [
+            0.0,
+            0.0,
+            6.2
+          ]
+        },
+        "Other PWD Roads : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            173723.0,
+            257125.0,
+            276833.0
+          ]
+        },
+        "Other PWD Roads : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 19,
+          "sample_values": [
+            43.44,
+            49.02,
+            30.26
+          ]
+        },
+        "Panchayat Raj Roads : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            206408.0,
+            197194.0,
+            354530.0
+          ]
+        },
+        "Panchayat Raj Roads : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 20,
+          "sample_values": [
+            51.61,
+            37.6,
+            38.75
+          ]
+        },
+        "JRY & PMGSY Roads : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 16,
+          "sample_values": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "JRY & PMGSY Roads : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 20,
+          "null_percentage": 0.0,
+          "unique_values": 17,
+          "sample_values": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "Urban Roads : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 19,
+          "sample_values": [
+            0.0,
+            46361.0,
+            72120.0
+          ]
+        },
+        "Urban Roads : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 19,
+          "sample_values": [
+            0.0,
+            8.84,
+            7.88
+          ]
+        },
+        "Project Roads : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 18,
+          "sample_values": [
+            0.0,
+            0.0,
+            130893.0
+          ]
+        },
+        "Project Roads : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 18,
+          "sample_values": [
+            0.0,
+            0.0,
+            14.31
+          ]
+        },
+        "Surfaced : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 19,
+          "sample_values": [
+            157019.0,
+            263052.0,
+            397948.0
+          ]
+        },
+        "Surfaced : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 19,
+          "sample_values": [
+            39.26,
+            50.16,
+            43.49
+          ]
+        },
+        "Total : Length In Kms": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 19,
+          "sample_values": [
+            399942.0,
+            524478.0,
+            914979.0
+          ]
+        },
+        "Total : Length In Percentage": {
+          "dtype": "float64",
+          "non_null": 19,
+          "null_percentage": 5.0,
+          "unique_values": 1,
+          "sample_values": [
+            100.0,
+            100.0,
+            100.0
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 97.5,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [
+        "State Highways : Length In Kms",
+        "Urban Roads : Length In Kms",
+        "Urban Roads : Length In Percentage",
+        "Project Roads : Length In Kms",
+        "Project Roads : Length In Percentage",
+        "Surfaced : Length In Kms",
+        "Surfaced : Length In Percentage",
+        "Total : Length In Kms",
+        "Total : Length In Percentage"
+      ],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [
+        "Year (As On 31st March)"
+      ],
+      "time_ranges": {
+        "Year (As On 31st March)": {
+          "min": 1951,
+          "max": 2015,
+          "range_years": 64
+        }
+      },
+      "has_temporal_data": true
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "State Highways : Length In Kms",
+        "State Highways : Length In Percentage"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Unnamed: 0": {
+        "mean": 9.5,
+        "median": 9.5,
+        "std": 5.916,
+        "min": 0.0,
+        "max": 19.0
+      },
+      "Year (As On 31st March)": {
+        "mean": 1998.75,
+        "median": 2005.5,
+        "std": 18.373,
+        "min": 1951.0,
+        "max": 2015.0
+      },
+      "National Highways : Length In Kms": {
+        "mean": 59771.456,
+        "median": 66079.5,
+        "std": 22191.52,
+        "min": 19811.0,
+        "max": 97991.12
+      },
+      "National Highways : Length In Percentage": {
+        "mean": 2.024,
+        "median": 1.695,
+        "std": 0.967,
+        "min": 1.45,
+        "max": 4.95
+      },
+      "State Highways : Length In Kms": {
+        "mean": 142753.314,
+        "median": 150162.5,
+        "std": 28773.884,
+        "min": 56765.0,
+        "max": 170818.135
+      },
+      "State Highways : Length In Percentage": {
+        "mean": 3.599,
+        "median": 3.72,
+        "std": 1.538,
+        "min": 0.0,
+        "max": 6.35
+      },
+      "Other PWD Roads : Length In Kms": {
+        "mean": 749318.749,
+        "median": 794949.5,
+        "std": 286796.063,
+        "min": 173723.0,
+        "max": 1101178.0
+      },
+      "Other PWD Roads : Length In Percentage": {
+        "mean": 24.189,
+        "median": 21.01,
+        "std": 8.057,
+        "min": 19.75,
+        "max": 49.02
+      },
+      "Panchayat Raj Roads : Length In Kms": {
+        "mean": 1187646.808,
+        "median": 1308860.5,
+        "std": 497957.655,
+        "min": 197194.0,
+        "max": 1831043.0
+      },
+      "Panchayat Raj Roads : Length In Percentage": {
+        "mean": 35.442,
+        "median": 33.625,
+        "std": 4.73,
+        "min": 31.66,
+        "max": 51.61
+      },
+      "JRY & PMGSY Roads : Length In Kms": {
+        "mean": 863992.193,
+        "median": 978421.5,
+        "std": 510965.331,
+        "min": 0.0,
+        "max": 1506212.0
+      },
+      "JRY & PMGSY Roads : Length In Percentage": {
+        "mean": 20.387,
+        "median": 25.665,
+        "std": 10.825,
+        "min": 0.0,
+        "max": 27.83
+      },
+      "Urban Roads : Length In Kms": {
+        "mean": 277305.152,
+        "median": 297259.0,
+        "std": 138886.249,
+        "min": 0.0,
+        "max": 464294.0
+      },
+      "Urban Roads : Length In Percentage": {
+        "mean": 7.735,
+        "median": 8.29,
+        "std": 1.97,
+        "min": 0.0,
+        "max": 9.54
+      },
+      "Project Roads : Length In Kms": {
+        "mean": 226286.476,
+        "median": 261625.0,
+        "std": 90587.847,
+        "min": 0.0,
+        "max": 310955.0
+      },
+      "Project Roads : Length In Percentage": {
+        "mean": 6.645,
+        "median": 6.57,
+        "std": 3.255,
+        "min": 0.0,
+        "max": 14.31
+      },
+      "Surfaced : Length In Kms": {
+        "mean": 1753899.184,
+        "median": 1795298.0,
+        "std": 906537.17,
+        "min": 157019.0,
+        "max": 3220502.49
+      },
+      "Surfaced : Length In Percentage": {
+        "mean": 49.805,
+        "median": 48.49,
+        "std": 5.142,
+        "min": 39.26,
+        "max": 60.61
+      },
+      "Total : Length In Kms": {
+        "mean": 3402571.128,
+        "median": 3809156.0,
+        "std": 1550970.154,
+        "min": 399942.0,
+        "max": 5402485.625
+      },
+      "Total : Length In Percentage": {
+        "mean": 100.0,
+        "median": 100.0,
+        "std": 0.0,
+        "min": 100.0,
+        "max": 100.0
+      }
+    },
+    "domain": "Transportation Infrastructure",
+    "last_updated": "2025-10-19T06:47:28.211172"
+  },
+  "World Largest Cities by Population 2024": {
+    "file_path": "C:\\Users\\91892\\OneDrive\\Desktop\\City Insights 360\\World Largest Cities by Population 2024.csv",
+    "schema": {
+      "rows": 801,
+      "columns": 6,
+      "column_info": {
+        "Unnamed: 0": {
+          "dtype": "int64",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 801,
+          "sample_values": [
+            0,
+            1,
+            2
+          ]
+        },
+        "City": {
+          "dtype": "object",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 797,
+          "sample_values": [
+            "Tokyo",
+            "Delhi",
+            "Shanghai"
+          ]
+        },
+        "Country": {
+          "dtype": "object",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 132,
+          "sample_values": [
+            "Japan",
+            "India",
+            "China"
+          ]
+        },
+        "Population (2024)": {
+          "dtype": "int64",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 801,
+          "sample_values": [
+            37115035,
+            33807403,
+            29867918
+          ]
+        },
+        "Population (2023)": {
+          "dtype": "int64",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 801,
+          "sample_values": [
+            37194105,
+            32941309,
+            29210808
+          ]
+        },
+        "Growth Rate": {
+          "dtype": "float64",
+          "non_null": 801,
+          "null_percentage": 0.0,
+          "unique_values": 376,
+          "sample_values": [
+            -0.0021,
+            0.0263,
+            0.0225
+          ]
+        }
+      }
+    },
+    "data_quality": {
+      "completeness": 100.0,
+      "duplicate_rows": 0,
+      "duplicate_percentage": 0.0,
+      "columns_with_nulls": [],
+      "data_consistency": {}
+    },
+    "temporal_info": {
+      "temporal_columns": [],
+      "time_ranges": {},
+      "has_temporal_data": false
+    },
+    "spatial_info": {
+      "spatial_columns": [
+        "City",
+        "Country",
+        "Population (2024)",
+        "Population (2023)"
+      ],
+      "coordinate_pairs": [],
+      "has_coordinates": false,
+      "geographic_coverage": {}
+    },
+    "key_metrics": {
+      "Unnamed: 0": {
+        "mean": 400.0,
+        "median": 400.0,
+        "std": 231.373,
+        "min": 0.0,
+        "max": 800.0
+      },
+      "Population (2024)": {
+        "mean": 2654327.33,
+        "median": 1379368.0,
+        "std": 3723253.275,
+        "min": 750036.0,
+        "max": 37115035.0
+      },
+      "Population (2023)": {
+        "mean": 2604461.227,
+        "median": 1363510.0,
+        "std": 3661200.835,
+        "min": 722836.0,
+        "max": 37194105.0
+      },
+      "Growth Rate": {
+        "mean": 0.02,
+        "median": 0.02,
+        "std": 0.012,
+        "min": -0.025,
+        "max": 0.058
+      }
+    },
+    "domain": "Demographics & Economics",
+    "last_updated": "2025-10-19T06:47:28.225404"
+  }
+}
