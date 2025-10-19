@@ -1,0 +1,38 @@
+# Ignore all CSV data files (sensitive/large)
+*.csv
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Python virtual environments
+venv/
+.env/
+
+# Environment variables and secrets
+.env.local
+.env.*.local
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# joblib models (if you want to keep them out of version control)
+*.joblib
+
+# Logs
+*.log
+
+# Ignore local analytics outputs if present
+analytics_output/
+predictive_models/models/
+
+# Allow README and configs
+!README.md
+!data_catalog.json
