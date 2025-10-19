@@ -1,5 +1,13 @@
-# Ignore all CSV data files (sensitive/large)
+# Ignore all CSV and Excel data files (sensitive/large)
 *.csv
+# Excel files and temporary Excel lock files
+*.xls
+*.xlsx
+*.xlsm
+*.xlsb
+*.ods
+~$*
+*.numbers
 
 # Byte-compiled / cache
 __pycache__/
