@@ -224,16 +224,6 @@ This will:
 * Bridging BI dashboards with predictive analytics
 * Translating ML outputs into business insights
 
----
-
-## 🔮 Future Enhancements
-
-* Time-series forecasting (ARIMA / Prophet / LSTM)
-* Real-time data integration via APIs
-* Automated dashboard refresh pipelines
-* Scenario-based policy simulations
-
----
 
 ## 👤 Author
 
@@ -243,4 +233,4 @@ This will:
 
 =======
 *City Insights 360 - Empowering Smart Cities Through Data Analytics*
->>>>>>> c2a16eb9ccbbaa8dd6ba8b266b9f6ace02812305
+
