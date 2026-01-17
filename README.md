@@ -205,7 +205,7 @@ This will:
 * Generate forecasts
 * Export trained models and predictions
 
----
+
 
 ## 📊 Output
 
@@ -214,8 +214,6 @@ This will:
 * Model performance summary
 * Interactive Power BI dashboards
 
-
-<<<<<<< HEAD
 ## 📈 Learning Outcomes
 
 * End-to-end analytics project execution
