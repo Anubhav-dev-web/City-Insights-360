@@ -230,7 +230,5 @@ This will:
 **Anubhav**
  Data Analyst | Python | Power BI | Machine Learning
 
-
-=======
 *City Insights 360 - Empowering Smart Cities Through Data Analytics*
 
